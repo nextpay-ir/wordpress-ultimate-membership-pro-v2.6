@@ -1,0 +1,451 @@
+/************** TOS ************************/
+.ihc-tos-wrap{
+	padding:4px 0 8px 0;
+}
+.ihc-tos-wrap input[type=checkbox]{
+	margin:0 10px;
+}
+.ihc-tos-wrap a{
+	color: #0074a2;
+	text-decoration:none !important;
+	font-size:14px;
+}
+.ihc-tos-wrap a:hover{
+	text-decoration:underline !important;
+}
+.g-recaptcha-wrapper{
+	text-align:center;
+	margin:10px 5px;
+}
+.g-recaptcha{
+	display:inline-block;
+	vertical-align:middle;
+}
+
+/*=================REGISTER=====================*/
+.iump-register-form{
+	display:inline-block;
+}
+.iump-form-line-register{
+	padding:10px 5px;
+	border-bottom:1px solid #fafafa;
+	box-sizing:border-box;
+}
+.iump-labels-register{
+	min-width:140px;
+	text-align:right;
+	padding-right:15px;
+	display: inline-block;
+}
+.iump-form-line-register select{
+	min-width:177px;
+	vertical-align: middle;
+}
+.iump-form-line-register .iump-form-checkbox, .iump-form-line-register .iump-form-radiobox, .iump-form-line-register .iump-form-paybox{
+	margin-bottom:5px;
+	margin-right:10px;
+}
+.iump-form-line-register .iump-form-checkbox input, .iump-form-line-register .iump-form-radiobox input, .iump-form-line-register .iump-form-paybox input{
+	margin-right:5px;
+    vertical-align: inherit;
+}
+
+.iump-form-line-register .iump-form-sublabel{
+	clear:both;
+	font-size:11px;
+	color:#999;
+	display:block;
+}
+.ihc-member-photo {
+    border-bottom-color: rgb(136, 136, 136);
+    border-bottom-style: none;
+    border-bottom-width: 0px;
+    border-image-outset: 0px;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
+    border-left-color: rgb(136, 136, 136);
+    border-left-style: none;
+    border-left-width: 0px;
+    border-right-color: rgb(136, 136, 136);
+    border-right-style: none;
+    border-right-width: 2px;
+    border-top-color: rgb(136, 136, 136);
+    border-top-style: none;
+    border-top-width: 0px;
+    display: block;
+    max-width: 100%;
+    width: 120px;
+	height:120px;
+    margin: 0 auto;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    border-radius: 100%;
+    zoom: 0.9;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.3);
+    border: 1px solid #fff;
+	margin:15px 3px;
+}
+.ihc-file-upload-button .ajax-file-upload,.ihc-file-upload-button  .ihc-delete-attachment-bttn, .ihc-delete-attachment-bttn{
+	 display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    margin: 0;
+    padding: 0 10px 1px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    white-space: nowrap;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;   
+		background: #2ea2cc;
+    border-color: #0074a2;
+    -webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,.5),0 1px 0 rgba(0,0,0,.15);
+    box-shadow: inset 0 1px 0 rgba(120,200,230,.5),0 1px 0 rgba(0,0,0,.15);
+    color: #fff;
+    text-decoration: none;
+	margin-right:10px;
+	margin-bottom:10px;
+	vertical-align:top;
+}
+.ihc-file-upload-button  .ihc-delete-attachment-bttn{
+	background: -webkit-gradient(linear, 3% 3%, 3% 100%, from(#d14241), to(#c24a4b));;
+    border-color: #d14241;
+}
+.ihc-info-link {
+  font-size: 11px;
+  text-decoration: none;
+}
+
+/*=================== ERROR & SUCCESS MESSAGES ======================*/
+.ihc-wrapp-the-errors{
+	clear: both;
+	margin:15px 10px;
+	box-sizing:border-box;
+	  padding: 12px 19px 12px 15px;
+  border-radius: 3px 3px 3px 3px;
+  border: 1px solid #F0DBB4;
+  color: #9b4449;
+  background-color: #fff6f4;
+  border-color: #f8cdcd;
+	
+}
+.ihc-wrapp-the-errors div{
+	margin-bottom:10px;
+}
+
+.ihc-wrapp-the-errors .ihc-error-div{
+	
+}
+
+.ihc-wrapp-the-errors .ihc-register-error{
+	
+}
+
+.ihc-reg-success-msg{
+	
+}
+
+.ihc-reg-update-msg{
+	
+}
+
+.ihc-login-success{
+	
+}
+
+.ihc-login-error{
+	
+}
+
+.ihc-login-pending{
+	
+}
+
+.ihc-no-avatar{
+	background-image: url(../images/no-avatar.png);
+    width: 120px;
+    height: 120px;
+    background-size: cover;
+}
+
+.ihc-wrapp-file-upload{
+	display: inline-block;
+	vertical-align: middle;
+	max-width: 100%;
+    overflow: hidden;
+}
+.ihc-wrapp-file-upload .ajax-file-upload{
+    /*display: inline-block;
+	cursor: pointer;
+    padding: 3px 6px;
+    background: #0091cd;
+    border-color: #0073aa;
+    -webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,.6);
+    box-shadow: inset 0 1px 0 rgba(120,200,230,.6);
+    color: #fff;*/
+	margin-top:3px;
+}
+.ihc-wrapp-file-upload .ihc-delete-attachment-bttn{
+	color: #fff;
+    background: -webkit-gradient(linear, 3% 3%, 3% 100%, from(#d14241), to(#c24a4b));
+	display: inline-block;
+	border-color:#d14241;
+	cursor: pointer;
+	margin-top:3px;
+}
+.ihc-wrapp-file-upload .ajax-file-upload-progress{
+	border: 1px solid #4fb756; 
+}
+.ihc-wrapp-file-upload .ajax-file-upload-bar{
+	background: #4fb756;
+	color: #fff;
+	max-height:2px;
+}
+.ihc-wrapp-file-upload .ihc-icon-file-type{
+	background-image: url(../images/file-icon.png);
+	vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    background-size: contain;
+	display: inline-block;
+	margin-right: 10px;
+}
+.ihc-wrapp-file-upload .ihc-file-name-uploaded{
+	display: inline-block;
+	margin-right: 10px;
+	margin-top:3px;
+}
+
+/*account page menu*/
+.ihc-ap-menu{
+	background: #777;
+	margin:10px 0;
+	min-width: 0px !important;
+}
+.ihc-ap-menu .ihc-ap-menu-item{
+	display: inline-block;
+	padding: 0px 10px;
+	font-size: 13px;
+	line-height:40px;
+	box-sizing:border-box;
+}
+.ihc-ap-menu .ihc-ap-menu-item a{
+	text-decoration: none;
+    border: none;
+	color: #fff;
+}
+.ihc-ap-menu .ihc-ap-menu-item a:hover{
+
+}
+
+/********** UPLOAD FIELD **********/
+.iump-form-line-register .ajax-file-upload-container{
+	display: inline-block;
+}
+.iump-form-line-register .ajax-file-upload-statusbar{
+	margin: 3px 0px;
+}
+.iump-form-line-register .ajax-file-upload-progress .ajax-file-upload-bar{
+	font-size: -9px;
+}
+.iump-form-line-register .ajax-file-upload-progress{
+	min-height: 3px;
+}
+.iump-form-line-register .ajax-file-upload-filename{
+	display: none;
+}
+
+.ihc-sm-wrapp-fe{
+	clear: both;
+	margin: 5px 0px;
+}
+.ihc-sm-item{
+	 color: #fff;
+	 padding: 3px 10px;
+	 display: inline-block;
+	 margin: 4px;
+	 cursor: pointer;	
+}
+.fa-ihc-sm{
+	display: inline-block;
+  	font: normal normal normal 14px/1 FontAwesome-ihc;
+  	font-size: inherit;
+	line-height: 1.6;
+  	text-rendering: auto;
+  	-webkit-font-smoothing: antialiased;
+  	-moz-osx-font-smoothing: grayscale;
+  	transform: translate(0, 0);
+    text-align: center;
+	width: 20px;
+    font-size: 17px;
+    text-align: center;
+	float:left;
+}
+.fa-ihc-sm:after{
+	display:none;
+}
+.ihc-sm-item-label{
+	margin-left: 5px;
+    white-space: nowrap!important;
+    overflow: hidden;
+    vertical-align: middle;
+    font-size: 13px;
+    font-family: "Segoe WP", "Segoe UI", Helvetica, Arial, sans-serif;
+    line-height: 2;
+	float:left;
+}
+.ihc-sm-item a,.ihc-sm-item a:hover{
+	border-bottom: none !important;
+	text-decoration: none;
+	color: #fff;
+}
+.ihc-sm-item.ihc-fb, .ihc-fb{
+	background-color: rgb(59, 89, 152);	
+}
+.ihc-sm-item.ihc-tw, .ihc-tw{
+	background-color: #4099FF;
+}
+.ihc-sm-item.ihc-in, .ihc-in{
+	background-color: #0074a2;	
+}
+.ihc-sm-item.ihc-goo, .ihc-goo{
+    background-color: rgb(217, 82, 50);	
+}
+.ihc-sm-item.ihc-vk, .ihc-vk{
+    background-color: #5d83aa;	
+}
+.ihc-sm-item.ihc-ig, .ihc-ig{
+	background-color: #125688;	
+}
+.ihc-sm-item.ihc-tbr, .ihc-tbr{
+	background-color: #2c4762;	
+}
+.ihc-account-page-sm-icon{
+	display:inline-block;
+	margin-right: 5px;
+	width: 27px;
+    text-align: center;
+    height: 27px;
+    font-size: 17px !important;
+}
+.ihc-ap-sm-top-icons-wrap{
+	display: inline-block;
+    float: left;
+    width: 70%;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.ihc-sm-already-reg{
+	opacity: 0.4;
+}
+
+.iump-level-details-register{
+	margin: 15px 0px;
+    box-sizing: border-box;
+    padding: 12px 19px 12px 15px;
+    border-radius: 3px 3px 3px 3px;
+    border: 1px solid #F0DBB4;
+    color: #333;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+    font-size: 14px;
+}
+.iump-level-details-register-name{
+	float:left;
+	font-weight:500;
+	font-size:15px;
+	font-family: 'Oswald', arial, sans-serif !important;
+}
+.iump-level-details-register-price{
+	float:right;
+}
+
+.ihc-mobile-bttn:before {
+    color: #fff;
+    content: "\f0c9";
+    font: normal normal normal 30px/1 FontAwesome-ihc;
+    line-height: 40px;
+}
+.ihc-mobile-bttn-wrapp{
+	display: none;
+	width: 100%;
+	height: 40px;
+	clear: both;
+}
+.ihc-mobile-bttn {
+    background-color: #0091cd;
+    border: 1px solid #eaeaea;
+    border: 1px solid rgba(51, 51, 51, 0.1);
+	width: 40px;
+    height: 40px;
+	text-align: center;
+	float: right;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+.ihc-mobile-bttn:hover, .ihc-mobile-bttn:focus {
+    background-color: #555;
+    border: 1px solid #c1c1c1;
+    border: 1px solid rgba(51, 51, 51, 0.3);
+    outline: 0;
+}
+
+@media (max-width: 361px){
+	.ihc-ap-menu .ihc-ap-menu-item{
+		display: block !important;
+		border-bottom: 1px rgba(255,255,255,0.2) solid;
+	}
+	.ihc-ap-menu{
+		/*min-width: 0px !important;*/
+		display: none;
+	}
+	.ihc-mobile-bttn-wrapp{
+		display: block;
+	}
+}
+
+.ihc-register-notice{
+	font-size: 11px;
+	color: #b64645;
+	color: #df2c2c;
+    margin-top: 3px;
+    font-family: 'Open Sans', sans-serif;
+}
+.ihc-input-notice{
+	/*background-color: #FFE4E1;
+	border-color: #b64645 !important;*/
+	border-color:#df2c2c !important;
+}
+.ihc-payment-icon{
+	width: 100px !important;
+	opacity: 0.3;
+	cursor: pointer;
+	    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter ….3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
+    filter: gray;
+    -webkit-filter: grayscale(100%);
+}
+.ihc-payment-icon:hover{
+	opacity:1;
+	    filter: none;
+    -webkit-filter: none;
+}
+.ihc-payment-select-img-selected{
+	opacity: 1;
+	    filter: none;
+    -webkit-filter: none;
+}
+
+.ihc-payment-icon-wrap{
+	display: inline-block;
+}

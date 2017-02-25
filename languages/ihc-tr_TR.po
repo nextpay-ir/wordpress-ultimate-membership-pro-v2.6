@@ -1,0 +1,2723 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-23 10:18+0200\n"
+"PO-Revision-Date: 2015-12-11 15:14+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../admin/includes/custom-nav-menu.php:65
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Geçersiz)"
+
+#: ../admin/includes/custom-nav-menu.php:69
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Bekliyor)"
+
+#: ../admin/includes/custom-nav-menu.php:82
+msgid "sub item"
+msgstr "Alt nesne"
+
+#: ../admin/includes/custom-nav-menu.php:114
+msgid "Edit Menu Item"
+msgstr "Menü öğesi düzenle"
+
+#: ../admin/includes/custom-nav-menu.php:123
+msgid "URL"
+msgstr "Adres (URL)"
+
+#: ../admin/includes/custom-nav-menu.php:130
+msgid "Navigation Label"
+msgstr "Dolaşım Etiketi"
+
+#: ../admin/includes/custom-nav-menu.php:136
+msgid "Title Attribute"
+msgstr "Başlık Niteliği"
+
+#: ../admin/includes/custom-nav-menu.php:143
+msgid "Open link in a new window/tab"
+msgstr "Bağlantıyı yeni pencerede/sekmede aç"
+
+#: ../admin/includes/custom-nav-menu.php:148
+msgid "CSS Classes (optional)"
+msgstr "CSS Sınıfları (isteğe bağlı)"
+
+#: ../admin/includes/custom-nav-menu.php:154
+msgid "Link Relationship (XFN)"
+msgstr "Bağlantı İlişkileri (XFN)"
+
+#: ../admin/includes/custom-nav-menu.php:160
+msgid "Description"
+msgstr "Açıklama"
+
+#: ../admin/includes/custom-nav-menu.php:162
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"Kullanıdığınız tema desteklediği takdirde açıklama menüde gösterilecektir."
+
+#: ../admin/includes/custom-nav-menu.php:168
+msgid "Move"
+msgstr "Taşı"
+
+#: ../admin/includes/custom-nav-menu.php:169
+msgid "Up one"
+msgstr "Bir Yukarı"
+
+#: ../admin/includes/custom-nav-menu.php:170
+msgid "Down one"
+msgstr "Bir Aşağı\t"
+
+#: ../admin/includes/custom-nav-menu.php:173
+msgid "To the top"
+msgstr "En Üste"
+
+#: ../admin/includes/custom-nav-menu.php:194
+#: ../admin/includes/custom-nav-menu.php:262
+#: ../admin/includes/meta_boxes/page_post_settings.php:57
+#: ../admin/includes/tabs/general.php:361 ../admin/includes/vc_map.php:205
+#: ../classes/UserAddEdit.class.php:352
+msgid "Removing tag"
+msgstr "Etiketi Kaldır"
+
+#: ../admin/includes/custom-nav-menu.php:220
+msgid "Section"
+msgstr "Bölüm"
+
+#: ../admin/includes/custom-nav-menu.php:223
+#: ../admin/includes/tabs/general.php:322
+msgid "Block Menu Item Only"
+msgstr "Engellenecek Menü Öğesini Sadece"
+
+#: ../admin/includes/custom-nav-menu.php:224
+#: ../admin/includes/tabs/general.php:323
+msgid "Show Menu Item Only"
+msgstr "Gösterilecek Menü Öğesini Sadece"
+
+#: ../admin/includes/custom-nav-menu.php:228
+#: ../admin/includes/meta_boxes/page_post_settings.php:16
+msgid "for"
+msgstr "için"
+
+#: ../admin/includes/custom-nav-menu.php:230
+#: ../admin/includes/functions.php:673
+#: ../admin/includes/meta_boxes/page_post_settings.php:23
+#: ../admin/includes/tabs/block_url.php:5
+#: ../admin/includes/tabs/coupons.php:109
+#: ../admin/includes/tabs/general.php:329 ../admin/includes/vc_map.php:178
+msgid "All"
+msgstr "Hepsi"
+
+#: ../admin/includes/custom-nav-menu.php:230
+#: ../admin/includes/meta_boxes/page_post_settings.php:23
+#: ../admin/includes/tabs/block_url.php:5
+#: ../admin/includes/tabs/general.php:329 ../admin/includes/vc_map.php:178
+msgid "Registered Users"
+msgstr "Kayıtlı Kullanıcılar"
+
+#: ../admin/includes/custom-nav-menu.php:230
+#: ../admin/includes/meta_boxes/page_post_settings.php:23
+#: ../admin/includes/tabs/block_url.php:5
+#: ../admin/includes/tabs/general.php:329 ../admin/includes/vc_map.php:178
+msgid "Unregistered Users"
+msgstr "Kayıtlı olmayan kullanıcılar"
+
+#: ../admin/includes/custom-nav-menu.php:281
+#, php-format
+msgid "Original: %s"
+msgstr "Orijinal: %s"
+
+#: ../admin/includes/custom-nav-menu.php:294 ../utilities.php:1251
+#: ../utilities.php:1253
+msgid "Remove"
+msgstr "Kaldır"
+
+#: ../admin/includes/custom-nav-menu.php:295
+msgid "Cancel"
+msgstr "İptal"
+
+#: ../admin/includes/functions.php:98
+msgid "Default Redirect"
+msgstr "Varsayılan Yönlendirmesi"
+
+#: ../admin/includes/functions.php:99 ../admin/includes/functions.php:200
+msgid "Login"
+msgstr "Giriş"
+
+#: ../admin/includes/functions.php:100 ../admin/includes/functions.php:198
+#: ../admin/includes/tabs/notifications.php:7
+#: ../classes/UserAddEdit.class.php:220 ../utilities.php:495
+#: ../utilities.php:555 ../utilities.php:608 ../utilities.php:649
+#: ../utilities.php:696 ../utilities.php:759 ../utilities.php:813
+#: ../utilities.php:905
+msgid "Register"
+msgstr "Kayıt Ol"
+
+#: ../admin/includes/functions.php:101 ../admin/includes/functions.php:199
+msgid "Lost Password"
+msgstr "Kayıp Şifre"
+
+#: ../admin/includes/functions.php:102 ../admin/includes/functions.php:202
+msgid "LogOut"
+msgstr "Çıkış Yap"
+
+#: ../admin/includes/functions.php:103 ../admin/includes/functions.php:203
+msgid "Account User"
+msgstr "Kullanıcı Hesabı"
+
+#: ../admin/includes/functions.php:104 ../admin/includes/functions.php:204
+msgid "TOS"
+msgstr "Kullanım Şartları"
+
+#: ../admin/includes/functions.php:105 ../admin/includes/popup-forms.php:15
+#: ../admin/includes/tabs/help.php:40 ../admin/includes/tabs/register.php:74
+#: ../admin/includes/tabs/showcases.php:15
+#: ../admin/includes/tabs/subscription_plan.php:8
+#: ../admin/includes/vc_map.php:105
+msgid "Subscription Plan"
+msgstr "Abonelik Planı"
+
+#: ../admin/includes/functions.php:119
+msgid "Default"
+msgstr "Varsayılan"
+
+#: ../admin/includes/functions.php:119 ../admin/includes/functions.php:134
+#: ../admin/includes/meta_boxes/default_pages.php:21
+msgid "Page"
+msgstr "Sayfa"
+
+#: ../admin/includes/functions.php:119
+msgid "Not set!"
+msgstr "Ayarlanmadı!"
+
+#: ../admin/includes/functions.php:139
+msgid "Some of the Default Pages are NOT Set:"
+msgstr "Bazı  Varsayılan Sayfalar  Belirlenmedi:"
+
+#: ../admin/includes/functions.php:161
+msgid "Register Page"
+msgstr "Kayıt Sayfası"
+
+#: ../admin/includes/functions.php:164
+msgid "Lost Password Page"
+msgstr "Kayıp Şifre Sayfası"
+
+#: ../admin/includes/functions.php:167
+msgid "Login Page"
+msgstr "Giriş Sayfası"
+
+#: ../admin/includes/functions.php:170
+msgid "Redirect Page."
+msgstr "Yönlendirme Sayfası."
+
+#: ../admin/includes/functions.php:170
+msgid "You can only Replace the content."
+msgstr "Sadece İçerik Değiştirebilirsiniz."
+
+#: ../admin/includes/functions.php:173
+msgid "Logout Page"
+msgstr "Çıkış Sayfası"
+
+#: ../admin/includes/functions.php:176 ../admin/includes/popup-forms.php:14
+msgid "User Page"
+msgstr "Kullanıcı sayfası"
+
+#: ../admin/includes/functions.php:179
+msgid "TOS Page"
+msgstr "Kullanım Şartları Sayfası"
+
+#: ../admin/includes/functions.php:182
+msgid "Subscription Plan Page"
+msgstr "Üyelik Plan Sayfası"
+
+#: ../admin/includes/functions.php:189
+msgid "This Page is set as:"
+msgstr "Bu sayfanın varsayılanı:"
+
+#: ../admin/includes/functions.php:201
+msgid "Redirect"
+msgstr "Yönlendirme"
+
+#: ../admin/includes/functions.php:205
+#: ../admin/includes/tabs/account_page.php:69
+#: ../classes/ihcAccountPage.class.php:96
+msgid "Subscription"
+msgstr "Üyelik"
+
+#: ../admin/includes/functions.php:609 ../admin/includes/tabs/general.php:594
+msgid "Link:"
+msgstr "Bağlantı:"
+
+#: ../admin/includes/functions.php:670
+msgid "Target Levels: "
+msgstr "Hedef düzeyleri:"
+
+#: ../admin/includes/functions.php:700
+msgid "Submited Coupons:"
+msgstr "Gönderilen Kuponlar:"
+
+#: ../admin/includes/functions.php:709
+msgid "No Date range"
+msgstr "Tarih aralığı Yok"
+
+#: ../admin/includes/functions.php:711
+msgid "From "
+msgstr "Kimden"
+
+#: ../admin/includes/functions.php:711
+msgid "to "
+msgstr "-e -a"
+
+#: ../admin/includes/functions.php:767
+msgid "Custom Link: "
+msgstr "Özel Bağlantı:"
+
+#: ../admin/includes/manage-page.php:10
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: ../admin/includes/manage-page.php:11
+msgid "Levels"
+msgstr "Seviyeler"
+
+#: ../admin/includes/manage-page.php:12
+msgid "Payment Services"
+msgstr "Ödeme Servisleri"
+
+#: ../admin/includes/manage-page.php:13 ../admin/includes/tabs/locker.php:163
+msgid "Inside Lockers"
+msgstr "İç Taraftaki Kilitleyiciler"
+
+#: ../admin/includes/manage-page.php:14
+msgid "Showcases"
+msgstr "Örnek Tasarımlar"
+
+#: ../admin/includes/manage-page.php:15
+msgid "Social Login"
+msgstr "Sosyal Hesapla Giriş"
+
+#: ../admin/includes/manage-page.php:16 ../admin/includes/tabs/coupons.php:51
+msgid "Coupons"
+msgstr "Kuponlar"
+
+#: ../admin/includes/manage-page.php:17
+msgid "URL Blocks"
+msgstr "URL Engellemeleri"
+
+#: ../admin/includes/manage-page.php:18
+#: ../admin/includes/tabs/account_page.php:71
+#: ../classes/ihcAccountPage.class.php:98
+msgid "Transactions"
+msgstr "İşlemler"
+
+#: ../admin/includes/manage-page.php:19 ../admin/includes/tabs/general.php:7
+#: ../admin/includes/tabs/notifications.php:4
+msgid "Notifications"
+msgstr "Bildirimler"
+
+#: ../admin/includes/manage-page.php:20
+msgid "Opt-in Settings"
+msgstr "Kayıt Ayarları"
+
+#: ../admin/includes/manage-page.php:21
+msgid "General Options"
+msgstr "Genel Seçenekler"
+
+#: ../admin/includes/manage-page.php:22
+msgid "Help"
+msgstr "Yardım"
+
+#: ../admin/includes/meta_boxes/default_pages.php:15
+msgid "Set the Page as:"
+msgstr "Sayfayı Ayarla:"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:9
+msgid "Show Page Only"
+msgstr "Gösterim sayfası sadece"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:10
+msgid "Block Page Only"
+msgstr "Engelleme sayfası sadece"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:75
+msgid "If is not allow"
+msgstr "Izinli değilse"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:77
+msgid "Redirect the Page"
+msgstr "Sayfayı Yönlendir"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:77
+msgid "Replace the Content"
+msgstr "İçeriği Değiştirin"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:103
+msgid "To:"
+msgstr "Alıcı:"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:113
+msgid "default"
+msgstr "varsayılan"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:118
+msgid "Custom Link:"
+msgstr "Özel Bağlantı:"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:144
+msgid "Add the replacement content into the \"Replace Content\" Editor box."
+msgstr ""
+"“İçerik değiştir” Editör kutusunun içine değiştirilecek içeriği ekleyin."
+
+#: ../admin/includes/popup-forms.php:10 ../admin/includes/tabs/help.php:35
+#: ../admin/includes/tabs/register.php:25
+#: ../admin/includes/tabs/showcases.php:13 ../admin/includes/vc_map.php:5
+#: ../admin/includes/vc_map.php:8
+msgid "Register Form"
+msgstr "Kayıt Formu"
+
+#: ../admin/includes/popup-forms.php:11 ../admin/includes/tabs/help.php:36
+#: ../admin/includes/tabs/locker.php:81 ../admin/includes/tabs/login.php:23
+#: ../admin/includes/tabs/showcases.php:14 ../admin/includes/vc_map.php:25
+#: ../admin/includes/vc_map.php:28
+msgid "Login Form"
+msgstr "Giriş Formu"
+
+#: ../admin/includes/popup-forms.php:12 ../admin/includes/tabs/help.php:37
+#: ../admin/includes/vc_map.php:45 ../admin/includes/vc_map.php:48
+msgid "Logout Button"
+msgstr "Çıkış Düğmesi"
+
+#: ../admin/includes/popup-forms.php:13 ../admin/includes/tabs/help.php:38
+#: ../admin/includes/vc_map.php:65 ../admin/includes/vc_map.php:68
+#: ../admin/includes/vc_map.php:88 ../admin/includes/vc_map.php:108
+msgid "Password Recovery"
+msgstr "Şifre Kurtarma"
+
+#: ../admin/includes/popup-locker.php:4 ../admin/includes/vc_map.php:127
+#: ../admin/includes/vc_map.php:130
+msgid "Locker"
+msgstr "Kilitleyici"
+
+#: ../admin/includes/popup-locker.php:12 ../admin/includes/vc_map.php:139
+msgid "Show Content Only For"
+msgstr "İçeriği sadece şuna göster"
+
+#: ../admin/includes/popup-locker.php:13 ../admin/includes/vc_map.php:139
+msgid "Hide Content Only For"
+msgstr "içeriği sadece şuna gizle"
+
+#: ../admin/includes/popup-locker.php:18
+#: ../admin/includes/tabs/block_url.php:43
+#: ../admin/includes/tabs/block_url.php:158 ../admin/includes/vc_map.php:144
+msgid "Target Users:"
+msgstr "Hedef Kullanıcılar:"
+
+#: ../admin/includes/popup-locker.php:49 ../admin/includes/vc_map.php:151
+msgid "Choose Locker:"
+msgstr "Kilitleyici seçin:"
+
+#: ../admin/includes/popup-locker.php:66 ../admin/includes/vc_map.php:230
+msgid "No Lockers Available."
+msgstr "Kullanılabilecek kilitleyici yok."
+
+#: ../admin/includes/popup-locker.php:76 ../admin/includes/tabs/locker.php:181
+#: ../admin/includes/tabs/locker.php:191
+msgid "Preview"
+msgstr "Önizleme"
+
+#: ../admin/includes/tabs/account_page.php:12
+msgid "Accont Page"
+msgstr "Hesap Sayfası"
+
+#: ../admin/includes/tabs/account_page.php:23
+msgid "Account Page Settings:"
+msgstr "Hesap Sayfası Ayarları:"
+
+#: ../admin/includes/tabs/account_page.php:27
+#: ../admin/includes/tabs/subscription_plan.php:27
+msgid "Select Template:"
+msgstr "Şablon Seçin:"
+
+#: ../admin/includes/tabs/account_page.php:39
+msgid "Top Section:"
+msgstr "Üst bölümünde:"
+
+#: ../admin/includes/tabs/account_page.php:40
+msgid "Show Avatar Image:"
+msgstr "Avatar resmi göster:"
+
+#: ../admin/includes/tabs/account_page.php:50
+msgid "Welcome Message:"
+msgstr "Hoşgeldiniz Mesajı"
+
+#: ../admin/includes/tabs/account_page.php:65
+msgid "Tabs To Show:"
+msgstr "Gösterilecek Sekmeler"
+
+#: ../admin/includes/tabs/account_page.php:67
+#: ../classes/ihcAccountPage.class.php:94
+msgid "Overview"
+msgstr "Genel Bakış"
+
+#: ../admin/includes/tabs/account_page.php:68
+#: ../classes/ihcAccountPage.class.php:95
+msgid "Profile"
+msgstr "Profil"
+
+#: ../admin/includes/tabs/account_page.php:70
+#: ../classes/ihcAccountPage.class.php:97
+msgid "Social Plus"
+msgstr "Sosyal Artı"
+
+#: ../admin/includes/tabs/account_page.php:92
+msgid "Overview Standard Message:"
+msgstr "Standart Mesaja Genel Bakış:"
+
+#: ../admin/includes/tabs/account_page.php:93
+msgid ""
+"General content for Users who does not have assigned a Page to show up into "
+"\"Overview\" section:"
+msgstr ""
+"Sayfa görüntülemeye yetkisi olmayan kullanıcılar için üst tarafta gösterilen "
+"genel içerik"
+
+#: ../admin/includes/tabs/account_page.php:103
+msgid "Social Plus Top Message:"
+msgstr "Sosyal Artı Üst Mesaj:"
+
+#: ../admin/includes/tabs/account_page.php:110
+#: ../admin/includes/tabs/account_page.php:119
+#: ../admin/includes/tabs/coupons.php:136
+#: ../admin/includes/tabs/general.php:148
+#: ../admin/includes/tabs/general.php:229
+#: ../admin/includes/tabs/general.php:253
+#: ../admin/includes/tabs/general.php:275
+#: ../admin/includes/tabs/general.php:381
+#: ../admin/includes/tabs/general.php:410
+#: ../admin/includes/tabs/general.php:423
+#: ../admin/includes/tabs/general.php:434
+#: ../admin/includes/tabs/general.php:444
+#: ../admin/includes/tabs/general.php:454
+#: ../admin/includes/tabs/general.php:484
+#: ../admin/includes/tabs/general.php:541
+#: ../admin/includes/tabs/general.php:569 ../admin/includes/tabs/locker.php:44
+#: ../admin/includes/tabs/locker.php:71 ../admin/includes/tabs/locker.php:94
+#: ../admin/includes/tabs/locker.php:118 ../admin/includes/tabs/locker.php:135
+#: ../admin/includes/tabs/login.php:50 ../admin/includes/tabs/login.php:82
+#: ../admin/includes/tabs/login.php:91 ../admin/includes/tabs/login.php:136
+#: ../admin/includes/tabs/opt_in.php:13 ../admin/includes/tabs/opt_in.php:71
+#: ../admin/includes/tabs/opt_in.php:118 ../admin/includes/tabs/opt_in.php:165
+#: ../admin/includes/tabs/opt_in.php:212 ../admin/includes/tabs/opt_in.php:284
+#: ../admin/includes/tabs/opt_in.php:342 ../admin/includes/tabs/opt_in.php:382
+#: ../admin/includes/tabs/opt_in.php:420 ../admin/includes/tabs/opt_in.php:457
+#: ../admin/includes/tabs/payment_settings.php:96
+#: ../admin/includes/tabs/payment_settings.php:129
+#: ../admin/includes/tabs/payment_settings.php:161
+#: ../admin/includes/tabs/payment_settings.php:183
+#: ../admin/includes/tabs/payment_settings.php:215
+#: ../admin/includes/tabs/payment_settings.php:241
+#: ../admin/includes/tabs/payment_settings.php:273
+#: ../admin/includes/tabs/payment_settings.php:311
+#: ../admin/includes/tabs/payment_settings.php:344
+#: ../admin/includes/tabs/payment_settings.php:367
+#: ../admin/includes/tabs/register.php:61
+#: ../admin/includes/tabs/register.php:186
+#: ../admin/includes/tabs/register.php:198
+#: ../admin/includes/tabs/register.php:212
+#: ../admin/includes/tabs/register.php:310
+#: ../admin/includes/tabs/register.php:502
+#: ../admin/includes/tabs/register.php:606
+#: ../admin/includes/tabs/social_login.php:148
+#: ../admin/includes/tabs/social_login.php:182
+#: ../admin/includes/tabs/social_login.php:213
+#: ../admin/includes/tabs/social_login.php:236
+#: ../admin/includes/tabs/social_login.php:267
+#: ../admin/includes/tabs/social_login.php:293
+#: ../admin/includes/tabs/social_login.php:324
+#: ../admin/includes/tabs/social_login.php:350
+#: ../admin/includes/tabs/social_login.php:380
+#: ../admin/includes/tabs/social_login.php:404
+#: ../admin/includes/tabs/social_login.php:434
+#: ../admin/includes/tabs/social_login.php:460
+#: ../admin/includes/tabs/social_login.php:491
+#: ../admin/includes/tabs/social_login.php:517
+#: ../admin/includes/tabs/social_login.php:563
+#: ../admin/includes/tabs/social_login.php:574
+#: ../admin/includes/tabs/subscription_plan.php:46
+#: ../admin/includes/tabs/subscription_plan.php:55
+msgid "Save"
+msgstr "Kaydet"
+
+#: ../admin/includes/tabs/account_page.php:115
+#: ../admin/includes/tabs/register.php:204
+msgid "Custom CSS:"
+msgstr "Özelleştirilmiş CSS:"
+
+#: ../admin/includes/tabs/block_url.php:15
+msgid "Entire URL"
+msgstr "Tüm URL"
+
+#: ../admin/includes/tabs/block_url.php:16
+msgid "Based on Keywords"
+msgstr "Anahtar Kelimelere Dayanarak"
+
+#: ../admin/includes/tabs/block_url.php:24
+#: ../admin/includes/tabs/block_url.php:91
+msgid "Blocked URL"
+msgstr "Engellenen URL"
+
+#: ../admin/includes/tabs/block_url.php:35
+#: ../admin/includes/tabs/block_url.php:150
+msgid "Add new Restriction"
+msgstr "Yeni Kısıtlama Ekle"
+
+#: ../admin/includes/tabs/block_url.php:38
+msgid "URL:"
+msgstr "URL:"
+
+#: ../admin/includes/tabs/block_url.php:60
+#: ../admin/includes/tabs/block_url.php:175
+msgid "Redirect to:"
+msgstr "Yönlendir:"
+
+#: ../admin/includes/tabs/block_url.php:79
+#: ../admin/includes/tabs/block_url.php:192
+#: ../admin/includes/tabs/coupons.php:31 ../admin/includes/tabs/coupons.php:58
+#: ../admin/includes/tabs/general.php:599 ../admin/includes/tabs/levels.php:442
+#: ../admin/includes/tabs/levels.php:652
+#: ../admin/includes/tabs/notifications.php:84
+#: ../admin/includes/tabs/notifications.php:100
+#: ../admin/includes/tabs/notifications.php:159
+#: ../admin/includes/tabs/users.php:108
+msgid "Add New"
+msgstr "Yeni Ekle"
+
+#: ../admin/includes/tabs/block_url.php:92
+#: ../admin/includes/tabs/block_url.php:205
+msgid "Target Users"
+msgstr "Hedef Kullanıcılar"
+
+#: ../admin/includes/tabs/block_url.php:93
+#: ../admin/includes/tabs/block_url.php:206
+msgid "Redirect To"
+msgstr "Yönlendir"
+
+#: ../admin/includes/tabs/block_url.php:94
+#: ../admin/includes/tabs/block_url.php:207
+#: ../admin/includes/tabs/general.php:614 ../admin/includes/tabs/levels.php:573
+#: ../admin/includes/tabs/list_payments.php:125
+#: ../admin/includes/tabs/list_payments.php:175
+#: ../admin/includes/tabs/locker.php:182 ../admin/includes/tabs/locker.php:192
+#: ../admin/includes/tabs/notifications.php:138
+#: ../admin/includes/tabs/register.php:354
+#: ../admin/includes/tabs/register.php:368 ../admin/includes/tabs/users.php:330
+#: ../admin/includes/tabs/users.php:418 ../admin/includes/tabs/users.php:513
+msgid "Delete"
+msgstr "Sil"
+
+#: ../admin/includes/tabs/block_url.php:153
+msgid "Keyword:"
+msgstr "Anahtar Kelime:"
+
+#: ../admin/includes/tabs/block_url.php:204
+msgid "Blocked URL That Contains"
+msgstr "Bunu içeren Engellenen URL"
+
+#: ../admin/includes/tabs/coupons.php:2
+msgid "Add New Coupon"
+msgstr "Yeni Kupon Ekle"
+
+#: ../admin/includes/tabs/coupons.php:3
+msgid "Manage Coupons"
+msgstr "Kuponları Yönet"
+
+#: ../admin/includes/tabs/coupons.php:32
+msgid "MemberShip Coupons"
+msgstr "Üyelik Kuponları"
+
+#: ../admin/includes/tabs/coupons.php:34
+msgid " No Coupons available! Please create your first Coupon."
+msgstr "Kullanılabilir Kupon yok! Lütfen ilk Kuponunuzu oluşturun."
+
+#: ../admin/includes/tabs/coupons.php:55 ../admin/includes/tabs/levels.php:571
+#: ../admin/includes/tabs/locker.php:180 ../admin/includes/tabs/locker.php:190
+#: ../admin/includes/tabs/notifications.php:137
+#: ../admin/includes/tabs/register.php:353
+#: ../admin/includes/tabs/register.php:367 ../admin/includes/tabs/users.php:416
+msgid "Edit"
+msgstr "Düzenle"
+
+#: ../admin/includes/tabs/coupons.php:62
+msgid "Code"
+msgstr "Kod"
+
+#: ../admin/includes/tabs/coupons.php:63
+msgid "Generate Code"
+msgstr "Kod Oluştur"
+
+#: ../admin/includes/tabs/coupons.php:66
+msgid "Type of discount"
+msgstr "İndirim türü"
+
+#: ../admin/includes/tabs/coupons.php:68 ../admin/includes/tabs/levels.php:500
+#: ../admin/includes/tabs/levels.php:545
+msgid "Price"
+msgstr "Fiyat"
+
+#: ../admin/includes/tabs/coupons.php:78
+msgid "Discount Value"
+msgstr "İndirim Değeri"
+
+#: ../admin/includes/tabs/coupons.php:85
+msgid "Period Type"
+msgstr "Dönem Tipi"
+
+#: ../admin/includes/tabs/coupons.php:87 ../admin/includes/tabs/coupons.php:97
+msgid "Date Range"
+msgstr "Tarih aralığı"
+
+#: ../admin/includes/tabs/coupons.php:101
+msgid "Repeat"
+msgstr "Tekrarla"
+
+#: ../admin/includes/tabs/coupons.php:105
+msgid "Target Level"
+msgstr "Hedef düzey"
+
+#: ../admin/includes/tabs/coupons.php:123
+msgid "On Levels with Billing Recurrence apply the Discount:"
+msgstr "Seviyelerdeki tekrarlanan faturalandırma için uygulanacak indirim:"
+
+#: ../admin/includes/tabs/coupons.php:125
+msgid "Just Once"
+msgstr "Sadece bir kez"
+
+#: ../admin/includes/tabs/coupons.php:125
+msgid "Forever"
+msgstr "Sonsuza dek"
+
+#: ../admin/includes/tabs/dashboard.php:8
+msgid "Dashboard Overall"
+msgstr "Kontrol Paneli Genel Bakış"
+
+#: ../admin/includes/tabs/dashboard.php:21
+msgid "Total Users"
+msgstr "Toplam Kullanıcılar"
+
+#: ../admin/includes/tabs/dashboard.php:30
+msgid "Top Level"
+msgstr "Üst Seviye"
+
+#: ../admin/includes/tabs/dashboard.php:35
+msgid "N/A"
+msgstr "N/A"
+
+#: ../admin/includes/tabs/dashboard.php:53
+msgid "Total Number of Transactions"
+msgstr "Toplam İşlemler Sayısı"
+
+#: ../admin/includes/tabs/dashboard.php:69
+msgid "Total Amount of Transactions"
+msgstr "Toplam İşlemler Tutarı"
+
+#: ../admin/includes/tabs/dashboard.php:85
+msgid "Total Members per Level"
+msgstr "Seviye Başına Toplam Üye"
+
+#: ../admin/includes/tabs/dashboard.php:89
+#: ../admin/includes/tabs/dashboard.php:102
+#: ../admin/includes/tabs/dashboard.php:206
+#: ../admin/includes/tabs/dashboard.php:207
+msgid "Not enough data available."
+msgstr "Yeterli veri mevcut değil."
+
+#: ../admin/includes/tabs/dashboard.php:98
+msgid "Levels By Transactions"
+msgstr "İşlemlere Göre Düzeyler"
+
+#: ../admin/includes/tabs/dashboard.php:116
+msgid "Last 5 Registered Users:"
+msgstr "Kayıtlı Son 5 Kullanıcı:"
+
+#: ../admin/includes/tabs/dashboard.php:141
+msgid "Register on"
+msgstr "Kayıt"
+
+#: ../admin/includes/tabs/dashboard.php:153
+msgid "Not Registered Users available."
+msgstr "Kayıtlı olmayan kullanıcılar bulunuyor."
+
+#: ../admin/includes/tabs/dashboard.php:170
+msgid "Last 5 Transactions:"
+msgstr "Son 5 İşlem:"
+
+#: ../admin/includes/tabs/dashboard.php:193
+msgid "Unknown Name"
+msgstr "Bilinmeyen Ad"
+
+#: ../admin/includes/tabs/dashboard.php:202
+msgid "Payment on"
+msgstr "Ödeme"
+
+#: ../admin/includes/tabs/general.php:2
+msgid "Defaults Settings"
+msgstr "Varsayılanları Ayarlar"
+
+#: ../admin/includes/tabs/general.php:3
+msgid "Captcha"
+msgstr "Captcha"
+
+#: ../admin/includes/tabs/general.php:4
+msgid "Messages"
+msgstr "Mesajlar"
+
+#: ../admin/includes/tabs/general.php:5
+msgid "Menus"
+msgstr "Menüler"
+
+#: ../admin/includes/tabs/general.php:6
+msgid "Payments"
+msgstr "Ödemeler"
+
+#: ../admin/includes/tabs/general.php:8 ../admin/includes/tabs/general.php:587
+msgid "Redirect Links"
+msgstr "Yönlendirme bağlantıları"
+
+#: ../admin/includes/tabs/general.php:9
+msgid "Extra Settings"
+msgstr "Ekstra Ayarlar"
+
+#: ../admin/includes/tabs/general.php:25
+msgid "Default Pages:"
+msgstr "Varsayılan Sayfalar:"
+
+#: ../admin/includes/tabs/general.php:29
+msgid "Register:"
+msgstr "Kayıt Ol:"
+
+#: ../admin/includes/tabs/general.php:46
+msgid "Subscription Plan:"
+msgstr "Abonelik Planı"
+
+#: ../admin/includes/tabs/general.php:63
+msgid "Login Page:"
+msgstr "Giriş Sayfası"
+
+#: ../admin/includes/tabs/general.php:80
+msgid "Logout Page:"
+msgstr "Çıkış Sayfası:"
+
+#: ../admin/includes/tabs/general.php:97
+msgid "User Account Page:"
+msgstr "Kullanıcı Hesabı Sayfası:"
+
+#: ../admin/includes/tabs/general.php:114
+msgid "TOS Page:"
+msgstr "Kullanım Şartları Sayfası:"
+
+#: ../admin/includes/tabs/general.php:131
+msgid "Lost Password:"
+msgstr "Kayıp Şifre:"
+
+#: ../admin/includes/tabs/general.php:154
+msgid "Default Redirects"
+msgstr "Varsayılan Yönlendirmeler"
+
+#: ../admin/includes/tabs/general.php:157
+msgid "Default Redirect Page:"
+msgstr "Varsayılan Yönlendirme Sayfası:"
+
+#: ../admin/includes/tabs/general.php:175
+msgid "After LogOut:"
+msgstr "Çıkış Sonrası:"
+
+#: ../admin/includes/tabs/general.php:177
+#: ../admin/includes/tabs/general.php:195
+#: ../admin/includes/tabs/general.php:213
+msgid "Do Not Redirect"
+msgstr "Yönlendirme"
+
+#: ../admin/includes/tabs/general.php:193
+msgid "After Registration:"
+msgstr "Kayıt Sonrası:"
+
+#: ../admin/includes/tabs/general.php:211
+msgid "After Login:"
+msgstr "Giriş Sonrası:"
+
+#: ../admin/includes/tabs/general.php:246
+msgid "Public Key:"
+msgstr "Public Key:"
+
+#: ../admin/includes/tabs/general.php:249
+msgid "Private Key:"
+msgstr "Private Key:"
+
+#: ../admin/includes/tabs/general.php:251
+msgid "Get Public and Private Keys from"
+msgstr "Public ve Private Key leri alın"
+
+#: ../admin/includes/tabs/general.php:251
+msgid "here"
+msgstr "buradan"
+
+#: ../admin/includes/tabs/general.php:267 ../admin/includes/tabs/login.php:8
+#: ../admin/includes/tabs/register.php:6
+#: ../admin/includes/tabs/register.php:231
+msgid "Custom Messages"
+msgstr "Özel Mesajlar"
+
+#: ../admin/includes/tabs/general.php:270
+msgid "Update Successfully Message:"
+msgstr "Başarılı Güncelleme Mesajı:"
+
+#: ../admin/includes/tabs/general.php:287
+msgid "Customize Your Menu"
+msgstr "Menü Özelleştir"
+
+#: ../admin/includes/tabs/general.php:290
+msgid "Select a Menu"
+msgstr "Bir Menü Seçin"
+
+#: ../admin/includes/tabs/general.php:317
+msgid "link"
+msgstr "bağlantı"
+
+#: ../admin/includes/tabs/general.php:327
+msgid "for:"
+msgstr "için:"
+
+#: ../admin/includes/tabs/general.php:399
+msgid "Grace Period:"
+msgstr "İltimas Süresi:"
+
+#: ../admin/includes/tabs/general.php:405
+#: ../admin/includes/tabs/general.php:481
+msgid "Days"
+msgstr "Gün"
+
+#: ../admin/includes/tabs/general.php:416
+msgid "Debugging Payment Data:"
+msgstr "Ödeme Verileri hata ayıklama:"
+
+#: ../admin/includes/tabs/general.php:429
+msgid "Upload File Accepted Extensions:"
+msgstr "Kabul edilen Dosya uzantıları:"
+
+#: ../admin/includes/tabs/general.php:432
+msgid "Write the extensions with comma between values! ex: pdf,jpg,mp3"
+msgstr "Değerleri virgül ile ayırarak uzantıları yaz! Örnek: pdf, jpg, mp3"
+
+#: ../admin/includes/tabs/general.php:440
+msgid "Upload File Maximum File Size:"
+msgstr "Yüklenebilecek Maksimum dosya boyutu:"
+
+#: ../admin/includes/tabs/general.php:450
+msgid "Avatar Maximum File Size:"
+msgstr "Avatar en büyük dosya boyutu:"
+
+#: ../admin/includes/tabs/general.php:469
+msgid "Notifications Settings"
+msgstr "Bildirim Ayarları"
+
+#: ../admin/includes/tabs/general.php:472
+msgid "'From' E-mail Address:"
+msgstr "`Gönderen` E-posta Adresi"
+
+#: ../admin/includes/tabs/general.php:476
+msgid "'From' Name:"
+msgstr "Gönderen Adı:"
+
+#: ../admin/includes/tabs/general.php:480
+msgid "'Before Expire' Time Interval:"
+msgstr "‘Bitiş Öncesi’ Zaman Aralığı:"
+
+#: ../admin/includes/tabs/general.php:498
+msgid "Currency Settings:"
+msgstr "Para Birimi Ayarları"
+
+#: ../admin/includes/tabs/general.php:546
+msgid "Payment Selection:"
+msgstr "Ödeme Seçimi:"
+
+#: ../admin/includes/tabs/general.php:590
+msgid "Name:"
+msgstr "Adınız:"
+
+#: ../admin/includes/tabs/general.php:612 ../admin/includes/tabs/levels.php:480
+#: ../admin/includes/tabs/levels.php:525
+#: ../admin/includes/tabs/list_payments.php:90
+#: ../admin/includes/tabs/list_payments.php:140
+#: ../admin/includes/tabs/locker.php:178 ../admin/includes/tabs/locker.php:188
+#: ../admin/includes/tabs/users.php:155 ../admin/includes/tabs/users.php:363
+#: ../admin/includes/tabs/users.php:388
+msgid "Name"
+msgstr "İsim"
+
+#: ../admin/includes/tabs/general.php:613
+msgid "Link"
+msgstr "Bağlantı"
+
+#: ../admin/includes/tabs/help.php:6
+msgid "Help Section"
+msgstr "Yardım Bölümü"
+
+#: ../admin/includes/tabs/help.php:13
+msgid "Contact Support"
+msgstr "Destek Birimi İle İletişime Geç"
+
+#: ../admin/includes/tabs/help.php:18
+msgid ""
+"In order to contact Indeed support team you need to create a ticket "
+"providing all the necessary details via our support system:"
+msgstr ""
+"Destek ekibimizle bilet sistemi ile iletişime geçtiğinizde gerekli tüm "
+"ayrıntıları sağlayan bir bilet oluşturmanız gerekir:"
+
+#: ../admin/includes/tabs/help.php:21
+msgid "Submit Ticket"
+msgstr "Destek Talebi Gönder"
+
+#: ../admin/includes/tabs/help.php:29
+msgid "ShortCodes"
+msgstr "KısaKodlar"
+
+#: ../admin/includes/tabs/help.php:39 ../admin/includes/tabs/showcases.php:16
+#: ../admin/includes/vc_map.php:85
+msgid "Account Page"
+msgstr "Hesap Sayfası"
+
+#: ../admin/includes/tabs/help.php:50
+msgid "Documentation"
+msgstr "Dökümantasyon"
+
+#: ../admin/includes/tabs/levels.php:2
+msgid "Add New Level"
+msgstr "Yeni Seviye Ekle"
+
+#: ../admin/includes/tabs/levels.php:3
+msgid "Manage Levels"
+msgstr "Seviyeleri Yönet"
+
+#: ../admin/includes/tabs/levels.php:4
+msgid "Subscription Plan Showcase"
+msgstr "Abonelik planı Vitrini"
+
+#: ../admin/includes/tabs/levels.php:35
+msgid "Edit Level:"
+msgstr "Seviye Düzenle:"
+
+#: ../admin/includes/tabs/levels.php:68
+msgid "Add New Level:"
+msgstr "Yeni Seviye Ekle:"
+
+#: ../admin/includes/tabs/levels.php:108
+msgid "Level Slug"
+msgstr "Seviye Slug"
+
+#: ../admin/includes/tabs/levels.php:113
+msgid "Level Label"
+msgstr "Seviye Etiketi"
+
+#: ../admin/includes/tabs/levels.php:117
+msgid "Level Access"
+msgstr "Seviye Erişimi"
+
+#: ../admin/includes/tabs/levels.php:120
+msgid "Access Type"
+msgstr "Erişim Türü"
+
+#: ../admin/includes/tabs/levels.php:142
+msgid "Duration"
+msgstr "Süre"
+
+#: ../admin/includes/tabs/levels.php:164
+msgid "Start Date"
+msgstr "Başlangıç Tarihi"
+
+#: ../admin/includes/tabs/levels.php:168
+msgid "End Date"
+msgstr "Bitiş Tarihi"
+
+#: ../admin/includes/tabs/levels.php:175
+msgid "Period"
+msgstr "Dönem"
+
+#: ../admin/includes/tabs/levels.php:192
+msgid "After Expire move to:"
+msgstr "Kullanım süresi bitince şuraya taşı:"
+
+#: ../admin/includes/tabs/levels.php:219
+msgid "Custom WP Role"
+msgstr "Özel WP Rolü"
+
+#: ../admin/includes/tabs/levels.php:221
+msgid "...Default Register option"
+msgstr "… Varsayılan Kayıt seçeneği"
+
+#: ../admin/includes/tabs/levels.php:234
+msgid "Available only on Registration stage for new Users."
+msgstr "Sadece yeni kullanıcılar için kayıt anında kullanılabilir."
+
+#: ../admin/includes/tabs/levels.php:238
+msgid "Show Only Content created Starting with the Assigned Date"
+msgstr "Sadece Kayıt tarihinden sonra oluşturulan içeriği göster"
+
+#: ../admin/includes/tabs/levels.php:247
+msgid "Available only for Pages and Posts"
+msgstr "Sayfalar ve Yazılar için Kullanılabilir"
+
+#: ../admin/includes/tabs/levels.php:252
+msgid "Special Week Days Level Work"
+msgstr "Haftanın belirli günlerinde çalışan seviye"
+
+#: ../admin/includes/tabs/levels.php:256
+msgid "Entire Week"
+msgstr "Bütün Hafta"
+
+#: ../admin/includes/tabs/levels.php:257
+msgid "WeekDays"
+msgstr "Hafta içi"
+
+#: ../admin/includes/tabs/levels.php:258
+msgid "WeekEnd"
+msgstr "Hafta Sonu"
+
+#: ../admin/includes/tabs/levels.php:267
+msgid "Based on Server/Website Time"
+msgstr "Sunucu / Websitesi Zamanına Dayanarak"
+
+#: ../admin/includes/tabs/levels.php:268
+msgid ""
+"Ex: If the Level is set to Block and to Work only on WeekDays, during the "
+"WeekEnd the restriction will be Off"
+msgstr ""
+"Ör: Eğer seviye engelle ve sadece haftaiçi olarak ayarlandıysa, Haftasonu "
+"boyunca kısıtlama iptal olacaktır"
+
+#: ../admin/includes/tabs/levels.php:274
+msgid "Billing Options"
+msgstr "Faturalandırma Seçenekleri"
+
+#: ../admin/includes/tabs/levels.php:277
+#: ../classes/ihcAccountPage.class.php:226
+#: ../classes/ihcAccountPage.class.php:324
+msgid "Payment Type"
+msgstr "Ödeme Türü"
+
+#: ../admin/includes/tabs/levels.php:281 ../classes/UserAddEdit.class.php:590
+msgid "Free"
+msgstr "Ücretsiz"
+
+#: ../admin/includes/tabs/levels.php:282
+#: ../admin/includes/tabs/notifications.php:8
+msgid "Payment"
+msgstr "Ödeme"
+
+#: ../admin/includes/tabs/levels.php:296
+msgid "Level Price"
+msgstr "Seviye Fiyatı"
+
+#: ../admin/includes/tabs/levels.php:305
+msgid "(Minimum 0.50 for Stripe)"
+msgstr "(Stripe için minimum 0.50)"
+
+#: ../admin/includes/tabs/levels.php:310
+msgid "Billing Recurrences"
+msgstr "Tekrarlanan Ödemeler :"
+
+#: ../admin/includes/tabs/levels.php:327
+msgid "Limit"
+msgstr "Limit"
+
+#: ../admin/includes/tabs/levels.php:339
+msgid "Trial Period Price"
+msgstr "Deneme Dönemi Fiyatı:"
+
+#: ../admin/includes/tabs/levels.php:345
+msgid "0 for Stripe."
+msgstr "Stripe için 0."
+
+#: ../admin/includes/tabs/levels.php:349
+msgid "Trial Period Type"
+msgstr "Deneme Dönemi Türü"
+
+#: ../admin/includes/tabs/levels.php:352
+msgid "Certain Period"
+msgstr "Belirli Dönem"
+
+#: ../admin/includes/tabs/levels.php:352
+msgid "Couple cycles subscription payments"
+msgstr "Çift döngülü abonelik ödemeleri"
+
+#: ../admin/includes/tabs/levels.php:363
+msgid "Trial Certain Period"
+msgstr "Kesin Deneme Dönemi"
+
+#: ../admin/includes/tabs/levels.php:377
+msgid "Not available for Authorize and 2Checkout."
+msgstr "Yetkilendirme ve 2Checkout için kullanılamaz."
+
+#: ../admin/includes/tabs/levels.php:381
+msgid "Trial Couple Cycles:"
+msgstr "Deneme Çift Döngüleri\t"
+
+#: ../admin/includes/tabs/levels.php:384
+msgid "Not more than 1 cycle for Paypal and 2Checkout."
+msgstr "PayPal ve 2Checkout için En fazla 1 döngü."
+
+#: ../admin/includes/tabs/levels.php:395
+msgid "Show Up into Supscription Plan:"
+msgstr "Abonelik planlarında göster"
+
+#: ../admin/includes/tabs/levels.php:404
+msgid "Level Description:"
+msgstr "Seviye Açıklama:"
+
+#: ../admin/includes/tabs/levels.php:417
+msgid "Price Text"
+msgstr "Fiyat Yazısı"
+
+#: ../admin/includes/tabs/levels.php:419
+msgid "Displayed on the Level Front-end List."
+msgstr "Ön yüzdeki Seviye listelerinin üzerinde gösterilir."
+
+#: ../admin/includes/tabs/levels.php:423
+msgid "Save Level"
+msgstr "Seviye Kaydet"
+
+#: ../admin/includes/tabs/levels.php:455 ../admin/includes/tabs/levels.php:639
+msgid "MemberShip Levels"
+msgstr "Üyelik Seviyeleri"
+
+#: ../admin/includes/tabs/levels.php:460
+msgid "ReOrder Levels"
+msgstr "Seviyeleri Tekrar düzenle"
+
+#: ../admin/includes/tabs/levels.php:462
+msgid "Now You can reorder level list."
+msgstr "Şimdi Seviye listesini tekrar sıralayabilirsiniz."
+
+#: ../admin/includes/tabs/levels.php:470 ../admin/includes/tabs/levels.php:515
+msgid "Show"
+msgstr "Göster"
+
+#: ../admin/includes/tabs/levels.php:475 ../admin/includes/tabs/levels.php:520
+#: ../admin/includes/tabs/register.php:345
+#: ../admin/includes/tabs/register.php:359
+msgid "Slug"
+msgstr "Slug:"
+
+#: ../admin/includes/tabs/levels.php:485 ../admin/includes/tabs/levels.php:530
+#: ../classes/ihcAccountPage.class.php:357
+msgid "Access"
+msgstr "Erişim "
+
+#: ../admin/includes/tabs/levels.php:490 ../admin/includes/tabs/levels.php:535
+msgid "Billing Type"
+msgstr "Faturalandırma Türü"
+
+#: ../admin/includes/tabs/levels.php:495 ../admin/includes/tabs/levels.php:540
+msgid "Recurrences"
+msgstr "Yinelemeler"
+
+#: ../admin/includes/tabs/levels.php:505 ../admin/includes/tabs/levels.php:550
+msgid "Subscription Link"
+msgstr "Abonelik Bağlantısı"
+
+#: ../admin/includes/tabs/levels.php:589
+msgid "Not set"
+msgstr "Ayarlanmadı"
+
+#: ../admin/includes/tabs/levels.php:619
+msgid "Your Content Here"
+msgstr "İçeriğinizi buraya"
+
+#: ../admin/includes/tabs/levels.php:642
+msgid "No Levels available! Please create your first Level."
+msgstr "Seviye Yok! Lütfen Seviye Oluşturun."
+
+#: ../admin/includes/tabs/list_payments.php:14
+msgid "Back to Payment List"
+msgstr "Ödeme Listesine Dön"
+
+#: ../admin/includes/tabs/list_payments.php:17
+#: ../classes/UserAddEdit.class.php:167
+msgid "Payment Details"
+msgstr "Ödeme Detayları"
+
+#: ../admin/includes/tabs/list_payments.php:72
+msgid "Transations List"
+msgstr "İşlemler Listesi"
+
+#: ../admin/includes/tabs/list_payments.php:85
+#: ../admin/includes/tabs/list_payments.php:135
+#: ../admin/includes/tabs/opt_in.php:224 ../admin/includes/tabs/opt_in.php:296
+#: ../admin/includes/tabs/users.php:156 ../admin/includes/tabs/users.php:360
+#: ../admin/includes/tabs/users.php:385 ../utilities.php:473
+#: ../utilities.php:524 ../utilities.php:577 ../utilities.php:626
+#: ../utilities.php:680 ../utilities.php:736 ../utilities.php:791
+msgid "Username"
+msgstr "Kullanıcı Adı"
+
+#: ../admin/includes/tabs/list_payments.php:95
+#: ../admin/includes/tabs/list_payments.php:145
+#: ../admin/includes/tabs/users.php:366 ../admin/includes/tabs/users.php:391
+msgid "E-mail"
+msgstr "E-Posta"
+
+#: ../admin/includes/tabs/list_payments.php:100
+#: ../admin/includes/tabs/list_payments.php:150
+#: ../admin/includes/tabs/users.php:369 ../admin/includes/tabs/users.php:394
+#: ../classes/ihcAccountPage.class.php:216
+#: ../classes/ihcAccountPage.class.php:314 ../utilities.php:2025
+msgid "Level"
+msgstr "Seviye"
+
+#: ../admin/includes/tabs/list_payments.php:105
+#: ../admin/includes/tabs/list_payments.php:155
+#: ../classes/ihcAccountPage.class.php:221
+#: ../classes/ihcAccountPage.class.php:319
+#: ../classes/ihcAccountPage.class.php:359
+msgid "Amount"
+msgstr "Tutar"
+
+#: ../admin/includes/tabs/list_payments.php:110
+#: ../admin/includes/tabs/list_payments.php:160
+#: ../classes/ihcAccountPage.class.php:231
+#: ../classes/ihcAccountPage.class.php:329
+#: ../classes/ihcAccountPage.class.php:355
+msgid "Status"
+msgstr "Durum"
+
+#: ../admin/includes/tabs/list_payments.php:115
+#: ../admin/includes/tabs/list_payments.php:165
+msgid "Details"
+msgstr "Detaylar"
+
+#: ../admin/includes/tabs/list_payments.php:120
+#: ../admin/includes/tabs/list_payments.php:170
+#: ../classes/ihcAccountPage.class.php:236
+#: ../classes/ihcAccountPage.class.php:334
+msgid "Date"
+msgstr "Tarih"
+
+#: ../admin/includes/tabs/list_payments.php:207
+msgid "Deleted User"
+msgstr "Silinen Kullanıcı"
+
+#: ../admin/includes/tabs/list_payments.php:275
+msgid "View Details"
+msgstr "Detayları Görüntüle"
+
+#: ../admin/includes/tabs/list_payments.php:297
+msgid "No Payments Available to show up!"
+msgstr "Gösterilecek Ödeme Bulunmamakta!"
+
+#: ../admin/includes/tabs/locker.php:6
+msgid "Add New Locker"
+msgstr "Yeni Kilitleyici Ekle"
+
+#: ../admin/includes/tabs/locker.php:7
+msgid "Manage Lockers"
+msgstr "Kilitleyici Yönet"
+
+#: ../admin/includes/tabs/locker.php:38
+msgid "Locker Name"
+msgstr "Kilitleyici İsmi"
+
+#: ../admin/includes/tabs/locker.php:50
+msgid "Locker Template"
+msgstr "Kilitleyici Şablon"
+
+#: ../admin/includes/tabs/locker.php:78 ../admin/includes/tabs/login.php:59
+msgid "Additional Display Options"
+msgstr "Ek Görüntüleme Seçenekleri"
+
+#: ../admin/includes/tabs/locker.php:85
+msgid "Additional Links"
+msgstr "İlave Bağlantılar"
+
+#: ../admin/includes/tabs/locker.php:89
+msgid "Display Social Media Login"
+msgstr "Sosyal Medya Girişini Göster"
+
+#: ../admin/includes/tabs/locker.php:100
+msgid "Locker Messsage"
+msgstr "Kilit Sayfası Mesajı"
+
+#: ../admin/includes/tabs/locker.php:116
+#: ../admin/includes/tabs/notifications.php:84
+msgid "Update"
+msgstr "Güncelle"
+
+#: ../admin/includes/tabs/locker.php:124
+msgid "Locker Preview"
+msgstr "Kilit Sayfası Önizleme"
+
+#: ../admin/includes/tabs/locker.php:131 ../admin/includes/tabs/login.php:87
+#: ../admin/includes/tabs/social_login.php:568
+#: ../admin/includes/tabs/subscription_plan.php:51
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: ../admin/includes/tabs/locker.php:177 ../admin/includes/tabs/locker.php:187
+#: ../admin/includes/tabs/users.php:158
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/includes/tabs/locker.php:179 ../admin/includes/tabs/locker.php:189
+msgid "Templates"
+msgstr "Şablonlar"
+
+#: ../admin/includes/tabs/locker.php:241
+msgid "No Lockers available! Please create your first Loker."
+msgstr "Kilit Bulunmamakta! Lütfen ilk kilidinizi oluşturun."
+
+#: ../admin/includes/tabs/login.php:7
+msgid "Login Showcase"
+msgstr "Giriş Örnek Tasarımları"
+
+#: ../admin/includes/tabs/login.php:13 ../admin/includes/tabs/register.php:39
+#: ../admin/includes/tabs/register.php:40
+#: ../admin/includes/tabs/social_login.php:541
+#: ../admin/includes/tabs/subscription_plan.php:29
+#: ../admin/includes/tabs/subscription_plan.php:30
+#: ../admin/includes/tabs/subscription_plan.php:31
+#: ../admin/includes/tabs/subscription_plan.php:32
+msgid "Template"
+msgstr "Şablon"
+
+#: ../admin/includes/tabs/login.php:34
+msgid "Showcase Display"
+msgstr "Vitrin Gösterimi"
+
+#: ../admin/includes/tabs/login.php:37
+msgid "Login Template:"
+msgstr "Giriş Şablonu:"
+
+#: ../admin/includes/tabs/login.php:64 ../utilities.php:483
+#: ../utilities.php:543 ../utilities.php:586 ../utilities.php:638
+#: ../utilities.php:714 ../utilities.php:748 ../utilities.php:801
+msgid "Remember Me"
+msgstr "Beni Hatırla"
+
+#: ../admin/includes/tabs/login.php:69
+msgid "Register Link"
+msgstr "Kayıt Ol Bağlantısı"
+
+#: ../admin/includes/tabs/login.php:73
+msgid "Lost your password"
+msgstr "Şifrenizi mi Unuttunuz"
+
+#: ../admin/includes/tabs/login.php:78
+msgid "Show Social Media Login Buttons"
+msgstr "Sosyal Medya Giriş Düğmelerini Göster"
+
+#: ../admin/includes/tabs/login.php:104
+msgid "Messages:"
+msgstr "Mesajlar:"
+
+#: ../admin/includes/tabs/login.php:107
+msgid "Login Messages"
+msgstr "Giriş Mesajları"
+
+#: ../admin/includes/tabs/login.php:109 ../admin/includes/tabs/login.php:125
+msgid "Successfully Message:"
+msgstr "Başarılı Mesaj:"
+
+#: ../admin/includes/tabs/login.php:113
+msgid "Default message for pending users:"
+msgstr "Bekleyen Kullanıcılar için Standart Mesaj:"
+
+#: ../admin/includes/tabs/login.php:117 ../admin/includes/tabs/login.php:130
+msgid "Error Message:"
+msgstr "Hata Mesajı:"
+
+#: ../admin/includes/tabs/login.php:123
+msgid "Reset Password Messages"
+msgstr "Parola Sıfırlama Mesajları"
+
+#: ../admin/includes/tabs/notifications.php:9
+msgid "User Update"
+msgstr "Kullanıcı Güncelleme"
+
+#: ../admin/includes/tabs/notifications.php:10
+msgid "Before Expire"
+msgstr "Bitiş Tarihinden önce"
+
+#: ../admin/includes/tabs/notifications.php:11
+msgid "On Expire"
+msgstr "Bitiş Tarihi sırasında"
+
+#: ../admin/includes/tabs/notifications.php:29
+msgid "Add new Notification"
+msgstr "Yeni Bildirim Ekle"
+
+#: ../admin/includes/tabs/notifications.php:32
+msgid "Action:"
+msgstr "Eylem:"
+
+#: ../admin/includes/tabs/notifications.php:44
+msgid "Level:"
+msgstr "Seviye:"
+
+#: ../admin/includes/tabs/notifications.php:60
+msgid "Subject:"
+msgstr "Konu:"
+
+#: ../admin/includes/tabs/notifications.php:64
+msgid "Message:"
+msgstr "Mesaj:"
+
+#: ../admin/includes/tabs/notifications.php:109
+#: ../admin/includes/tabs/notifications.php:117
+msgid "Subject"
+msgstr "Konu"
+
+#: ../admin/includes/tabs/notifications.php:110
+#: ../admin/includes/tabs/notifications.php:118
+msgid "Action"
+msgstr "Eylem"
+
+#: ../admin/includes/tabs/notifications.php:111
+#: ../admin/includes/tabs/notifications.php:119
+msgid "Target Levels"
+msgstr "Hedef düzeyleri"
+
+#: ../admin/includes/tabs/opt_in.php:9
+msgid "Additional Main E-Mail"
+msgstr "Ek Ana E-Posta"
+
+#: ../admin/includes/tabs/opt_in.php:25
+msgid "Auth Code"
+msgstr "Doğrulama Kodu"
+
+#: ../admin/includes/tabs/opt_in.php:38
+msgid "Get Your Auth Code From Here"
+msgstr "Doğrulama Kodunu buradan al"
+
+#: ../admin/includes/tabs/opt_in.php:44
+msgid "Unique List ID:"
+msgstr "Benzersiz Liste ID:"
+
+#: ../admin/includes/tabs/opt_in.php:55
+msgid "Get Unique List ID"
+msgstr "Benzersiz Liste IDnizi alın"
+
+#: ../admin/includes/tabs/opt_in.php:64
+msgid "Connect"
+msgstr "Bağlan"
+
+#: ../admin/includes/tabs/opt_in.php:83 ../admin/includes/tabs/opt_in.php:130
+#: ../admin/includes/tabs/opt_in.php:177
+msgid "API Key"
+msgstr "API Key"
+
+#: ../admin/includes/tabs/opt_in.php:94 ../admin/includes/tabs/opt_in.php:141
+msgid "Where can I find my API Key?"
+msgstr "API Key imi nereden bulabilirim?"
+
+#: ../admin/includes/tabs/opt_in.php:100
+msgid "ID List"
+msgstr "ID Listesi"
+
+#: ../admin/includes/tabs/opt_in.php:111 ../admin/includes/tabs/opt_in.php:205
+msgid "Where can I find List ID?"
+msgstr "Liste ID imi nereden bulabilirim?"
+
+#: ../admin/includes/tabs/opt_in.php:147
+msgid "Campaign Token"
+msgstr "Campaign Token"
+
+#: ../admin/includes/tabs/opt_in.php:158
+msgid "Where can I find Campaign Token?"
+msgstr "Campaign Token imi nereden bulabilirim?"
+
+#: ../admin/includes/tabs/opt_in.php:188
+msgid "Where can I find API Key ?"
+msgstr "API Key imi nereden bulabilirim?"
+
+#: ../admin/includes/tabs/opt_in.php:194 ../admin/includes/tabs/opt_in.php:257
+msgid "List ID"
+msgstr "Liste ID"
+
+#: ../admin/includes/tabs/opt_in.php:232
+msgid "App ID"
+msgstr "App ID"
+
+#: ../admin/includes/tabs/opt_in.php:243
+msgid "Where can I get my App ID?"
+msgstr "App ID imi nereden bulabilirim?"
+
+#: ../admin/includes/tabs/opt_in.php:249
+msgid "App Password"
+msgstr "App Parola"
+
+#: ../admin/includes/tabs/opt_in.php:269
+msgid "Click on the list name:"
+msgstr "Liste adını tıklayın:"
+
+#: ../admin/includes/tabs/opt_in.php:273
+msgid "Click on the list name and get the ID from the URL"
+msgstr "Liste adını tıklayın ve URL’den ID yi alın"
+
+#: ../admin/includes/tabs/opt_in.php:304 ../utilities.php:476
+#: ../utilities.php:527 ../utilities.php:580 ../utilities.php:629
+#: ../utilities.php:683 ../utilities.php:739 ../utilities.php:794
+msgid "Password"
+msgstr "Parola"
+
+#: ../admin/includes/tabs/opt_in.php:315
+msgid "Get Lists"
+msgstr "Listeleri Al"
+
+#: ../admin/includes/tabs/opt_in.php:321
+msgid "List"
+msgstr "Liste"
+
+#: ../admin/includes/tabs/opt_in.php:354
+msgid "Select Wysija List:"
+msgstr "Wysija Listesini seçin:"
+
+#: ../admin/includes/tabs/opt_in.php:375
+msgid "No List available "
+msgstr "Liste Yok"
+
+#: ../admin/includes/tabs/opt_in.php:394
+msgid "Select MyMail List:"
+msgstr "MyMail Listesini seçin:"
+
+#: ../admin/includes/tabs/opt_in.php:413
+msgid "No List available"
+msgstr "Liste Yok"
+
+#: ../admin/includes/tabs/opt_in.php:432
+msgid "Username Or Email:"
+msgstr "Kullanıcı Adı veya E-posta"
+
+#: ../admin/includes/tabs/opt_in.php:440
+msgid "Api Key:"
+msgstr "Api Key:"
+
+#: ../admin/includes/tabs/opt_in.php:448
+msgid "List Name:"
+msgstr "Liste Adı:"
+
+#: ../admin/includes/tabs/opt_in.php:463
+msgid "Saved E-mail List"
+msgstr "Kayıtlı E-posta Listesi"
+
+#: ../admin/includes/tabs/payment_settings.php:2
+msgid "PayPal"
+msgstr "Paypal"
+
+#: ../admin/includes/tabs/payment_settings.php:3
+msgid "Authorize"
+msgstr "Yetkilendirme"
+
+#: ../admin/includes/tabs/payment_settings.php:4
+msgid "Stripe"
+msgstr "Stripe"
+
+#: ../admin/includes/tabs/payment_settings.php:5
+msgid "2Checkout"
+msgstr "2Checkout"
+
+#: ../admin/includes/tabs/payment_settings.php:6
+msgid "Bank transfer"
+msgstr "Banka Havalesi"
+
+#: ../admin/includes/tabs/payment_settings.php:7
+msgid "Payments Settings"
+msgstr "Ödeme Ayarları"
+
+#: ../admin/includes/tabs/payment_settings.php:18
+#: ../admin/includes/tabs/payment_settings.php:79
+#: ../admin/includes/tabs/payment_settings.php:144
+#: ../admin/includes/tabs/payment_settings.php:198
+msgid "Payments Services"
+msgstr "Ödemeler Hizmetleri"
+
+#: ../admin/includes/tabs/payment_settings.php:84
+msgid "PayPal Activation:"
+msgstr "PayPal Aktivasyonu:"
+
+#: ../admin/includes/tabs/payment_settings.php:87
+#: ../admin/includes/tabs/payment_settings.php:152
+#: ../admin/includes/tabs/payment_settings.php:206
+#: ../admin/includes/tabs/payment_settings.php:264
+#: ../admin/includes/tabs/payment_settings.php:335
+msgid ""
+"Once all the Settings are properly done, the Payment Option can be activated "
+"to be available for further use."
+msgstr ""
+"Tüm Ayarları düzgün bir kez yapılır, Ödeme Seçeneği ileri kullanıma hazır "
+"olması için aktif hale getirilebilir."
+
+#: ../admin/includes/tabs/payment_settings.php:102
+msgid "PayPal Settings:"
+msgstr "PayPal Ayarları:"
+
+#: ../admin/includes/tabs/payment_settings.php:106
+msgid "E-mail Address:"
+msgstr "E-posta Adresi:"
+
+#: ../admin/includes/tabs/payment_settings.php:110
+#: ../admin/includes/tabs/payment_settings.php:231
+#: ../admin/includes/tabs/payment_settings.php:301
+msgid "Enable Sandbox"
+msgstr "Sandbox Etkinleştir"
+
+#: ../admin/includes/tabs/payment_settings.php:114
+msgid "Redirect Page after Payment:"
+msgstr "Ödeme sonrası Sayfayı Yönlendir:"
+
+#: ../admin/includes/tabs/payment_settings.php:149
+msgid "Stripe Activation:"
+msgstr "Stripe Aktivasyonu:"
+
+#: ../admin/includes/tabs/payment_settings.php:166
+msgid "Stripe Settings:"
+msgstr "Stripe Ayarları"
+
+#: ../admin/includes/tabs/payment_settings.php:169
+msgid "Secret Key:"
+msgstr "Secret Key:"
+
+#: ../admin/includes/tabs/payment_settings.php:173
+msgid "Publishable Key:"
+msgstr "Publishable Key:"
+
+#: ../admin/includes/tabs/payment_settings.php:178
+msgid "Be sure You set your Web Hook URL to: "
+msgstr "Web Kancanızın URL sinin doğru olduğundan emin olun:"
+
+#: ../admin/includes/tabs/payment_settings.php:203
+msgid "Authorize.net Activation:"
+msgstr "Authorize.net Aktivasyon:"
+
+#: ../admin/includes/tabs/payment_settings.php:220
+msgid "Authorize.net Settings:"
+msgstr "Authorize.net Ayarları:"
+
+#: ../admin/includes/tabs/payment_settings.php:223
+msgid "Login ID:"
+msgstr "Giriş ID:"
+
+#: ../admin/includes/tabs/payment_settings.php:227
+msgid "Transaction Key:"
+msgstr "Transaction Key:"
+
+#: ../admin/includes/tabs/payment_settings.php:236
+msgid "Be sure You set your Silent Post URL to: "
+msgstr "Sessiz Gönderi URL nizin ayarlandığından emin olun:"
+
+#: ../admin/includes/tabs/payment_settings.php:256
+msgid "2Checkout Services"
+msgstr "2Checkout Hizmetleri"
+
+#: ../admin/includes/tabs/payment_settings.php:261
+msgid "2Checkout Activation:"
+msgstr "2Checkout Aktivasyon:"
+
+#: ../admin/includes/tabs/payment_settings.php:278
+msgid "2Checkout Settings:"
+msgstr "2Checkout Ayarları:"
+
+#: ../admin/includes/tabs/payment_settings.php:281
+msgid "API Username:"
+msgstr "API Kullanıcı adı"
+
+#: ../admin/includes/tabs/payment_settings.php:285
+msgid "API Password:"
+msgstr "API Şifresi:"
+
+#: ../admin/includes/tabs/payment_settings.php:289
+msgid "API Private Key:"
+msgstr "API Private Key:"
+
+#: ../admin/includes/tabs/payment_settings.php:293
+msgid "Account Number:"
+msgstr "Hesap Numarası:"
+
+#: ../admin/includes/tabs/payment_settings.php:297
+msgid "Secret Word:"
+msgstr "Gizli Kelime:"
+
+#: ../admin/includes/tabs/payment_settings.php:306
+msgid "Be sure You set Your 'Web Hook URL'(ISN) and Your 'Approved URL' to: "
+msgstr "Web Hook URL'(ISN) ve 'Approved URL' nizin ayarlandığından emin olun:"
+
+#: ../admin/includes/tabs/payment_settings.php:327
+msgid "Bank Transfer Services"
+msgstr "Banka Havalesi Hizmetleri"
+
+#: ../admin/includes/tabs/payment_settings.php:332
+msgid "Bank Transfer Activation:"
+msgstr "Banka Havalesi Aktivasyon:"
+
+#: ../admin/includes/tabs/payment_settings.php:349
+msgid "Bank Transfer Message:"
+msgstr "Banka Havalesi Mesaj:"
+
+#: ../admin/includes/tabs/register.php:5
+msgid "Register Showcase"
+msgstr "Kayıt Ol Örnek Tasarımları"
+
+#: ../admin/includes/tabs/register.php:7
+msgid "Custom Fields"
+msgstr "Özel Alanlar"
+
+#: ../admin/includes/tabs/register.php:35
+#: ../admin/includes/tabs/social_login.php:3
+msgid "Design"
+msgstr "Tasarım"
+
+#: ../admin/includes/tabs/register.php:42
+msgid "Register Template:"
+msgstr "Üye ol Şablonu:"
+
+#: ../admin/includes/tabs/register.php:68
+#: ../admin/includes/tabs/social_login.php:2
+#: ../admin/includes/tabs/social_login.php:538
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: ../admin/includes/tabs/register.php:71
+msgid "Choose Subscription Type:"
+msgstr "Abonelik Türü Seçin:"
+
+#: ../admin/includes/tabs/register.php:73
+msgid "Predifined Level"
+msgstr "Ön tanımlı Seviye"
+
+#: ../admin/includes/tabs/register.php:78
+msgid "Level assign to new user"
+msgstr "Yeni kullanıcıya Seviye ataması"
+
+#: ../admin/includes/tabs/register.php:80
+msgid "None"
+msgstr "Hiçbiri"
+
+#: ../admin/includes/tabs/register.php:94
+msgid "Wordpress Role Assign to new users:"
+msgstr "Yeni kullanıcılara atanan Wordpress Rolü:"
+
+#: ../admin/includes/tabs/register.php:111
+msgid "Password Minimum Length"
+msgstr "Minimum Parola Uzunluğu"
+
+#: ../admin/includes/tabs/register.php:115
+msgid "Password Strength Options"
+msgstr "Parola Güç Seçenekleri"
+
+#: ../admin/includes/tabs/register.php:117
+msgid "Standard"
+msgstr "Standart"
+
+#: ../admin/includes/tabs/register.php:118
+msgid "Characters and digits"
+msgstr "Karakterler ve Rakamlar"
+
+#: ../admin/includes/tabs/register.php:119
+msgid "Characters, digits, minimum one uppercase letter"
+msgstr "Karakterler, rakam, en az bir büyük harf"
+
+#: ../admin/includes/tabs/register.php:129
+msgid "Notify admin address on every new registration"
+msgstr "Her yeni kayıdı admin adresine bildir"
+
+#: ../admin/includes/tabs/register.php:140
+msgid "Enable Opt-In"
+msgstr "Opt-In Etkinleştirin"
+
+#: ../admin/includes/tabs/register.php:150
+msgid "Show Level Price & Data On Register Form"
+msgstr "Kayıt formunda Seviye fiyatını ve Verisini göster"
+
+#: ../admin/includes/tabs/register.php:154
+msgid "Opt-In Type:"
+msgstr "Opt-In Tipi:"
+
+#: ../admin/includes/tabs/register.php:161
+msgid "E-mail List"
+msgstr "E-posta Listesi"
+
+#: ../admin/includes/tabs/register.php:192
+msgid "Terms & Conditions (TOS) Label"
+msgstr "Kullanım Şartları Etiketi"
+
+#: ../admin/includes/tabs/register.php:236
+msgid "Error - Username is taken:"
+msgstr "Hata - Kullanıcı adı başkası tarafından alınmış:"
+
+#: ../admin/includes/tabs/register.php:241
+msgid "Error - Invalid Username:"
+msgstr "Hata - Geçersiz Kullanıcı Adı:"
+
+#: ../admin/includes/tabs/register.php:246
+msgid "Error - Email is taken:"
+msgstr "Hata - Eposta kullanımda:"
+
+#: ../admin/includes/tabs/register.php:251
+msgid "Error - Invalid Email Address:"
+msgstr "Hata - Geçersiz E-posta Adresi:"
+
+#: ../admin/includes/tabs/register.php:256
+msgid "Error - Email Addresses did not Match:"
+msgstr "Hata - E-posta Adresleri Eşleşmedi:"
+
+#: ../admin/includes/tabs/register.php:261
+msgid "Error - Password did not match:"
+msgstr "Hata - Şifre Eşleşmedi:"
+
+#: ../admin/includes/tabs/register.php:266
+msgid "Error - Password Only Characters and Digits:"
+msgstr "Hata - Şifre Sadece Karakter ve Rakam İçermeli:"
+
+#: ../admin/includes/tabs/register.php:273
+msgid "Error - Password Min Length:"
+msgstr "Hata - Parola Min Uzunluk:"
+
+#: ../admin/includes/tabs/register.php:275
+msgid "Where {X} will be the minimum length of password."
+msgstr "Parolanızın minimum uzunluğu {X} olmalı."
+
+#: ../admin/includes/tabs/register.php:279
+msgid "Error - Password Characters, Digits and minimum one uppercase letter:"
+msgstr "Hata - Şifre Karakterler, Rakamlar ve en az bir büyük harf içermeli:"
+
+#: ../admin/includes/tabs/register.php:284
+msgid "Error - Pending User:"
+msgstr "Hata - Bekleyen Kullanıcı:"
+
+#: ../admin/includes/tabs/register.php:289
+msgid "Error - Empty Required Fields:"
+msgstr "Hata - Doldurulması Zorunlu Alanlar Boş :"
+
+#: ../admin/includes/tabs/register.php:294
+msgid "Error - ReCaptcha:"
+msgstr "Hata - ReCaptcha:"
+
+#: ../admin/includes/tabs/register.php:299
+msgid "Error - TOS:"
+msgstr "Hata - Kullanım Şartları:"
+
+#: ../admin/includes/tabs/register.php:304
+msgid "Success Message:"
+msgstr "Başarı Mesajı:"
+
+#: ../admin/includes/tabs/register.php:333
+msgid "Add New Register Form Field"
+msgstr "Yeni Kayıt Formu Alanı Ekle"
+
+#: ../admin/includes/tabs/register.php:338
+msgid "Registration form fields"
+msgstr "Kayıt formu alanları"
+
+#: ../admin/includes/tabs/register.php:346
+#: ../admin/includes/tabs/register.php:360
+msgid "Label"
+msgstr "Etiket"
+
+#: ../admin/includes/tabs/register.php:347
+#: ../admin/includes/tabs/register.php:361
+msgid "Field Type"
+msgstr "Alan Tipi"
+
+#: ../admin/includes/tabs/register.php:348
+#: ../admin/includes/tabs/register.php:362
+msgid "On Admin"
+msgstr "Admin de"
+
+#: ../admin/includes/tabs/register.php:349
+#: ../admin/includes/tabs/register.php:363
+msgid "On Register Page"
+msgstr "Kayıt sayfasında"
+
+#: ../admin/includes/tabs/register.php:350
+#: ../admin/includes/tabs/register.php:364
+msgid "On Account Page"
+msgstr "Hesap Sayfasında"
+
+#: ../admin/includes/tabs/register.php:351
+#: ../admin/includes/tabs/register.php:365
+msgid "Required"
+msgstr "Gerekli"
+
+#: ../admin/includes/tabs/register.php:352
+#: ../admin/includes/tabs/register.php:366
+msgid "WP Native"
+msgstr "WP yerel"
+
+#: ../admin/includes/tabs/register.php:404
+#: ../admin/includes/tabs/register.php:418
+#: ../admin/includes/tabs/register.php:430
+#: ../admin/includes/tabs/register.php:444
+msgid "Always"
+msgstr "Her zaman"
+
+#: ../admin/includes/tabs/register.php:446
+msgid "Required When Selected"
+msgstr "İşaretlenirse zorunludur"
+
+#: ../admin/includes/tabs/register.php:460
+msgid "Yes"
+msgstr "Evet"
+
+#: ../admin/includes/tabs/register.php:462
+msgid "No"
+msgstr "Hayır"
+
+#: ../admin/includes/tabs/register.php:529
+msgid "User Custom Fields"
+msgstr "Kullanıcı Özel Alanları"
+
+#: ../admin/includes/tabs/register.php:539
+msgid "Slug:"
+msgstr "Slug:"
+
+#: ../admin/includes/tabs/register.php:542
+msgid "Field Label:"
+msgstr "Alan Etiketi:"
+
+#: ../admin/includes/tabs/register.php:545
+msgid "Field Type:"
+msgstr "Alan Tipi:"
+
+#: ../admin/includes/tabs/register.php:573
+msgid "Values:"
+msgstr "Değerler:"
+
+#: ../admin/includes/tabs/register.php:597
+msgid "Add New Value"
+msgstr "Yeni Değer Ekleyin"
+
+#: ../admin/includes/tabs/register.php:601
+msgid "SubLabel:"
+msgstr "AltEtiket:"
+
+#: ../admin/includes/tabs/showcases.php:6
+msgid "Front-End Showcases"
+msgstr "Önyüz Gösterimleri"
+
+#: ../admin/includes/tabs/social_login.php:34
+#: ../admin/includes/tabs/social_login.php:131
+#: ../admin/includes/tabs/social_login.php:196
+#: ../admin/includes/tabs/social_login.php:250
+#: ../admin/includes/tabs/social_login.php:307
+#: ../admin/includes/tabs/social_login.php:363
+#: ../admin/includes/tabs/social_login.php:417
+#: ../admin/includes/tabs/social_login.php:474
+#: ../admin/includes/tabs/social_login.php:533
+msgid "Social Media Login"
+msgstr "Sosyal Medya Giriş"
+
+#: ../admin/includes/tabs/social_login.php:44
+#: ../admin/includes/tabs/social_login.php:56
+#: ../admin/includes/tabs/social_login.php:68
+#: ../admin/includes/tabs/social_login.php:80
+#: ../admin/includes/tabs/social_login.php:92
+#: ../admin/includes/tabs/social_login.php:104
+#: ../admin/includes/tabs/social_login.php:116
+msgid "Settings:"
+msgstr "Ayarlar:"
+
+#: ../admin/includes/tabs/social_login.php:136
+msgid "Facebook Activation:"
+msgstr "Facebook Etkinleştirme:"
+
+#: ../admin/includes/tabs/social_login.php:139
+msgid ""
+"Once all the Settings are properly done, Facebook Login can be activated to "
+"be available for further use."
+msgstr ""
+"Bir kez tüm ayarları düzgün yapıldıktan sonra , Facebook girişi "
+"kullanılabilir olması için etkinleştirilebilir."
+
+#: ../admin/includes/tabs/social_login.php:153
+msgid "Facebook Settings:"
+msgstr "Facebook Ayarlar:"
+
+#: ../admin/includes/tabs/social_login.php:156
+#: ../admin/includes/tabs/social_login.php:442
+#: ../admin/includes/tabs/social_login.php:499
+msgid "Application ID:"
+msgstr "Uygulama Kimliği:"
+
+#: ../admin/includes/tabs/social_login.php:159
+#: ../admin/includes/tabs/social_login.php:224
+#: ../admin/includes/tabs/social_login.php:278
+#: ../admin/includes/tabs/social_login.php:335
+#: ../admin/includes/tabs/social_login.php:445
+#: ../admin/includes/tabs/social_login.php:502
+msgid "Application Secret:"
+msgstr "Uygulama Secret:"
+
+#: ../admin/includes/tabs/social_login.php:162
+msgid "How to create a Facebook App"
+msgstr "Facebook App nasıl oluşturulur"
+
+#: ../admin/includes/tabs/social_login.php:165
+#: ../admin/includes/tabs/social_login.php:229
+#: ../admin/includes/tabs/social_login.php:284
+#: ../admin/includes/tabs/social_login.php:341
+#: ../admin/includes/tabs/social_login.php:396
+#: ../admin/includes/tabs/social_login.php:451
+msgid "Go to :"
+msgstr "Git:"
+
+#: ../admin/includes/tabs/social_login.php:166
+msgid "Select \"Add a New App\" from the \"My Apps\" menu at the top."
+msgstr "Yukarıdaki “Uygulamalarım” menüsünden “Yeni uygulama Ekle” yi seçin."
+
+#: ../admin/includes/tabs/social_login.php:167
+msgid ""
+"Select Site Web, fill out display name and click \"Create New Facebook App ID"
+"\". "
+msgstr ""
+"Web sitesini seçtikten sonra görünen adı doldurun ve “Yeni Facebook App ID "
+"oluştur” u tıklayın."
+
+#: ../admin/includes/tabs/social_login.php:168
+msgid ""
+"Select a category from the popup that show up and then click \"Create App ID"
+"\"."
+msgstr "Pop up ekranından kategori seçin ve “Create App ID” butonuna basın."
+
+#: ../admin/includes/tabs/social_login.php:169
+msgid "Fill out Display Name, choose a category and click Create App."
+msgstr "Görünen ad doldurun, bir kategori seçin ve App Oluştur’ı tıklatın."
+
+#: ../admin/includes/tabs/social_login.php:171
+msgid "After that in \"Tell us about your website\" You must add Site URL : "
+msgstr ""
+"Sonrasında “Websitenizden bahsedin” bölümüne sitenizin URL sini ekleyin:"
+
+#: ../admin/includes/tabs/social_login.php:172
+msgid " and then click \"Next\"."
+msgstr "ardından “Sonraki” butonuna basın"
+
+#: ../admin/includes/tabs/social_login.php:174
+msgid "The Application was created but it's not active."
+msgstr "Uygulama oluşturuldu, ancak etkin değil."
+
+#: ../admin/includes/tabs/social_login.php:175
+msgid ""
+"To activate it, go to top menu \"My Apps\" and select the name of Your App."
+msgstr "Aktive etmek için, Uygulamalarım menüsünden uygulama adınızı seçiniz."
+
+#: ../admin/includes/tabs/social_login.php:176
+msgid ""
+"In the left menu go to \"Settings\"->\"Basic\" and fill out the \"Contact "
+"Email\" and save."
+msgstr ""
+"Sol taraftaki menüden \"Settings\"->\"Basic\" e gidin ve \"Contact Email\" i "
+"doldurun ve kaydedin."
+
+#: ../admin/includes/tabs/social_login.php:177
+msgid ""
+"Next you must go to left menu at \"Status & Review\" and make Your App "
+"Public."
+msgstr ""
+"Daha sonra sol menüdeki \"Status & Review\" kısmına gidin ve uygulamanızı "
+"Herkese görünür yapın."
+
+#: ../admin/includes/tabs/social_login.php:178
+msgid "You will find the App ID and App Secret in 'Dashboard' section."
+msgstr "App ID and App Secret inizi 'Dashboard' alanında bulabilirsiniz."
+
+#: ../admin/includes/tabs/social_login.php:201
+msgid "Twitter Activation:"
+msgstr "Twitter Aktivasyonu:"
+
+#: ../admin/includes/tabs/social_login.php:204
+msgid ""
+"Once all the Settings are properly done, Twitter Login can be activated to "
+"be available for further use."
+msgstr ""
+"Bir kez tüm ayarları düzgün yapıldıktan sonra , Twitter girişi "
+"kullanılabilir olması için etkinleştirilebilir."
+
+#: ../admin/includes/tabs/social_login.php:218
+msgid "Twitter Settings:"
+msgstr "Twitter Ayarları"
+
+#: ../admin/includes/tabs/social_login.php:221
+#: ../admin/includes/tabs/social_login.php:275
+#: ../admin/includes/tabs/social_login.php:332
+msgid "Application Key:"
+msgstr "Application Key:"
+
+#: ../admin/includes/tabs/social_login.php:227
+msgid "How to create a Twitter App"
+msgstr "Twitter App nasıl oluşturulur"
+
+#: ../admin/includes/tabs/social_login.php:230
+msgid "Click 'Create New App'."
+msgstr "‘Yeni App Oluştur’ u tıklayın."
+
+#: ../admin/includes/tabs/social_login.php:231
+msgid ""
+"Fill out the 'Name', 'Description', 'Site URL'. At 'Callback URL' You must "
+"add: "
+msgstr ""
+"‘Ad’, ‘Açıklama’, ‘Site URL’ doldurun. ‘Callback URL’ eklemeniz gerekir:"
+
+#: ../admin/includes/tabs/social_login.php:232
+msgid ""
+"You will find the Consumer Key (API Key) and Consumer Secret (API Secret) in "
+"'Keys and Access Tokens' section."
+msgstr ""
+"Consumer Key (API Key) veConsumer Secret (API Secret) bilgilerini 'Keys and "
+"Access Tokens' bölümünde bulacaksınız."
+
+#: ../admin/includes/tabs/social_login.php:255
+msgid "LinkedIn Activation:"
+msgstr "LinkedIn Aktivasyon:"
+
+#: ../admin/includes/tabs/social_login.php:258
+msgid ""
+"Once all the Settings are properly done, LinkedIn Login can be activated to "
+"be available for further use."
+msgstr ""
+"Bir kez tüm ayarları düzgün yapıldıktan sonra , Linkedin girişi "
+"kullanılabilir olması için etkinleştirilebilir."
+
+#: ../admin/includes/tabs/social_login.php:272
+msgid "LinkedIn Settings:"
+msgstr "LinkedIn Ayarları:"
+
+#: ../admin/includes/tabs/social_login.php:282
+msgid "How to create a LinkedIn App"
+msgstr "Linkedin App nasıl oluşturulur"
+
+#: ../admin/includes/tabs/social_login.php:285
+msgid "Click 'Create Application'."
+msgstr "‘Uygulama Oluştur’ u tıklayın."
+
+#: ../admin/includes/tabs/social_login.php:286
+msgid "Fill the required fields and Submit."
+msgstr "Gerekli alanları doldurun ve gönderin."
+
+#: ../admin/includes/tabs/social_login.php:287
+msgid ""
+"After You crate the App, in the left menu go to 'Settings' and change "
+"'Application Status' to 'Live'."
+msgstr ""
+"Uygulamayı oluşturduktan sora sol taraftaki menüden 'Settings' e gidin ve "
+"'Application Status' ü yayında olarak değiştirin."
+
+#: ../admin/includes/tabs/social_login.php:288
+msgid "You will find the App Key and App Secret in 'Authentification' section."
+msgstr ""
+"App Key and App Secret inizi 'Authentication' bölümünden bulabilirsiniz."
+
+#: ../admin/includes/tabs/social_login.php:312
+msgid "Tumblr Activation:"
+msgstr "Tumblr Aktivasyon:"
+
+#: ../admin/includes/tabs/social_login.php:315
+msgid ""
+"Once all the Settings are properly done, Tumblr Login can be activated to be "
+"available for further use."
+msgstr ""
+"Bir kez tüm ayarları düzgün yapıldıktan sonra , Tumblr girişi kullanılabilir "
+"olması için etkinleştirilebilir."
+
+#: ../admin/includes/tabs/social_login.php:329
+msgid "Tumblr Settings:"
+msgstr "Tumblr Ayarları:"
+
+#: ../admin/includes/tabs/social_login.php:339
+msgid "How to create a Tumblr App"
+msgstr "Tumblr App nasıl oluşturulur"
+
+#: ../admin/includes/tabs/social_login.php:342
+#: ../admin/includes/tabs/social_login.php:397
+msgid "Register New Application"
+msgstr "Yeni Uygulama Kaydet"
+
+#: ../admin/includes/tabs/social_login.php:343
+msgid "Fill out the required fields and Submit."
+msgstr "Gerekli alanları doldurun ve gönderin."
+
+#: ../admin/includes/tabs/social_login.php:344
+msgid "Set the 'Default callback URL' as : "
+msgstr "‘Varsayılan Callback URL’ ayarlayın:"
+
+#: ../admin/includes/tabs/social_login.php:345
+msgid ""
+"After submit You will find Application Key and Application Secret just "
+"beside App Logo."
+msgstr ""
+"Gönderdikten sonra Application Key ve Application Secret değerlerini "
+"Uygulama logosunun altında bulacaksınız"
+
+#: ../admin/includes/tabs/social_login.php:368
+msgid "Instagram Activation:"
+msgstr "Instagram Aktivasyon:"
+
+#: ../admin/includes/tabs/social_login.php:371
+msgid ""
+"Once all the Settings are properly done, Instagram Login can be activated to "
+"be available for further use."
+msgstr ""
+"Bir kez tüm ayarları düzgün yapıldıktan sonra , Instagram girişi "
+"kullanılabilir olması için etkinleştirilebilir."
+
+#: ../admin/includes/tabs/social_login.php:385
+msgid "Instagram Settings:"
+msgstr "Instagram Ayarları:"
+
+#: ../admin/includes/tabs/social_login.php:388
+msgid "Client ID:"
+msgstr "Müşteri Kimliği:"
+
+#: ../admin/includes/tabs/social_login.php:391
+msgid "Client Secret:"
+msgstr "Müşteri Gizli Anahtarı"
+
+#: ../admin/includes/tabs/social_login.php:394
+msgid "How to create a Instagram App"
+msgstr "Instagram App nasıl oluşturulur"
+
+#: ../admin/includes/tabs/social_login.php:398
+msgid "Fill out the required fields."
+msgstr "Gerekli alanları doldurun."
+
+#: ../admin/includes/tabs/social_login.php:399
+msgid "Set the 'Callback URL' for your application as :"
+msgstr "Uygulamanız için 'Callback URL' ayarlayın :"
+
+#: ../admin/includes/tabs/social_login.php:400
+msgid ""
+"After submit You will find 'Client Id' and 'Cliend Secret' in 'Manage "
+"Clients' section"
+msgstr ""
+"Kaydettikten sonra  'Manage Clients' bölümünde 'Client Id' ve 'Cliend "
+"Secret' inizi bulabilirsiniz."
+
+#: ../admin/includes/tabs/social_login.php:422
+msgid "Vkontakte Activation:"
+msgstr "Vkontakte Aktivasyon:"
+
+#: ../admin/includes/tabs/social_login.php:425
+msgid ""
+"Once all the Settings are properly done, Vkontakte Login can be activated to "
+"be available for further use."
+msgstr ""
+"Bir kez tüm ayarları düzgün yapıldıktan sonra , VKontakte girişi "
+"kullanılabilir olması için etkinleştirilebilir."
+
+#: ../admin/includes/tabs/social_login.php:439
+msgid "Vkontakte Settings:"
+msgstr "Vkontakte ayarlar:"
+
+#: ../admin/includes/tabs/social_login.php:449
+msgid "How to create a VK App"
+msgstr "VK App nasıl oluşturulur"
+
+#: ../admin/includes/tabs/social_login.php:452
+msgid "Create new Application."
+msgstr "Yeni Uygulama Oluşturun."
+
+#: ../admin/includes/tabs/social_login.php:453
+msgid "At 'Category' You must set as 'Website'"
+msgstr "‘Kategori’ de ’Websitesini ‘ ayarlamanız gerekir"
+
+#: ../admin/includes/tabs/social_login.php:454
+msgid ""
+"After Submit Go to 'Settings' and set the 'Authorized redirect URI' as : "
+msgstr ""
+"Kaydettikten sonra ‘Ayarlar’ kısmına gidin ve 'Authorized redirect URI' yi "
+"şu şekilde ayarlayın:"
+
+#: ../admin/includes/tabs/social_login.php:455
+msgid ""
+"Be sure 'Application status' is set as 'Application on and visible to all'!"
+msgstr ""
+"‘Uygulama durumu’ ‘Uygulama açık ve herkese görünür’ olarak ayarlandığından "
+"emin olun!"
+
+#: ../admin/includes/tabs/social_login.php:456
+msgid "Save Settings and copy the Application ID and Application Secret!"
+msgstr "Ayarları kaydet ve Application ID ve Application Secret ‘i kopyala!"
+
+#: ../admin/includes/tabs/social_login.php:479
+msgid "Google Activation:"
+msgstr "Google Aktivasyon:"
+
+#: ../admin/includes/tabs/social_login.php:482
+msgid ""
+"Once all the Settings are properly done, Google Login can be activated to be "
+"available for further use."
+msgstr ""
+"Bir kez tüm ayarları düzgün yapıldıktan sonra , Google girişi kullanılabilir "
+"olması için etkinleştirilebilir."
+
+#: ../admin/includes/tabs/social_login.php:496
+msgid "Google Settings:"
+msgstr "Google ayarlar:"
+
+#: ../admin/includes/tabs/social_login.php:506
+msgid "How to create a Google App"
+msgstr "Google uygulaması nasıl oluşturabilirim"
+
+#: ../admin/includes/tabs/social_login.php:508
+msgid "Go to: "
+msgstr "Git:"
+
+#: ../admin/includes/tabs/social_login.php:509
+msgid "Create new project."
+msgstr "Proje Oluştur"
+
+#: ../admin/includes/tabs/social_login.php:510
+msgid "Go to 'Social APIs' -> 'Google+ API' and Enable API"
+msgstr "'Social APIs' lere gidin -> 'Google+ API' ve API yi aktive edin"
+
+#: ../admin/includes/tabs/social_login.php:511
+msgid ""
+"Go to 'Credentials' -> 'Credentials', at 'add credentials' select 'OAuth 2.0 "
+"clinet ID' "
+msgstr ""
+"'Credentials' -> 'Credentials', at 'add credentials' select 'OAuth 2.0 "
+"clinet ID' "
+
+#: ../admin/includes/tabs/social_login.php:512
+msgid "Select web application, and set the 'Authorized redirect URIs' as : "
+msgstr "Web uygulamasını seçin ve ‘Authorized redirect URIs' yi ayarlayın:"
+
+#: ../admin/includes/tabs/social_login.php:513
+msgid ""
+"After Submit a popup will appear with 'Application ID' and 'Application "
+"Secret'."
+msgstr ""
+"'Application ID' ve 'Application Secret' ınızı gönder dedikten sonra oluşan "
+"pop up ta göreceksiniz."
+
+#: ../admin/includes/tabs/social_login.php:553
+msgid "Show Label"
+msgstr "Etiketi Göster"
+
+#: ../admin/includes/tabs/subscription_plan.php:24
+msgid "Registration 'Select Level' Showcase:"
+msgstr "Kayıt ‘Düzey Seç’ şablonları:"
+
+#: ../admin/includes/tabs/users.php:2
+msgid "Add New User"
+msgstr "Yeni Kullanıcı Ekle"
+
+#: ../admin/includes/tabs/users.php:3
+msgid "Manage Users"
+msgstr "Kullanıcıları Yönet"
+
+#: ../admin/includes/tabs/users.php:95
+msgid "Add/Edit User"
+msgstr "Kullanıcı Ekle/Düzenle"
+
+#: ../admin/includes/tabs/users.php:112
+msgid "MemberShip Users"
+msgstr "Üyelik Kullanıcıları"
+
+#: ../admin/includes/tabs/users.php:118
+msgid "Click on this if download doesn't start automatically in 20 seconds!"
+msgstr "Download otomatik olarak 20 saniye içinde başlamazsa buraya tıklayın!"
+
+#: ../admin/includes/tabs/users.php:131
+msgid "Search by Name or Username"
+msgstr "İsme veya Kullanıcı adına göre ara"
+
+#: ../admin/includes/tabs/users.php:157
+msgid "Email"
+msgstr "E-posta"
+
+#: ../admin/includes/tabs/users.php:159
+msgid "Registered Time"
+msgstr "Kaydedilen Tarih"
+
+#: ../admin/includes/tabs/users.php:162
+msgid "ASC"
+msgstr "Artan"
+
+#: ../admin/includes/tabs/users.php:163
+msgid "DESC"
+msgstr "Azalan"
+
+#: ../admin/includes/tabs/users.php:334
+msgid "Number of Users to Display:"
+msgstr "Gösterilecek Kullanıcı Sayısı:"
+
+#: ../admin/includes/tabs/users.php:372 ../admin/includes/tabs/users.php:397
+msgid "WP User Role"
+msgstr "WP Kullanıcı Rolü"
+
+#: ../admin/includes/tabs/users.php:375 ../admin/includes/tabs/users.php:400
+#: ../utilities.php:2027
+msgid "Join Date"
+msgstr "Üyelik Tarihi"
+
+#: ../admin/includes/tabs/users.php:423
+msgid "Approve User"
+msgstr "Kullanıcı Onayla"
+
+#: ../admin/includes/tabs/users.php:485
+msgid "Pending"
+msgstr "Bekliyor"
+
+#: ../admin/includes/tabs/users.php:517
+msgid "No Users Available."
+msgstr "Kullanıcı Yok."
+
+#: ../admin/includes/vc_map.php:10 ../admin/includes/vc_map.php:30
+#: ../admin/includes/vc_map.php:50 ../admin/includes/vc_map.php:70
+#: ../admin/includes/vc_map.php:90 ../admin/includes/vc_map.php:110
+#: ../admin/includes/vc_map.php:132 ../admin/includes/vc_map.php:160
+msgid "Content"
+msgstr "İçerik"
+
+#: ../admin/includes/vc_map.php:14
+msgid "Register Form Shortcode"
+msgstr "Kayıt Formu Kısakodu"
+
+#: ../admin/includes/vc_map.php:34
+msgid "Login Form Shortcode"
+msgstr "Giriş Formu Kısakodu"
+
+#: ../admin/includes/vc_map.php:54
+msgid "Logout Link Shortcode"
+msgstr "Çıkış Bağlantısı Kısakodu"
+
+#: ../admin/includes/vc_map.php:74
+msgid "Password Recovery Shortcode"
+msgstr "Şifre Kurtarma Kısakodu"
+
+#: ../admin/includes/vc_map.php:94
+msgid "User Page Shortcode"
+msgstr "Kullanıcı Sayfası Kısakodu"
+
+#: ../admin/includes/vc_map.php:114
+msgid "Subscription Plan Shortcode"
+msgstr "Abonelik Planı Kısakodu"
+
+#: ../admin/includes/vc_map.php:136
+msgid "Type:"
+msgstr "Tür:"
+
+#: ../admin/includes/vc_map.php:162
+msgid "<p>I am test text block. Click edit button to change this text.</p>"
+msgstr ""
+"<p> Ben Test metiniyim. Bu metni değiştirmek için düzenle düğmesine "
+"tıklayın. </p>"
+
+#: ../admin/includes/vc_map.php:163
+msgid "Enter your content."
+msgstr "İçerik girin."
+
+#: ../classes/UserAddEdit.class.php:66
+msgid "Confirm Password"
+msgstr "Parolayı Doğrula"
+
+#: ../classes/UserAddEdit.class.php:67
+msgid "Last Name"
+msgstr "Soyad"
+
+#: ../classes/UserAddEdit.class.php:68
+msgid "First Name"
+msgstr "Ad"
+
+#: ../classes/UserAddEdit.class.php:223
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: ../classes/UserAddEdit.class.php:330
+msgid "Select Level:"
+msgstr "Seviye Seç:"
+
+#: ../classes/UserAddEdit.class.php:652 ../classes/ihcAccountPage.class.php:354
+msgid "Level Name"
+msgstr "Seviye Adı"
+
+#: ../classes/UserAddEdit.class.php:652
+msgid "Acess Type"
+msgstr "Erişim Türü"
+
+#: ../classes/UserAddEdit.class.php:652
+msgid "Start Time"
+msgstr "Başlangıç Tarihi"
+
+#: ../classes/UserAddEdit.class.php:652 ../classes/ihcAccountPage.class.php:356
+msgid "Expire Time"
+msgstr "Bitiş Tarihi"
+
+#: ../classes/UserAddEdit.class.php:685
+msgid "Select Post For Account Page Overview:"
+msgstr "Hesaba Genel bakış sayfasını ayalayın:"
+
+#: ../classes/UserAddEdit.class.php:1279
+msgid "New Membership User registration on "
+msgstr "Yeni Kullanıcı Üyelik Kaydı"
+
+#: ../classes/UserAddEdit.class.php:1281
+#, php-format
+msgid "New Membership User registration on: <strong> %s </strong>"
+msgstr "Yeni Kullanıcı Üyelik Kaydı :  <strong>%s</strong>"
+
+#: ../classes/UserAddEdit.class.php:1282
+#, php-format
+msgid "<strong> Username:</strong> %s"
+msgstr "<strong>Kullanıcı Adı:</strong> %s"
+
+#: ../classes/UserAddEdit.class.php:1283
+#, php-format
+msgid "<strong> Email:</strong> %s"
+msgstr "<strong>E-posta:</strong> %s"
+
+#: ../classes/UserAddEdit.class.php:1285
+#, php-format
+msgid "<strong> Level:</strong> %s"
+msgstr "<strong>Seviye:</strong> %s"
+
+#: ../classes/ihcAccountPage.class.php:77
+msgid "Welcome"
+msgstr "Hoşgeldiniz"
+
+#: ../classes/ihcAccountPage.class.php:191
+msgid "Update Profile"
+msgstr "Profili Güncelle"
+
+#: ../classes/ihcAccountPage.class.php:206
+msgid "Transactions History"
+msgstr "İşlem Geçmişi"
+
+#: ../classes/ihcAccountPage.class.php:291
+#: ../classes/ihcAccountPage.class.php:293
+#: ../classes/ihcAccountPage.class.php:295
+msgid "Completed"
+msgstr "Tamamlandı"
+
+#: ../classes/ihcAccountPage.class.php:342
+msgid "No transactions available yet!"
+msgstr "Henüz hiçbir hareket olmadı!"
+
+#: ../classes/ihcAccountPage.class.php:348
+msgid "Subscription Details"
+msgstr "Abonelik detayları"
+
+#: ../classes/ihcAccountPage.class.php:358
+msgid "Reccurence"
+msgstr "Tekrarlama"
+
+#: ../classes/ihcAccountPage.class.php:367
+msgid "--"
+msgstr "—"
+
+#: ../classes/ihcAccountPage.class.php:369 ../utilities.php:2459
+msgid "Expired"
+msgstr "Süresi Doldu"
+
+#: ../classes/ihcAccountPage.class.php:383
+#: ../classes/ihcAccountPage.class.php:385
+msgid "Renew"
+msgstr "Yenile"
+
+#: ../public/functions/lost_pass.php:24
+msgid "Password reset on "
+msgstr "Şifre Sıfırlama Açık"
+
+#: ../public/functions/lost_pass.php:25
+msgid "Your new password it's: "
+msgstr "Yeni Şifreniz:"
+
+#: ../public/shortcodes.php:37
+msgid ""
+"<strong>Admin Info</strong>: Loggin Form is not showing up when You're "
+"logged."
+msgstr ""
+"<strong>Admin Uyarısı</strong>: Giriş Yaptığınız zaman Giriş Formu "
+"Gösterilmez."
+
+#: ../public/shortcodes.php:61
+msgid "Error"
+msgstr "Hata"
+
+#: ../public/shortcodes.php:83
+msgid "Log Out"
+msgstr "Çıkış Yap"
+
+#: ../public/shortcodes.php:190
+msgid ""
+"<strong>Admin Info</strong>: Register Form is not showing up when You're "
+"logged."
+msgstr ""
+"<strong>Admin Uyarısı</strong>: Giriş Yaptığınız zaman Giriş Formu "
+"Gösterilmez."
+
+#: ../public/shortcodes.php:221
+msgid "Coupon Code"
+msgstr "Kupon Kodu"
+
+#: ../public/shortcodes.php:244
+msgid "Sign Up"
+msgstr "Şimdi Kaydolun"
+
+#: ../public/shortcodes.php:253
+msgid "Purchased"
+msgstr "Satın alınan"
+
+#: ../utilities.php:427 ../utilities.php:436 ../utilities.php:445
+msgid "Username or E-mail"
+msgstr "Kullanıcı Adı ya da E-posta"
+
+#: ../utilities.php:430 ../utilities.php:439 ../utilities.php:449
+msgid "Get New Password"
+msgstr "Yeni Parola Alın"
+
+#: ../utilities.php:503 ../utilities.php:563 ../utilities.php:616
+#: ../utilities.php:657 ../utilities.php:704 ../utilities.php:767
+#: ../utilities.php:821 ../utilities.php:913
+msgid "Lost your password?"
+msgstr "Şifrenizi mi unuttunuz?"
+
+#: ../utilities.php:516 ../utilities.php:537 ../utilities.php:595
+#: ../utilities.php:671 ../utilities.php:726 ../utilities.php:781
+#: ../utilities.php:834
+msgid "Log In"
+msgstr "Giriş Yap"
+
+#: ../utilities.php:1256 ../utilities.php:1259
+msgid "Upload"
+msgstr "Yükle"
+
+#: ../utilities.php:2026
+msgid "WP User Roles"
+msgstr "WP Kullanıcı Rolleri"
+
+#: ../utilities.php:2447
+msgid "Active"
+msgstr "Aktif"
+
+#: ../utilities.php:2452
+msgid "Canceled"
+msgstr "İptal Edildi"
+
+#: ../utilities.php:2457
+msgid "Hold"
+msgstr "Beklet"
+
+#: ../utilities.php:2461
+msgid "Inactive"
+msgstr "Devre Dışı"

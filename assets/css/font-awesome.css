@@ -1,0 +1,189 @@
+/*!
+ *  Font Awesome 4.3.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+/* FONT PATH
+ * -------------------------- */
+@font-face {
+  font-family: 'FontAwesome-ihc';
+  src: url('../fonts/fontawesome-webfont.eot?v=4.3.0');
+  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.3.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.3.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.3.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.3.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.fa-ihc {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome-ihc;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transform: translate(0, 0);
+}
+.fa-ihc-menu{
+	font-size: 30px;
+	display: block;
+	margin-bottom: 5px;
+}
+.fa-users-ihc:before {
+    content: "\f0c0";
+}
+.fa-user-ihc:before{
+	content: "\f007";
+}
+.fa-levels-ihc:before{
+	content: "\f005";
+}
+.fa-locker-ihc:before {
+    content: "\f023";
+}
+.fa-register-ihc:before {
+	content: "\f234";
+}
+.fa-login-ihc:before {
+	content: "\f090";
+}
+.fa-payments-ihc:before {
+	content: "\f0d6";
+}
+.fa-opt_in-ihc:before {
+	content: "\f0e0";
+}
+.fa-block_url-ihc:before{
+	content: '\f023';
+}
+.fa-payment_settings-ihc:before{
+	content: '\f155';
+}
+.fa-general-ihc:before {
+	content: "\f013";
+}
+.fa-help-ihc:before {
+	content: "\f059";
+}
+.fa-coupons-ihc:before{
+	content: "\f145";
+}
+.fa-showcases-ihc:before {
+	content: "\f109";
+}
+.fa-showcases-ihc:before {
+	content: "\f109";
+}
+.fa-social_login-ihc:before {
+  content: "\f17d";
+}
+.fa-sign-out-ihc:before {
+  content: "\f08b";
+}
+.fa-sign-in-ihc:before {
+  content: "\f090";
+}
+.fa-unlock-ihc:before {
+  content: "\f09c";
+}
+.fa-username-ihc:before {
+  content: "\f007";
+}
+.fa-pass-ihc:before {
+  content: "\f023";
+}
+.fa-notifications-ihc:before{
+  content: "\f0f3";	
+}
+.ihc-icon-edit-e:before {
+    content: "\f044";
+    color: #666;
+    font-size: 14px;
+    padding-left: 4px;
+}
+.ihc-icon-remove-e:before {
+	content: "\f014";
+    color: #666;
+    font-size: 14px;
+    padding-left: 4px;
+}
+.ihc-icon-preview:before{
+	content: "\f06e";
+    color: #666;
+    font-size: 14px;
+    padding-left: 4px;
+}
+.ihc-icon-pop-list:before{
+	content: "\f10c";
+	font-size: 14px;
+	line-height: 17px;
+	vertical-align: top;
+	color: #fff;
+}
+.fa-ihc-dashboard{
+  margin-right: 0px;
+  width: 66px;
+  height: 66px;
+  text-align: center;
+  color: #ffffff;
+  padding: 20px;
+  border-radius: 50%;
+  font-size: 28px;
+  float: left!important;
+  box-sizing: border-box;
+}
+.fa-list-ihc:before{
+	content: "\f0ca";
+	line-height: 17px;
+	color: #fff;
+	font-size: 27px;
+  	color: #fff;
+  	margin: 3px 6px 0 0;
+}
+.ihc-icon-pop-list-black:before{
+	content: "\f10c";
+	font-size: 14px;
+	line-height: 17px;
+	vertical-align: top;
+	color: #000;	
+}
+.fa-export-csv:before {
+    content: "\f019";
+}
+.fa-overview-account-ihc:before {
+    content: "\f015";
+}
+.fa-profile-account-ihc:before {
+    content: "\f007";
+}
+.fa-subscription-account-ihc:before {
+    content: "\f0a1";
+}
+.fa-transactions-account-ihc:before {
+    content: "\f155";
+}
+.fa-user-plus-ihc:before{
+	content: "\f234";
+}
+/********** SOCIAL LOGIN *********/
+
+.fa-ihc-fb:before,.fa-ihc-fb:after{
+	content: "\f09a";
+}
+.fa-ihc-tw:before,.fa-ihc-tw:after{
+	content: "\f099";
+}
+.fa-ihc-in:before,.fa-ihc-in:after{
+	content: "\f0e1";
+}
+.fa-ihc-goo:before,.fa-ihc-goo:after{
+	content: "\f1a0";
+}
+.fa-ihc-tbr:before,.fa-ihc-tbr:after{
+	content: "\f173";
+}
+.fa-ihc-vk:before,.fa-ihc-vk:after{
+	content: "\f189";
+}
+.fa-ihc-ig:before,.fa-ihc-ig:after{
+	content: "\f16d";
+}
+.fa-social-account-ihc:before{
+	content: "\f067";
+}

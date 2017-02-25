@@ -1,0 +1,2667 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-23 10:18+0200\n"
+"PO-Revision-Date: 2015-11-23 10:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../admin/includes/custom-nav-menu.php:65
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:69
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:82
+msgid "sub item"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:114
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:123
+msgid "URL"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:130
+msgid "Navigation Label"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:136
+msgid "Title Attribute"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:143
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:148
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:154
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:160
+msgid "Description"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:162
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:168
+msgid "Move"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:169
+msgid "Up one"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:170
+msgid "Down one"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:173
+msgid "To the top"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:194
+#: ../admin/includes/custom-nav-menu.php:262
+#: ../admin/includes/meta_boxes/page_post_settings.php:57
+#: ../admin/includes/tabs/general.php:361 ../admin/includes/vc_map.php:205
+#: ../classes/UserAddEdit.class.php:352
+msgid "Removing tag"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:220
+msgid "Section"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:223
+#: ../admin/includes/tabs/general.php:322
+msgid "Block Menu Item Only"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:224
+#: ../admin/includes/tabs/general.php:323
+msgid "Show Menu Item Only"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:228
+#: ../admin/includes/meta_boxes/page_post_settings.php:16
+msgid "for"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:230
+#: ../admin/includes/functions.php:673
+#: ../admin/includes/meta_boxes/page_post_settings.php:23
+#: ../admin/includes/tabs/block_url.php:5
+#: ../admin/includes/tabs/coupons.php:109
+#: ../admin/includes/tabs/general.php:329 ../admin/includes/vc_map.php:178
+msgid "All"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:230
+#: ../admin/includes/meta_boxes/page_post_settings.php:23
+#: ../admin/includes/tabs/block_url.php:5
+#: ../admin/includes/tabs/general.php:329 ../admin/includes/vc_map.php:178
+msgid "Registered Users"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:230
+#: ../admin/includes/meta_boxes/page_post_settings.php:23
+#: ../admin/includes/tabs/block_url.php:5
+#: ../admin/includes/tabs/general.php:329 ../admin/includes/vc_map.php:178
+msgid "Unregistered Users"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:281
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:294 ../utilities.php:1251
+#: ../utilities.php:1253
+msgid "Remove"
+msgstr ""
+
+#: ../admin/includes/custom-nav-menu.php:295
+msgid "Cancel"
+msgstr ""
+
+#: ../admin/includes/functions.php:98
+msgid "Default Redirect"
+msgstr ""
+
+#: ../admin/includes/functions.php:99 ../admin/includes/functions.php:200
+msgid "Login"
+msgstr ""
+
+#: ../admin/includes/functions.php:100 ../admin/includes/functions.php:198
+#: ../admin/includes/tabs/notifications.php:7
+#: ../classes/UserAddEdit.class.php:220 ../utilities.php:495
+#: ../utilities.php:555 ../utilities.php:608 ../utilities.php:649
+#: ../utilities.php:696 ../utilities.php:759 ../utilities.php:813
+#: ../utilities.php:905
+msgid "Register"
+msgstr ""
+
+#: ../admin/includes/functions.php:101 ../admin/includes/functions.php:199
+msgid "Lost Password"
+msgstr ""
+
+#: ../admin/includes/functions.php:102 ../admin/includes/functions.php:202
+msgid "LogOut"
+msgstr ""
+
+#: ../admin/includes/functions.php:103 ../admin/includes/functions.php:203
+msgid "Account User"
+msgstr ""
+
+#: ../admin/includes/functions.php:104 ../admin/includes/functions.php:204
+msgid "TOS"
+msgstr ""
+
+#: ../admin/includes/functions.php:105 ../admin/includes/popup-forms.php:15
+#: ../admin/includes/tabs/help.php:40 ../admin/includes/tabs/register.php:74
+#: ../admin/includes/tabs/showcases.php:15
+#: ../admin/includes/tabs/subscription_plan.php:8
+#: ../admin/includes/vc_map.php:105
+msgid "Subscription Plan"
+msgstr ""
+
+#: ../admin/includes/functions.php:119
+msgid "Default"
+msgstr ""
+
+#: ../admin/includes/functions.php:119 ../admin/includes/functions.php:134
+#: ../admin/includes/meta_boxes/default_pages.php:21
+msgid "Page"
+msgstr ""
+
+#: ../admin/includes/functions.php:119
+msgid "Not set!"
+msgstr ""
+
+#: ../admin/includes/functions.php:139
+msgid "Some of the Default Pages are NOT Set:"
+msgstr ""
+
+#: ../admin/includes/functions.php:161
+msgid "Register Page"
+msgstr ""
+
+#: ../admin/includes/functions.php:164
+msgid "Lost Password Page"
+msgstr ""
+
+#: ../admin/includes/functions.php:167
+msgid "Login Page"
+msgstr ""
+
+#: ../admin/includes/functions.php:170
+msgid "Redirect Page."
+msgstr ""
+
+#: ../admin/includes/functions.php:170
+msgid "You can only Replace the content."
+msgstr ""
+
+#: ../admin/includes/functions.php:173
+msgid "Logout Page"
+msgstr ""
+
+#: ../admin/includes/functions.php:176 ../admin/includes/popup-forms.php:14
+msgid "User Page"
+msgstr ""
+
+#: ../admin/includes/functions.php:179
+msgid "TOS Page"
+msgstr ""
+
+#: ../admin/includes/functions.php:182
+msgid "Subscription Plan Page"
+msgstr ""
+
+#: ../admin/includes/functions.php:189
+msgid "This Page is set as:"
+msgstr ""
+
+#: ../admin/includes/functions.php:201
+msgid "Redirect"
+msgstr ""
+
+#: ../admin/includes/functions.php:205
+#: ../admin/includes/tabs/account_page.php:69
+#: ../classes/ihcAccountPage.class.php:96
+msgid "Subscription"
+msgstr ""
+
+#: ../admin/includes/functions.php:609 ../admin/includes/tabs/general.php:594
+msgid "Link:"
+msgstr ""
+
+#: ../admin/includes/functions.php:670
+msgid "Target Levels: "
+msgstr ""
+
+#: ../admin/includes/functions.php:700
+msgid "Submited Coupons:"
+msgstr ""
+
+#: ../admin/includes/functions.php:709
+msgid "No Date range"
+msgstr ""
+
+#: ../admin/includes/functions.php:711
+msgid "From "
+msgstr ""
+
+#: ../admin/includes/functions.php:711
+msgid "to "
+msgstr ""
+
+#: ../admin/includes/functions.php:767
+msgid "Custom Link: "
+msgstr ""
+
+#: ../admin/includes/manage-page.php:10
+msgid "Users"
+msgstr ""
+
+#: ../admin/includes/manage-page.php:11
+msgid "Levels"
+msgstr ""
+
+#: ../admin/includes/manage-page.php:12
+msgid "Payment Services"
+msgstr ""
+
+#: ../admin/includes/manage-page.php:13 ../admin/includes/tabs/locker.php:163
+msgid "Inside Lockers"
+msgstr ""
+
+#: ../admin/includes/manage-page.php:14
+msgid "Showcases"
+msgstr ""
+
+#: ../admin/includes/manage-page.php:15
+msgid "Social Login"
+msgstr ""
+
+#: ../admin/includes/manage-page.php:16 ../admin/includes/tabs/coupons.php:51
+msgid "Coupons"
+msgstr ""
+
+#: ../admin/includes/manage-page.php:17
+msgid "URL Blocks"
+msgstr ""
+
+#: ../admin/includes/manage-page.php:18
+#: ../admin/includes/tabs/account_page.php:71
+#: ../classes/ihcAccountPage.class.php:98
+msgid "Transactions"
+msgstr ""
+
+#: ../admin/includes/manage-page.php:19 ../admin/includes/tabs/general.php:7
+#: ../admin/includes/tabs/notifications.php:4
+msgid "Notifications"
+msgstr ""
+
+#: ../admin/includes/manage-page.php:20
+msgid "Opt-in Settings"
+msgstr ""
+
+#: ../admin/includes/manage-page.php:21
+msgid "General Options"
+msgstr ""
+
+#: ../admin/includes/manage-page.php:22
+msgid "Help"
+msgstr ""
+
+#: ../admin/includes/meta_boxes/default_pages.php:15
+msgid "Set the Page as:"
+msgstr ""
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:9
+msgid "Show Page Only"
+msgstr ""
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:10
+msgid "Block Page Only"
+msgstr ""
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:75
+msgid "If is not allow"
+msgstr ""
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:77
+msgid "Redirect the Page"
+msgstr ""
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:77
+msgid "Replace the Content"
+msgstr ""
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:103
+msgid "To:"
+msgstr ""
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:113
+msgid "default"
+msgstr ""
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:118
+msgid "Custom Link:"
+msgstr ""
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:144
+msgid "Add the replacement content into the \"Replace Content\" Editor box."
+msgstr ""
+
+#: ../admin/includes/popup-forms.php:10 ../admin/includes/tabs/help.php:35
+#: ../admin/includes/tabs/register.php:25
+#: ../admin/includes/tabs/showcases.php:13 ../admin/includes/vc_map.php:5
+#: ../admin/includes/vc_map.php:8
+msgid "Register Form"
+msgstr ""
+
+#: ../admin/includes/popup-forms.php:11 ../admin/includes/tabs/help.php:36
+#: ../admin/includes/tabs/locker.php:81 ../admin/includes/tabs/login.php:23
+#: ../admin/includes/tabs/showcases.php:14 ../admin/includes/vc_map.php:25
+#: ../admin/includes/vc_map.php:28
+msgid "Login Form"
+msgstr ""
+
+#: ../admin/includes/popup-forms.php:12 ../admin/includes/tabs/help.php:37
+#: ../admin/includes/vc_map.php:45 ../admin/includes/vc_map.php:48
+msgid "Logout Button"
+msgstr ""
+
+#: ../admin/includes/popup-forms.php:13 ../admin/includes/tabs/help.php:38
+#: ../admin/includes/vc_map.php:65 ../admin/includes/vc_map.php:68
+#: ../admin/includes/vc_map.php:88 ../admin/includes/vc_map.php:108
+msgid "Password Recovery"
+msgstr ""
+
+#: ../admin/includes/popup-locker.php:4 ../admin/includes/vc_map.php:127
+#: ../admin/includes/vc_map.php:130
+msgid "Locker"
+msgstr ""
+
+#: ../admin/includes/popup-locker.php:12 ../admin/includes/vc_map.php:139
+msgid "Show Content Only For"
+msgstr ""
+
+#: ../admin/includes/popup-locker.php:13 ../admin/includes/vc_map.php:139
+msgid "Hide Content Only For"
+msgstr ""
+
+#: ../admin/includes/popup-locker.php:18
+#: ../admin/includes/tabs/block_url.php:43
+#: ../admin/includes/tabs/block_url.php:158 ../admin/includes/vc_map.php:144
+msgid "Target Users:"
+msgstr ""
+
+#: ../admin/includes/popup-locker.php:49 ../admin/includes/vc_map.php:151
+msgid "Choose Locker:"
+msgstr ""
+
+#: ../admin/includes/popup-locker.php:66 ../admin/includes/vc_map.php:230
+msgid "No Lockers Available."
+msgstr ""
+
+#: ../admin/includes/popup-locker.php:76 ../admin/includes/tabs/locker.php:181
+#: ../admin/includes/tabs/locker.php:191
+msgid "Preview"
+msgstr ""
+
+#: ../admin/includes/tabs/account_page.php:12
+msgid "Accont Page"
+msgstr ""
+
+#: ../admin/includes/tabs/account_page.php:23
+msgid "Account Page Settings:"
+msgstr ""
+
+#: ../admin/includes/tabs/account_page.php:27
+#: ../admin/includes/tabs/subscription_plan.php:27
+msgid "Select Template:"
+msgstr ""
+
+#: ../admin/includes/tabs/account_page.php:39
+msgid "Top Section:"
+msgstr ""
+
+#: ../admin/includes/tabs/account_page.php:40
+msgid "Show Avatar Image:"
+msgstr ""
+
+#: ../admin/includes/tabs/account_page.php:50
+msgid "Welcome Message:"
+msgstr ""
+
+#: ../admin/includes/tabs/account_page.php:65
+msgid "Tabs To Show:"
+msgstr ""
+
+#: ../admin/includes/tabs/account_page.php:67
+#: ../classes/ihcAccountPage.class.php:94
+msgid "Overview"
+msgstr ""
+
+#: ../admin/includes/tabs/account_page.php:68
+#: ../classes/ihcAccountPage.class.php:95
+msgid "Profile"
+msgstr ""
+
+#: ../admin/includes/tabs/account_page.php:70
+#: ../classes/ihcAccountPage.class.php:97
+msgid "Social Plus"
+msgstr ""
+
+#: ../admin/includes/tabs/account_page.php:92
+msgid "Overview Standard Message:"
+msgstr ""
+
+#: ../admin/includes/tabs/account_page.php:93
+msgid ""
+"General content for Users who does not have assigned a Page to show up into "
+"\"Overview\" section:"
+msgstr ""
+
+#: ../admin/includes/tabs/account_page.php:103
+msgid "Social Plus Top Message:"
+msgstr ""
+
+#: ../admin/includes/tabs/account_page.php:110
+#: ../admin/includes/tabs/account_page.php:119
+#: ../admin/includes/tabs/coupons.php:136
+#: ../admin/includes/tabs/general.php:148
+#: ../admin/includes/tabs/general.php:229
+#: ../admin/includes/tabs/general.php:253
+#: ../admin/includes/tabs/general.php:275
+#: ../admin/includes/tabs/general.php:381
+#: ../admin/includes/tabs/general.php:410
+#: ../admin/includes/tabs/general.php:423
+#: ../admin/includes/tabs/general.php:434
+#: ../admin/includes/tabs/general.php:444
+#: ../admin/includes/tabs/general.php:454
+#: ../admin/includes/tabs/general.php:484
+#: ../admin/includes/tabs/general.php:541
+#: ../admin/includes/tabs/general.php:569 ../admin/includes/tabs/locker.php:44
+#: ../admin/includes/tabs/locker.php:71 ../admin/includes/tabs/locker.php:94
+#: ../admin/includes/tabs/locker.php:118 ../admin/includes/tabs/locker.php:135
+#: ../admin/includes/tabs/login.php:50 ../admin/includes/tabs/login.php:82
+#: ../admin/includes/tabs/login.php:91 ../admin/includes/tabs/login.php:136
+#: ../admin/includes/tabs/opt_in.php:13 ../admin/includes/tabs/opt_in.php:71
+#: ../admin/includes/tabs/opt_in.php:118 ../admin/includes/tabs/opt_in.php:165
+#: ../admin/includes/tabs/opt_in.php:212 ../admin/includes/tabs/opt_in.php:284
+#: ../admin/includes/tabs/opt_in.php:342 ../admin/includes/tabs/opt_in.php:382
+#: ../admin/includes/tabs/opt_in.php:420 ../admin/includes/tabs/opt_in.php:457
+#: ../admin/includes/tabs/payment_settings.php:96
+#: ../admin/includes/tabs/payment_settings.php:129
+#: ../admin/includes/tabs/payment_settings.php:161
+#: ../admin/includes/tabs/payment_settings.php:183
+#: ../admin/includes/tabs/payment_settings.php:215
+#: ../admin/includes/tabs/payment_settings.php:241
+#: ../admin/includes/tabs/payment_settings.php:273
+#: ../admin/includes/tabs/payment_settings.php:311
+#: ../admin/includes/tabs/payment_settings.php:344
+#: ../admin/includes/tabs/payment_settings.php:367
+#: ../admin/includes/tabs/register.php:61
+#: ../admin/includes/tabs/register.php:186
+#: ../admin/includes/tabs/register.php:198
+#: ../admin/includes/tabs/register.php:212
+#: ../admin/includes/tabs/register.php:310
+#: ../admin/includes/tabs/register.php:502
+#: ../admin/includes/tabs/register.php:606
+#: ../admin/includes/tabs/social_login.php:148
+#: ../admin/includes/tabs/social_login.php:182
+#: ../admin/includes/tabs/social_login.php:213
+#: ../admin/includes/tabs/social_login.php:236
+#: ../admin/includes/tabs/social_login.php:267
+#: ../admin/includes/tabs/social_login.php:293
+#: ../admin/includes/tabs/social_login.php:324
+#: ../admin/includes/tabs/social_login.php:350
+#: ../admin/includes/tabs/social_login.php:380
+#: ../admin/includes/tabs/social_login.php:404
+#: ../admin/includes/tabs/social_login.php:434
+#: ../admin/includes/tabs/social_login.php:460
+#: ../admin/includes/tabs/social_login.php:491
+#: ../admin/includes/tabs/social_login.php:517
+#: ../admin/includes/tabs/social_login.php:563
+#: ../admin/includes/tabs/social_login.php:574
+#: ../admin/includes/tabs/subscription_plan.php:46
+#: ../admin/includes/tabs/subscription_plan.php:55
+msgid "Save"
+msgstr ""
+
+#: ../admin/includes/tabs/account_page.php:115
+#: ../admin/includes/tabs/register.php:204
+msgid "Custom CSS:"
+msgstr ""
+
+#: ../admin/includes/tabs/block_url.php:15
+msgid "Entire URL"
+msgstr ""
+
+#: ../admin/includes/tabs/block_url.php:16
+msgid "Based on Keywords"
+msgstr ""
+
+#: ../admin/includes/tabs/block_url.php:24
+#: ../admin/includes/tabs/block_url.php:91
+msgid "Blocked URL"
+msgstr ""
+
+#: ../admin/includes/tabs/block_url.php:35
+#: ../admin/includes/tabs/block_url.php:150
+msgid "Add new Restriction"
+msgstr ""
+
+#: ../admin/includes/tabs/block_url.php:38
+msgid "URL:"
+msgstr ""
+
+#: ../admin/includes/tabs/block_url.php:60
+#: ../admin/includes/tabs/block_url.php:175
+msgid "Redirect to:"
+msgstr ""
+
+#: ../admin/includes/tabs/block_url.php:79
+#: ../admin/includes/tabs/block_url.php:192
+#: ../admin/includes/tabs/coupons.php:31 ../admin/includes/tabs/coupons.php:58
+#: ../admin/includes/tabs/general.php:599 ../admin/includes/tabs/levels.php:442
+#: ../admin/includes/tabs/levels.php:652
+#: ../admin/includes/tabs/notifications.php:84
+#: ../admin/includes/tabs/notifications.php:100
+#: ../admin/includes/tabs/notifications.php:159
+#: ../admin/includes/tabs/users.php:108
+msgid "Add New"
+msgstr ""
+
+#: ../admin/includes/tabs/block_url.php:92
+#: ../admin/includes/tabs/block_url.php:205
+msgid "Target Users"
+msgstr ""
+
+#: ../admin/includes/tabs/block_url.php:93
+#: ../admin/includes/tabs/block_url.php:206
+msgid "Redirect To"
+msgstr ""
+
+#: ../admin/includes/tabs/block_url.php:94
+#: ../admin/includes/tabs/block_url.php:207
+#: ../admin/includes/tabs/general.php:614 ../admin/includes/tabs/levels.php:573
+#: ../admin/includes/tabs/list_payments.php:125
+#: ../admin/includes/tabs/list_payments.php:175
+#: ../admin/includes/tabs/locker.php:182 ../admin/includes/tabs/locker.php:192
+#: ../admin/includes/tabs/notifications.php:138
+#: ../admin/includes/tabs/register.php:354
+#: ../admin/includes/tabs/register.php:368 ../admin/includes/tabs/users.php:330
+#: ../admin/includes/tabs/users.php:418 ../admin/includes/tabs/users.php:513
+msgid "Delete"
+msgstr ""
+
+#: ../admin/includes/tabs/block_url.php:153
+msgid "Keyword:"
+msgstr ""
+
+#: ../admin/includes/tabs/block_url.php:204
+msgid "Blocked URL That Contains"
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:2
+msgid "Add New Coupon"
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:3
+msgid "Manage Coupons"
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:32
+msgid "MemberShip Coupons"
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:34
+msgid " No Coupons available! Please create your first Coupon."
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:55 ../admin/includes/tabs/levels.php:571
+#: ../admin/includes/tabs/locker.php:180 ../admin/includes/tabs/locker.php:190
+#: ../admin/includes/tabs/notifications.php:137
+#: ../admin/includes/tabs/register.php:353
+#: ../admin/includes/tabs/register.php:367 ../admin/includes/tabs/users.php:416
+msgid "Edit"
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:62
+msgid "Code"
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:63
+msgid "Generate Code"
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:66
+msgid "Type of discount"
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:68 ../admin/includes/tabs/levels.php:500
+#: ../admin/includes/tabs/levels.php:545
+msgid "Price"
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:78
+msgid "Discount Value"
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:85
+msgid "Period Type"
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:87 ../admin/includes/tabs/coupons.php:97
+msgid "Date Range"
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:101
+msgid "Repeat"
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:105
+msgid "Target Level"
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:123
+msgid "On Levels with Billing Recurrence apply the Discount:"
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:125
+msgid "Just Once"
+msgstr ""
+
+#: ../admin/includes/tabs/coupons.php:125
+msgid "Forever"
+msgstr ""
+
+#: ../admin/includes/tabs/dashboard.php:8
+msgid "Dashboard Overall"
+msgstr ""
+
+#: ../admin/includes/tabs/dashboard.php:21
+msgid "Total Users"
+msgstr ""
+
+#: ../admin/includes/tabs/dashboard.php:30
+msgid "Top Level"
+msgstr ""
+
+#: ../admin/includes/tabs/dashboard.php:35
+msgid "N/A"
+msgstr ""
+
+#: ../admin/includes/tabs/dashboard.php:53
+msgid "Total Number of Transactions"
+msgstr ""
+
+#: ../admin/includes/tabs/dashboard.php:69
+msgid "Total Amount of Transactions"
+msgstr ""
+
+#: ../admin/includes/tabs/dashboard.php:85
+msgid "Total Members per Level"
+msgstr ""
+
+#: ../admin/includes/tabs/dashboard.php:89
+#: ../admin/includes/tabs/dashboard.php:102
+#: ../admin/includes/tabs/dashboard.php:206
+#: ../admin/includes/tabs/dashboard.php:207
+msgid "Not enough data available."
+msgstr ""
+
+#: ../admin/includes/tabs/dashboard.php:98
+msgid "Levels By Transactions"
+msgstr ""
+
+#: ../admin/includes/tabs/dashboard.php:116
+msgid "Last 5 Registered Users:"
+msgstr ""
+
+#: ../admin/includes/tabs/dashboard.php:141
+msgid "Register on"
+msgstr ""
+
+#: ../admin/includes/tabs/dashboard.php:153
+msgid "Not Registered Users available."
+msgstr ""
+
+#: ../admin/includes/tabs/dashboard.php:170
+msgid "Last 5 Transactions:"
+msgstr ""
+
+#: ../admin/includes/tabs/dashboard.php:193
+msgid "Unknown Name"
+msgstr ""
+
+#: ../admin/includes/tabs/dashboard.php:202
+msgid "Payment on"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:2
+msgid "Defaults Settings"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:3
+msgid "Captcha"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:4
+msgid "Messages"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:5
+msgid "Menus"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:6
+msgid "Payments"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:8 ../admin/includes/tabs/general.php:587
+msgid "Redirect Links"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:9
+msgid "Extra Settings"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:25
+msgid "Default Pages:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:29
+msgid "Register:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:46
+msgid "Subscription Plan:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:63
+msgid "Login Page:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:80
+msgid "Logout Page:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:97
+msgid "User Account Page:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:114
+msgid "TOS Page:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:131
+msgid "Lost Password:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:154
+msgid "Default Redirects"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:157
+msgid "Default Redirect Page:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:175
+msgid "After LogOut:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:177
+#: ../admin/includes/tabs/general.php:195
+#: ../admin/includes/tabs/general.php:213
+msgid "Do Not Redirect"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:193
+msgid "After Registration:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:211
+msgid "After Login:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:246
+msgid "Public Key:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:249
+msgid "Private Key:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:251
+msgid "Get Public and Private Keys from"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:251
+msgid "here"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:267 ../admin/includes/tabs/login.php:8
+#: ../admin/includes/tabs/register.php:6
+#: ../admin/includes/tabs/register.php:231
+msgid "Custom Messages"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:270
+msgid "Update Successfully Message:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:287
+msgid "Customize Your Menu"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:290
+msgid "Select a Menu"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:317
+msgid "link"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:327
+msgid "for:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:399
+msgid "Grace Period:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:405
+#: ../admin/includes/tabs/general.php:481
+msgid "Days"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:416
+msgid "Debugging Payment Data:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:429
+msgid "Upload File Accepted Extensions:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:432
+msgid "Write the extensions with comma between values! ex: pdf,jpg,mp3"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:440
+msgid "Upload File Maximum File Size:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:450
+msgid "Avatar Maximum File Size:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:469
+msgid "Notifications Settings"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:472
+msgid "'From' E-mail Address:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:476
+msgid "'From' Name:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:480
+msgid "'Before Expire' Time Interval:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:498
+msgid "Currency Settings:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:546
+msgid "Payment Selection:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:590
+msgid "Name:"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:612 ../admin/includes/tabs/levels.php:480
+#: ../admin/includes/tabs/levels.php:525
+#: ../admin/includes/tabs/list_payments.php:90
+#: ../admin/includes/tabs/list_payments.php:140
+#: ../admin/includes/tabs/locker.php:178 ../admin/includes/tabs/locker.php:188
+#: ../admin/includes/tabs/users.php:155 ../admin/includes/tabs/users.php:363
+#: ../admin/includes/tabs/users.php:388
+msgid "Name"
+msgstr ""
+
+#: ../admin/includes/tabs/general.php:613
+msgid "Link"
+msgstr ""
+
+#: ../admin/includes/tabs/help.php:6
+msgid "Help Section"
+msgstr ""
+
+#: ../admin/includes/tabs/help.php:13
+msgid "Contact Support"
+msgstr ""
+
+#: ../admin/includes/tabs/help.php:18
+msgid ""
+"In order to contact Indeed support team you need to create a ticket "
+"providing all the necessary details via our support system:"
+msgstr ""
+
+#: ../admin/includes/tabs/help.php:21
+msgid "Submit Ticket"
+msgstr ""
+
+#: ../admin/includes/tabs/help.php:29
+msgid "ShortCodes"
+msgstr ""
+
+#: ../admin/includes/tabs/help.php:39 ../admin/includes/tabs/showcases.php:16
+#: ../admin/includes/vc_map.php:85
+msgid "Account Page"
+msgstr ""
+
+#: ../admin/includes/tabs/help.php:50
+msgid "Documentation"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:2
+msgid "Add New Level"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:3
+msgid "Manage Levels"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:4
+msgid "Subscription Plan Showcase"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:35
+msgid "Edit Level:"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:68
+msgid "Add New Level:"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:108
+msgid "Level Slug"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:113
+msgid "Level Label"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:117
+msgid "Level Access"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:120
+msgid "Access Type"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:142
+msgid "Duration"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:164
+msgid "Start Date"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:168
+msgid "End Date"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:175
+msgid "Period"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:192
+msgid "After Expire move to:"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:219
+msgid "Custom WP Role"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:221
+msgid "...Default Register option"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:234
+msgid "Available only on Registration stage for new Users."
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:238
+msgid "Show Only Content created Starting with the Assigned Date"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:247
+msgid "Available only for Pages and Posts"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:252
+msgid "Special Week Days Level Work"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:256
+msgid "Entire Week"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:257
+msgid "WeekDays"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:258
+msgid "WeekEnd"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:267
+msgid "Based on Server/Website Time"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:268
+msgid ""
+"Ex: If the Level is set to Block and to Work only on WeekDays, during the "
+"WeekEnd the restriction will be Off"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:274
+msgid "Billing Options"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:277
+#: ../classes/ihcAccountPage.class.php:226
+#: ../classes/ihcAccountPage.class.php:324
+msgid "Payment Type"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:281 ../classes/UserAddEdit.class.php:590
+msgid "Free"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:282
+#: ../admin/includes/tabs/notifications.php:8
+msgid "Payment"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:296
+msgid "Level Price"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:305
+msgid "(Minimum 0.50 for Stripe)"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:310
+msgid "Billing Recurrences"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:327
+msgid "Limit"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:339
+msgid "Trial Period Price"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:345
+msgid "0 for Stripe."
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:349
+msgid "Trial Period Type"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:352
+msgid "Certain Period"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:352
+msgid "Couple cycles subscription payments"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:363
+msgid "Trial Certain Period"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:377
+msgid "Not available for Authorize and 2Checkout."
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:381
+msgid "Trial Couple Cycles:"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:384
+msgid "Not more than 1 cycle for Paypal and 2Checkout."
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:395
+msgid "Show Up into Supscription Plan:"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:404
+msgid "Level Description:"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:417
+msgid "Price Text"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:419
+msgid "Displayed on the Level Front-end List."
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:423
+msgid "Save Level"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:455 ../admin/includes/tabs/levels.php:639
+msgid "MemberShip Levels"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:460
+msgid "ReOrder Levels"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:462
+msgid "Now You can reorder level list."
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:470 ../admin/includes/tabs/levels.php:515
+msgid "Show"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:475 ../admin/includes/tabs/levels.php:520
+#: ../admin/includes/tabs/register.php:345
+#: ../admin/includes/tabs/register.php:359
+msgid "Slug"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:485 ../admin/includes/tabs/levels.php:530
+#: ../classes/ihcAccountPage.class.php:357
+msgid "Access"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:490 ../admin/includes/tabs/levels.php:535
+msgid "Billing Type"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:495 ../admin/includes/tabs/levels.php:540
+msgid "Recurrences"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:505 ../admin/includes/tabs/levels.php:550
+msgid "Subscription Link"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:589
+msgid "Not set"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:619
+msgid "Your Content Here"
+msgstr ""
+
+#: ../admin/includes/tabs/levels.php:642
+msgid "No Levels available! Please create your first Level."
+msgstr ""
+
+#: ../admin/includes/tabs/list_payments.php:14
+msgid "Back to Payment List"
+msgstr ""
+
+#: ../admin/includes/tabs/list_payments.php:17
+#: ../classes/UserAddEdit.class.php:167
+msgid "Payment Details"
+msgstr ""
+
+#: ../admin/includes/tabs/list_payments.php:72
+msgid "Transations List"
+msgstr ""
+
+#: ../admin/includes/tabs/list_payments.php:85
+#: ../admin/includes/tabs/list_payments.php:135
+#: ../admin/includes/tabs/opt_in.php:224 ../admin/includes/tabs/opt_in.php:296
+#: ../admin/includes/tabs/users.php:156 ../admin/includes/tabs/users.php:360
+#: ../admin/includes/tabs/users.php:385 ../utilities.php:473
+#: ../utilities.php:524 ../utilities.php:577 ../utilities.php:626
+#: ../utilities.php:680 ../utilities.php:736 ../utilities.php:791
+msgid "Username"
+msgstr ""
+
+#: ../admin/includes/tabs/list_payments.php:95
+#: ../admin/includes/tabs/list_payments.php:145
+#: ../admin/includes/tabs/users.php:366 ../admin/includes/tabs/users.php:391
+msgid "E-mail"
+msgstr ""
+
+#: ../admin/includes/tabs/list_payments.php:100
+#: ../admin/includes/tabs/list_payments.php:150
+#: ../admin/includes/tabs/users.php:369 ../admin/includes/tabs/users.php:394
+#: ../classes/ihcAccountPage.class.php:216
+#: ../classes/ihcAccountPage.class.php:314 ../utilities.php:2025
+msgid "Level"
+msgstr ""
+
+#: ../admin/includes/tabs/list_payments.php:105
+#: ../admin/includes/tabs/list_payments.php:155
+#: ../classes/ihcAccountPage.class.php:221
+#: ../classes/ihcAccountPage.class.php:319
+#: ../classes/ihcAccountPage.class.php:359
+msgid "Amount"
+msgstr ""
+
+#: ../admin/includes/tabs/list_payments.php:110
+#: ../admin/includes/tabs/list_payments.php:160
+#: ../classes/ihcAccountPage.class.php:231
+#: ../classes/ihcAccountPage.class.php:329
+#: ../classes/ihcAccountPage.class.php:355
+msgid "Status"
+msgstr ""
+
+#: ../admin/includes/tabs/list_payments.php:115
+#: ../admin/includes/tabs/list_payments.php:165
+msgid "Details"
+msgstr ""
+
+#: ../admin/includes/tabs/list_payments.php:120
+#: ../admin/includes/tabs/list_payments.php:170
+#: ../classes/ihcAccountPage.class.php:236
+#: ../classes/ihcAccountPage.class.php:334
+msgid "Date"
+msgstr ""
+
+#: ../admin/includes/tabs/list_payments.php:207
+msgid "Deleted User"
+msgstr ""
+
+#: ../admin/includes/tabs/list_payments.php:275
+msgid "View Details"
+msgstr ""
+
+#: ../admin/includes/tabs/list_payments.php:297
+msgid "No Payments Available to show up!"
+msgstr ""
+
+#: ../admin/includes/tabs/locker.php:6
+msgid "Add New Locker"
+msgstr ""
+
+#: ../admin/includes/tabs/locker.php:7
+msgid "Manage Lockers"
+msgstr ""
+
+#: ../admin/includes/tabs/locker.php:38
+msgid "Locker Name"
+msgstr ""
+
+#: ../admin/includes/tabs/locker.php:50
+msgid "Locker Template"
+msgstr ""
+
+#: ../admin/includes/tabs/locker.php:78 ../admin/includes/tabs/login.php:59
+msgid "Additional Display Options"
+msgstr ""
+
+#: ../admin/includes/tabs/locker.php:85
+msgid "Additional Links"
+msgstr ""
+
+#: ../admin/includes/tabs/locker.php:89
+msgid "Display Social Media Login"
+msgstr ""
+
+#: ../admin/includes/tabs/locker.php:100
+msgid "Locker Messsage"
+msgstr ""
+
+#: ../admin/includes/tabs/locker.php:116
+#: ../admin/includes/tabs/notifications.php:84
+msgid "Update"
+msgstr ""
+
+#: ../admin/includes/tabs/locker.php:124
+msgid "Locker Preview"
+msgstr ""
+
+#: ../admin/includes/tabs/locker.php:131 ../admin/includes/tabs/login.php:87
+#: ../admin/includes/tabs/social_login.php:568
+#: ../admin/includes/tabs/subscription_plan.php:51
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/includes/tabs/locker.php:177 ../admin/includes/tabs/locker.php:187
+#: ../admin/includes/tabs/users.php:158
+msgid "ID"
+msgstr ""
+
+#: ../admin/includes/tabs/locker.php:179 ../admin/includes/tabs/locker.php:189
+msgid "Templates"
+msgstr ""
+
+#: ../admin/includes/tabs/locker.php:241
+msgid "No Lockers available! Please create your first Loker."
+msgstr ""
+
+#: ../admin/includes/tabs/login.php:7
+msgid "Login Showcase"
+msgstr ""
+
+#: ../admin/includes/tabs/login.php:13 ../admin/includes/tabs/register.php:39
+#: ../admin/includes/tabs/register.php:40
+#: ../admin/includes/tabs/social_login.php:541
+#: ../admin/includes/tabs/subscription_plan.php:29
+#: ../admin/includes/tabs/subscription_plan.php:30
+#: ../admin/includes/tabs/subscription_plan.php:31
+#: ../admin/includes/tabs/subscription_plan.php:32
+msgid "Template"
+msgstr ""
+
+#: ../admin/includes/tabs/login.php:34
+msgid "Showcase Display"
+msgstr ""
+
+#: ../admin/includes/tabs/login.php:37
+msgid "Login Template:"
+msgstr ""
+
+#: ../admin/includes/tabs/login.php:64 ../utilities.php:483
+#: ../utilities.php:543 ../utilities.php:586 ../utilities.php:638
+#: ../utilities.php:714 ../utilities.php:748 ../utilities.php:801
+msgid "Remember Me"
+msgstr ""
+
+#: ../admin/includes/tabs/login.php:69
+msgid "Register Link"
+msgstr ""
+
+#: ../admin/includes/tabs/login.php:73
+msgid "Lost your password"
+msgstr ""
+
+#: ../admin/includes/tabs/login.php:78
+msgid "Show Social Media Login Buttons"
+msgstr ""
+
+#: ../admin/includes/tabs/login.php:104
+msgid "Messages:"
+msgstr ""
+
+#: ../admin/includes/tabs/login.php:107
+msgid "Login Messages"
+msgstr ""
+
+#: ../admin/includes/tabs/login.php:109 ../admin/includes/tabs/login.php:125
+msgid "Successfully Message:"
+msgstr ""
+
+#: ../admin/includes/tabs/login.php:113
+msgid "Default message for pending users:"
+msgstr ""
+
+#: ../admin/includes/tabs/login.php:117 ../admin/includes/tabs/login.php:130
+msgid "Error Message:"
+msgstr ""
+
+#: ../admin/includes/tabs/login.php:123
+msgid "Reset Password Messages"
+msgstr ""
+
+#: ../admin/includes/tabs/notifications.php:9
+msgid "User Update"
+msgstr ""
+
+#: ../admin/includes/tabs/notifications.php:10
+msgid "Before Expire"
+msgstr ""
+
+#: ../admin/includes/tabs/notifications.php:11
+msgid "On Expire"
+msgstr ""
+
+#: ../admin/includes/tabs/notifications.php:29
+msgid "Add new Notification"
+msgstr ""
+
+#: ../admin/includes/tabs/notifications.php:32
+msgid "Action:"
+msgstr ""
+
+#: ../admin/includes/tabs/notifications.php:44
+msgid "Level:"
+msgstr ""
+
+#: ../admin/includes/tabs/notifications.php:60
+msgid "Subject:"
+msgstr ""
+
+#: ../admin/includes/tabs/notifications.php:64
+msgid "Message:"
+msgstr ""
+
+#: ../admin/includes/tabs/notifications.php:109
+#: ../admin/includes/tabs/notifications.php:117
+msgid "Subject"
+msgstr ""
+
+#: ../admin/includes/tabs/notifications.php:110
+#: ../admin/includes/tabs/notifications.php:118
+msgid "Action"
+msgstr ""
+
+#: ../admin/includes/tabs/notifications.php:111
+#: ../admin/includes/tabs/notifications.php:119
+msgid "Target Levels"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:9
+msgid "Additional Main E-Mail"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:25
+msgid "Auth Code"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:38
+msgid "Get Your Auth Code From Here"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:44
+msgid "Unique List ID:"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:55
+msgid "Get Unique List ID"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:64
+msgid "Connect"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:83 ../admin/includes/tabs/opt_in.php:130
+#: ../admin/includes/tabs/opt_in.php:177
+msgid "API Key"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:94 ../admin/includes/tabs/opt_in.php:141
+msgid "Where can I find my API Key?"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:100
+msgid "ID List"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:111 ../admin/includes/tabs/opt_in.php:205
+msgid "Where can I find List ID?"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:147
+msgid "Campaign Token"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:158
+msgid "Where can I find Campaign Token?"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:188
+msgid "Where can I find API Key ?"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:194 ../admin/includes/tabs/opt_in.php:257
+msgid "List ID"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:232
+msgid "App ID"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:243
+msgid "Where can I get my App ID?"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:249
+msgid "App Password"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:269
+msgid "Click on the list name:"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:273
+msgid "Click on the list name and get the ID from the URL"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:304 ../utilities.php:476
+#: ../utilities.php:527 ../utilities.php:580 ../utilities.php:629
+#: ../utilities.php:683 ../utilities.php:739 ../utilities.php:794
+msgid "Password"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:315
+msgid "Get Lists"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:321
+msgid "List"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:354
+msgid "Select Wysija List:"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:375
+msgid "No List available "
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:394
+msgid "Select MyMail List:"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:413
+msgid "No List available"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:432
+msgid "Username Or Email:"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:440
+msgid "Api Key:"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:448
+msgid "List Name:"
+msgstr ""
+
+#: ../admin/includes/tabs/opt_in.php:463
+msgid "Saved E-mail List"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:2
+msgid "PayPal"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:3
+msgid "Authorize"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:4
+msgid "Stripe"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:5
+msgid "2Checkout"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:6
+msgid "Bank transfer"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:7
+msgid "Payments Settings"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:18
+#: ../admin/includes/tabs/payment_settings.php:79
+#: ../admin/includes/tabs/payment_settings.php:144
+#: ../admin/includes/tabs/payment_settings.php:198
+msgid "Payments Services"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:84
+msgid "PayPal Activation:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:87
+#: ../admin/includes/tabs/payment_settings.php:152
+#: ../admin/includes/tabs/payment_settings.php:206
+#: ../admin/includes/tabs/payment_settings.php:264
+#: ../admin/includes/tabs/payment_settings.php:335
+msgid ""
+"Once all the Settings are properly done, the Payment Option can be activated "
+"to be available for further use."
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:102
+msgid "PayPal Settings:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:106
+msgid "E-mail Address:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:110
+#: ../admin/includes/tabs/payment_settings.php:231
+#: ../admin/includes/tabs/payment_settings.php:301
+msgid "Enable Sandbox"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:114
+msgid "Redirect Page after Payment:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:149
+msgid "Stripe Activation:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:166
+msgid "Stripe Settings:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:169
+msgid "Secret Key:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:173
+msgid "Publishable Key:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:178
+msgid "Be sure You set your Web Hook URL to: "
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:203
+msgid "Authorize.net Activation:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:220
+msgid "Authorize.net Settings:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:223
+msgid "Login ID:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:227
+msgid "Transaction Key:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:236
+msgid "Be sure You set your Silent Post URL to: "
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:256
+msgid "2Checkout Services"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:261
+msgid "2Checkout Activation:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:278
+msgid "2Checkout Settings:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:281
+msgid "API Username:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:285
+msgid "API Password:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:289
+msgid "API Private Key:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:293
+msgid "Account Number:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:297
+msgid "Secret Word:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:306
+msgid "Be sure You set Your 'Web Hook URL'(ISN) and Your 'Approved URL' to: "
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:327
+msgid "Bank Transfer Services"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:332
+msgid "Bank Transfer Activation:"
+msgstr ""
+
+#: ../admin/includes/tabs/payment_settings.php:349
+msgid "Bank Transfer Message:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:5
+msgid "Register Showcase"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:7
+msgid "Custom Fields"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:35
+#: ../admin/includes/tabs/social_login.php:3
+msgid "Design"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:42
+msgid "Register Template:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:68
+#: ../admin/includes/tabs/social_login.php:2
+#: ../admin/includes/tabs/social_login.php:538
+msgid "Settings"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:71
+msgid "Choose Subscription Type:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:73
+msgid "Predifined Level"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:78
+msgid "Level assign to new user"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:80
+msgid "None"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:94
+msgid "Wordpress Role Assign to new users:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:111
+msgid "Password Minimum Length"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:115
+msgid "Password Strength Options"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:117
+msgid "Standard"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:118
+msgid "Characters and digits"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:119
+msgid "Characters, digits, minimum one uppercase letter"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:129
+msgid "Notify admin address on every new registration"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:140
+msgid "Enable Opt-In"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:150
+msgid "Show Level Price & Data On Register Form"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:154
+msgid "Opt-In Type:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:161
+msgid "E-mail List"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:192
+msgid "Terms & Conditions (TOS) Label"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:236
+msgid "Error - Username is taken:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:241
+msgid "Error - Invalid Username:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:246
+msgid "Error - Email is taken:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:251
+msgid "Error - Invalid Email Address:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:256
+msgid "Error - Email Addresses did not Match:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:261
+msgid "Error - Password did not match:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:266
+msgid "Error - Password Only Characters and Digits:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:273
+msgid "Error - Password Min Length:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:275
+msgid "Where {X} will be the minimum length of password."
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:279
+msgid "Error - Password Characters, Digits and minimum one uppercase letter:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:284
+msgid "Error - Pending User:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:289
+msgid "Error - Empty Required Fields:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:294
+msgid "Error - ReCaptcha:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:299
+msgid "Error - TOS:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:304
+msgid "Success Message:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:333
+msgid "Add New Register Form Field"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:338
+msgid "Registration form fields"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:346
+#: ../admin/includes/tabs/register.php:360
+msgid "Label"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:347
+#: ../admin/includes/tabs/register.php:361
+msgid "Field Type"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:348
+#: ../admin/includes/tabs/register.php:362
+msgid "On Admin"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:349
+#: ../admin/includes/tabs/register.php:363
+msgid "On Register Page"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:350
+#: ../admin/includes/tabs/register.php:364
+msgid "On Account Page"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:351
+#: ../admin/includes/tabs/register.php:365
+msgid "Required"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:352
+#: ../admin/includes/tabs/register.php:366
+msgid "WP Native"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:404
+#: ../admin/includes/tabs/register.php:418
+#: ../admin/includes/tabs/register.php:430
+#: ../admin/includes/tabs/register.php:444
+msgid "Always"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:446
+msgid "Required When Selected"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:460
+msgid "Yes"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:462
+msgid "No"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:529
+msgid "User Custom Fields"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:539
+msgid "Slug:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:542
+msgid "Field Label:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:545
+msgid "Field Type:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:573
+msgid "Values:"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:597
+msgid "Add New Value"
+msgstr ""
+
+#: ../admin/includes/tabs/register.php:601
+msgid "SubLabel:"
+msgstr ""
+
+#: ../admin/includes/tabs/showcases.php:6
+msgid "Front-End Showcases"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:34
+#: ../admin/includes/tabs/social_login.php:131
+#: ../admin/includes/tabs/social_login.php:196
+#: ../admin/includes/tabs/social_login.php:250
+#: ../admin/includes/tabs/social_login.php:307
+#: ../admin/includes/tabs/social_login.php:363
+#: ../admin/includes/tabs/social_login.php:417
+#: ../admin/includes/tabs/social_login.php:474
+#: ../admin/includes/tabs/social_login.php:533
+msgid "Social Media Login"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:44
+#: ../admin/includes/tabs/social_login.php:56
+#: ../admin/includes/tabs/social_login.php:68
+#: ../admin/includes/tabs/social_login.php:80
+#: ../admin/includes/tabs/social_login.php:92
+#: ../admin/includes/tabs/social_login.php:104
+#: ../admin/includes/tabs/social_login.php:116
+msgid "Settings:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:136
+msgid "Facebook Activation:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:139
+msgid ""
+"Once all the Settings are properly done, Facebook Login can be activated to "
+"be available for further use."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:153
+msgid "Facebook Settings:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:156
+#: ../admin/includes/tabs/social_login.php:442
+#: ../admin/includes/tabs/social_login.php:499
+msgid "Application ID:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:159
+#: ../admin/includes/tabs/social_login.php:224
+#: ../admin/includes/tabs/social_login.php:278
+#: ../admin/includes/tabs/social_login.php:335
+#: ../admin/includes/tabs/social_login.php:445
+#: ../admin/includes/tabs/social_login.php:502
+msgid "Application Secret:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:162
+msgid "How to create a Facebook App"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:165
+#: ../admin/includes/tabs/social_login.php:229
+#: ../admin/includes/tabs/social_login.php:284
+#: ../admin/includes/tabs/social_login.php:341
+#: ../admin/includes/tabs/social_login.php:396
+#: ../admin/includes/tabs/social_login.php:451
+msgid "Go to :"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:166
+msgid "Select \"Add a New App\" from the \"My Apps\" menu at the top."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:167
+msgid ""
+"Select Site Web, fill out display name and click \"Create New Facebook App ID"
+"\". "
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:168
+msgid ""
+"Select a category from the popup that show up and then click \"Create App ID"
+"\"."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:169
+msgid "Fill out Display Name, choose a category and click Create App."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:171
+msgid "After that in \"Tell us about your website\" You must add Site URL : "
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:172
+msgid " and then click \"Next\"."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:174
+msgid "The Application was created but it's not active."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:175
+msgid ""
+"To activate it, go to top menu \"My Apps\" and select the name of Your App."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:176
+msgid ""
+"In the left menu go to \"Settings\"->\"Basic\" and fill out the \"Contact "
+"Email\" and save."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:177
+msgid ""
+"Next you must go to left menu at \"Status & Review\" and make Your App "
+"Public."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:178
+msgid "You will find the App ID and App Secret in 'Dashboard' section."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:201
+msgid "Twitter Activation:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:204
+msgid ""
+"Once all the Settings are properly done, Twitter Login can be activated to "
+"be available for further use."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:218
+msgid "Twitter Settings:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:221
+#: ../admin/includes/tabs/social_login.php:275
+#: ../admin/includes/tabs/social_login.php:332
+msgid "Application Key:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:227
+msgid "How to create a Twitter App"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:230
+msgid "Click 'Create New App'."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:231
+msgid ""
+"Fill out the 'Name', 'Description', 'Site URL'. At 'Callback URL' You must "
+"add: "
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:232
+msgid ""
+"You will find the Consumer Key (API Key) and Consumer Secret (API Secret) in "
+"'Keys and Access Tokens' section."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:255
+msgid "LinkedIn Activation:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:258
+msgid ""
+"Once all the Settings are properly done, LinkedIn Login can be activated to "
+"be available for further use."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:272
+msgid "LinkedIn Settings:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:282
+msgid "How to create a LinkedIn App"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:285
+msgid "Click 'Create Application'."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:286
+msgid "Fill the required fields and Submit."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:287
+msgid ""
+"After You crate the App, in the left menu go to 'Settings' and change "
+"'Application Status' to 'Live'."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:288
+msgid "You will find the App Key and App Secret in 'Authentification' section."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:312
+msgid "Tumblr Activation:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:315
+msgid ""
+"Once all the Settings are properly done, Tumblr Login can be activated to be "
+"available for further use."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:329
+msgid "Tumblr Settings:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:339
+msgid "How to create a Tumblr App"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:342
+#: ../admin/includes/tabs/social_login.php:397
+msgid "Register New Application"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:343
+msgid "Fill out the required fields and Submit."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:344
+msgid "Set the 'Default callback URL' as : "
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:345
+msgid ""
+"After submit You will find Application Key and Application Secret just "
+"beside App Logo."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:368
+msgid "Instagram Activation:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:371
+msgid ""
+"Once all the Settings are properly done, Instagram Login can be activated to "
+"be available for further use."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:385
+msgid "Instagram Settings:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:388
+msgid "Client ID:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:391
+msgid "Client Secret:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:394
+msgid "How to create a Instagram App"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:398
+msgid "Fill out the required fields."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:399
+msgid "Set the 'Callback URL' for your application as :"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:400
+msgid ""
+"After submit You will find 'Client Id' and 'Cliend Secret' in 'Manage "
+"Clients' section"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:422
+msgid "Vkontakte Activation:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:425
+msgid ""
+"Once all the Settings are properly done, Vkontakte Login can be activated to "
+"be available for further use."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:439
+msgid "Vkontakte Settings:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:449
+msgid "How to create a VK App"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:452
+msgid "Create new Application."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:453
+msgid "At 'Category' You must set as 'Website'"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:454
+msgid ""
+"After Submit Go to 'Settings' and set the 'Authorized redirect URI' as : "
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:455
+msgid ""
+"Be sure 'Application status' is set as 'Application on and visible to all'!"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:456
+msgid "Save Settings and copy the Application ID and Application Secret!"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:479
+msgid "Google Activation:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:482
+msgid ""
+"Once all the Settings are properly done, Google Login can be activated to be "
+"available for further use."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:496
+msgid "Google Settings:"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:506
+msgid "How to create a Google App"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:508
+msgid "Go to: "
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:509
+msgid "Create new project."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:510
+msgid "Go to 'Social APIs' -> 'Google+ API' and Enable API"
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:511
+msgid ""
+"Go to 'Credentials' -> 'Credentials', at 'add credentials' select 'OAuth 2.0 "
+"clinet ID' "
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:512
+msgid "Select web application, and set the 'Authorized redirect URIs' as : "
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:513
+msgid ""
+"After Submit a popup will appear with 'Application ID' and 'Application "
+"Secret'."
+msgstr ""
+
+#: ../admin/includes/tabs/social_login.php:553
+msgid "Show Label"
+msgstr ""
+
+#: ../admin/includes/tabs/subscription_plan.php:24
+msgid "Registration 'Select Level' Showcase:"
+msgstr ""
+
+#: ../admin/includes/tabs/users.php:2
+msgid "Add New User"
+msgstr ""
+
+#: ../admin/includes/tabs/users.php:3
+msgid "Manage Users"
+msgstr ""
+
+#: ../admin/includes/tabs/users.php:95
+msgid "Add/Edit User"
+msgstr ""
+
+#: ../admin/includes/tabs/users.php:112
+msgid "MemberShip Users"
+msgstr ""
+
+#: ../admin/includes/tabs/users.php:118
+msgid "Click on this if download doesn't start automatically in 20 seconds!"
+msgstr ""
+
+#: ../admin/includes/tabs/users.php:131
+msgid "Search by Name or Username"
+msgstr ""
+
+#: ../admin/includes/tabs/users.php:157
+msgid "Email"
+msgstr ""
+
+#: ../admin/includes/tabs/users.php:159
+msgid "Registered Time"
+msgstr ""
+
+#: ../admin/includes/tabs/users.php:162
+msgid "ASC"
+msgstr ""
+
+#: ../admin/includes/tabs/users.php:163
+msgid "DESC"
+msgstr ""
+
+#: ../admin/includes/tabs/users.php:334
+msgid "Number of Users to Display:"
+msgstr ""
+
+#: ../admin/includes/tabs/users.php:372 ../admin/includes/tabs/users.php:397
+msgid "WP User Role"
+msgstr ""
+
+#: ../admin/includes/tabs/users.php:375 ../admin/includes/tabs/users.php:400
+#: ../utilities.php:2027
+msgid "Join Date"
+msgstr ""
+
+#: ../admin/includes/tabs/users.php:423
+msgid "Approve User"
+msgstr ""
+
+#: ../admin/includes/tabs/users.php:485
+msgid "Pending"
+msgstr ""
+
+#: ../admin/includes/tabs/users.php:517
+msgid "No Users Available."
+msgstr ""
+
+#: ../admin/includes/vc_map.php:10 ../admin/includes/vc_map.php:30
+#: ../admin/includes/vc_map.php:50 ../admin/includes/vc_map.php:70
+#: ../admin/includes/vc_map.php:90 ../admin/includes/vc_map.php:110
+#: ../admin/includes/vc_map.php:132 ../admin/includes/vc_map.php:160
+msgid "Content"
+msgstr ""
+
+#: ../admin/includes/vc_map.php:14
+msgid "Register Form Shortcode"
+msgstr ""
+
+#: ../admin/includes/vc_map.php:34
+msgid "Login Form Shortcode"
+msgstr ""
+
+#: ../admin/includes/vc_map.php:54
+msgid "Logout Link Shortcode"
+msgstr ""
+
+#: ../admin/includes/vc_map.php:74
+msgid "Password Recovery Shortcode"
+msgstr ""
+
+#: ../admin/includes/vc_map.php:94
+msgid "User Page Shortcode"
+msgstr ""
+
+#: ../admin/includes/vc_map.php:114
+msgid "Subscription Plan Shortcode"
+msgstr ""
+
+#: ../admin/includes/vc_map.php:136
+msgid "Type:"
+msgstr ""
+
+#: ../admin/includes/vc_map.php:162
+msgid "<p>I am test text block. Click edit button to change this text.</p>"
+msgstr ""
+
+#: ../admin/includes/vc_map.php:163
+msgid "Enter your content."
+msgstr ""
+
+#: ../classes/UserAddEdit.class.php:66
+msgid "Confirm Password"
+msgstr ""
+
+#: ../classes/UserAddEdit.class.php:67
+msgid "Last Name"
+msgstr ""
+
+#: ../classes/UserAddEdit.class.php:68
+msgid "First Name"
+msgstr ""
+
+#: ../classes/UserAddEdit.class.php:223
+msgid "Save Changes"
+msgstr ""
+
+#: ../classes/UserAddEdit.class.php:330
+msgid "Select Level:"
+msgstr ""
+
+#: ../classes/UserAddEdit.class.php:652 ../classes/ihcAccountPage.class.php:354
+msgid "Level Name"
+msgstr ""
+
+#: ../classes/UserAddEdit.class.php:652
+msgid "Acess Type"
+msgstr ""
+
+#: ../classes/UserAddEdit.class.php:652
+msgid "Start Time"
+msgstr ""
+
+#: ../classes/UserAddEdit.class.php:652 ../classes/ihcAccountPage.class.php:356
+msgid "Expire Time"
+msgstr ""
+
+#: ../classes/UserAddEdit.class.php:685
+msgid "Select Post For Account Page Overview:"
+msgstr ""
+
+#: ../classes/UserAddEdit.class.php:1279
+msgid "New Membership User registration on "
+msgstr ""
+
+#: ../classes/UserAddEdit.class.php:1281
+#, php-format
+msgid "New Membership User registration on: <strong> %s </strong>"
+msgstr ""
+
+#: ../classes/UserAddEdit.class.php:1282
+#, php-format
+msgid "<strong> Username:</strong> %s"
+msgstr ""
+
+#: ../classes/UserAddEdit.class.php:1283
+#, php-format
+msgid "<strong> Email:</strong> %s"
+msgstr ""
+
+#: ../classes/UserAddEdit.class.php:1285
+#, php-format
+msgid "<strong> Level:</strong> %s"
+msgstr ""
+
+#: ../classes/ihcAccountPage.class.php:77
+msgid "Welcome"
+msgstr ""
+
+#: ../classes/ihcAccountPage.class.php:191
+msgid "Update Profile"
+msgstr ""
+
+#: ../classes/ihcAccountPage.class.php:206
+msgid "Transactions History"
+msgstr ""
+
+#: ../classes/ihcAccountPage.class.php:291
+#: ../classes/ihcAccountPage.class.php:293
+#: ../classes/ihcAccountPage.class.php:295
+msgid "Completed"
+msgstr ""
+
+#: ../classes/ihcAccountPage.class.php:342
+msgid "No transactions available yet!"
+msgstr ""
+
+#: ../classes/ihcAccountPage.class.php:348
+msgid "Subscription Details"
+msgstr ""
+
+#: ../classes/ihcAccountPage.class.php:358
+msgid "Reccurence"
+msgstr ""
+
+#: ../classes/ihcAccountPage.class.php:367
+msgid "--"
+msgstr ""
+
+#: ../classes/ihcAccountPage.class.php:369 ../utilities.php:2459
+msgid "Expired"
+msgstr ""
+
+#: ../classes/ihcAccountPage.class.php:383
+#: ../classes/ihcAccountPage.class.php:385
+msgid "Renew"
+msgstr ""
+
+#: ../public/functions/lost_pass.php:24
+msgid "Password reset on "
+msgstr ""
+
+#: ../public/functions/lost_pass.php:25
+msgid "Your new password it's: "
+msgstr ""
+
+#: ../public/shortcodes.php:37
+msgid ""
+"<strong>Admin Info</strong>: Loggin Form is not showing up when You're "
+"logged."
+msgstr ""
+
+#: ../public/shortcodes.php:61
+msgid "Error"
+msgstr ""
+
+#: ../public/shortcodes.php:83
+msgid "Log Out"
+msgstr ""
+
+#: ../public/shortcodes.php:190
+msgid ""
+"<strong>Admin Info</strong>: Register Form is not showing up when You're "
+"logged."
+msgstr ""
+
+#: ../public/shortcodes.php:221
+msgid "Coupon Code"
+msgstr ""
+
+#: ../public/shortcodes.php:244
+msgid "Sign Up"
+msgstr ""
+
+#: ../public/shortcodes.php:253
+msgid "Purchased"
+msgstr ""
+
+#: ../utilities.php:427 ../utilities.php:436 ../utilities.php:445
+msgid "Username or E-mail"
+msgstr ""
+
+#: ../utilities.php:430 ../utilities.php:439 ../utilities.php:449
+msgid "Get New Password"
+msgstr ""
+
+#: ../utilities.php:503 ../utilities.php:563 ../utilities.php:616
+#: ../utilities.php:657 ../utilities.php:704 ../utilities.php:767
+#: ../utilities.php:821 ../utilities.php:913
+msgid "Lost your password?"
+msgstr ""
+
+#: ../utilities.php:516 ../utilities.php:537 ../utilities.php:595
+#: ../utilities.php:671 ../utilities.php:726 ../utilities.php:781
+#: ../utilities.php:834
+msgid "Log In"
+msgstr ""
+
+#: ../utilities.php:1256 ../utilities.php:1259
+msgid "Upload"
+msgstr ""
+
+#: ../utilities.php:2026
+msgid "WP User Roles"
+msgstr ""
+
+#: ../utilities.php:2447
+msgid "Active"
+msgstr ""
+
+#: ../utilities.php:2452
+msgid "Canceled"
+msgstr ""
+
+#: ../utilities.php:2457
+msgid "Hold"
+msgstr ""
+
+#: ../utilities.php:2461
+msgid "Inactive"
+msgstr ""

@@ -1,0 +1,1554 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PersianScript.ir\n"
+"POT-Creation-Date: 2015-07-24 12:52+0200\n"
+"PO-Revision-Date: 2015-09-28 20:54+0330\n"
+"Last-Translator: PersianScript TM <persianscript.ir@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Language: fa\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../utilities.php:286
+#: ../utilities.php:295
+#: ../utilities.php:304
+msgid "Username or E-mail"
+msgstr "نام کاربری یا ایمیل"
+
+#: ../utilities.php:289
+#: ../utilities.php:298
+#: ../utilities.php:308
+msgid "Get New Password"
+msgstr "دریافت پسورذ جدید"
+
+#: ../utilities.php:329
+#: ../utilities.php:380
+#: ../utilities.php:432
+#: ../utilities.php:480
+#: ../utilities.php:533
+#: ../utilities.php:588
+#: ../utilities.php:642
+#: ../admin/includes/tabs/list_payments.php:56
+#: ../admin/includes/tabs/list_payments.php:106
+#: ../admin/includes/tabs/opt_in.php:1
+#: ../admin/includes/tabs/users.php:181
+#: ../admin/includes/tabs/users.php:206
+msgid "Username"
+msgstr "نام کاربری"
+
+#: ../utilities.php:332
+#: ../utilities.php:383
+#: ../utilities.php:435
+#: ../utilities.php:483
+#: ../utilities.php:536
+#: ../utilities.php:591
+#: ../utilities.php:645
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Password"
+msgstr "کلمه عبور"
+
+#: ../utilities.php:339
+#: ../utilities.php:398
+#: ../utilities.php:440
+#: ../utilities.php:491
+#: ../utilities.php:566
+#: ../utilities.php:599
+#: ../utilities.php:652
+#: ../admin/includes/tabs/login.php:64
+msgid "Remember Me"
+msgstr "مرا به خاطر بسپار"
+
+#: ../utilities.php:351
+#: ../utilities.php:410
+#: ../utilities.php:462
+#: ../utilities.php:502
+#: ../utilities.php:548
+#: ../utilities.php:610
+#: ../utilities.php:664
+#: ../utilities.php:704
+#: ../admin/includes/functions.php:136
+#: ../admin/includes/functions.php:234
+#: ../classes/UserAddEdit.class.php:122
+msgid "Register"
+msgstr "ثبت نام"
+
+#: ../utilities.php:359
+#: ../utilities.php:418
+#: ../utilities.php:470
+#: ../utilities.php:510
+#: ../utilities.php:556
+#: ../utilities.php:618
+#: ../utilities.php:672
+#: ../utilities.php:712
+msgid "Lost your password?"
+msgstr "رمزتان را فراموش کرده اید؟"
+
+#: ../utilities.php:372
+#: ../utilities.php:392
+#: ../utilities.php:449
+#: ../utilities.php:524
+#: ../utilities.php:578
+#: ../utilities.php:632
+#: ../utilities.php:685
+msgid "Log In"
+msgstr "ورود"
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "sub item"
+msgstr "آیتم زیر"
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "Edit Menu Item"
+msgstr "ویرایش ایتم منو"
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "URL"
+msgstr "نشانی (URL)"
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "Navigation Label"
+msgstr "برچسب ناوبری"
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "Title Attribute"
+msgstr "صفت عنوان را وارد کنید"
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "Open link in a new window/tab"
+msgstr "باز شدن  لینک در تب یا پنجره جدید"
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "CSS Classes (optional)"
+msgstr "کلاس CSS  (اختیاری)"
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "Link Relationship (XFN)"
+msgstr "رابطه‌ی پیوند (XFN)"
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "Description"
+msgstr "توضیحات"
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "توضیحات در منوی نمایش داده می شود، در صورتی که پوسته  فعلی آن را پشتیبانی کند."
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "Move"
+msgstr "حرکت"
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "Up one"
+msgstr "یکی به بالا"
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "Down one"
+msgstr "یکی به پایین"
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "To the top"
+msgstr "بالای همه"
+
+#: ../admin/includes/custom-nav-menu.php:1
+#: ../admin/includes/vc_map.php:205
+#: ../admin/includes/meta_boxes/page_post_settings.php:54
+#: ../admin/includes/tabs/general.php:393
+#: ../classes/UserAddEdit.class.php:237
+msgid "Removing tag"
+msgstr "حذف برچسب"
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "Section"
+msgstr "بخش"
+
+#: ../admin/includes/custom-nav-menu.php:1
+#: ../admin/includes/tabs/general.php:354
+msgid "Block Menu Item Only"
+msgstr "تنها بلوک آیتم های منو"
+
+#: ../admin/includes/custom-nav-menu.php:1
+#: ../admin/includes/tabs/general.php:355
+msgid "Show Menu Item Only"
+msgstr "فقط نمایش آیتم های منو"
+
+#: ../admin/includes/custom-nav-menu.php:1
+#: ../admin/includes/meta_boxes/page_post_settings.php:15
+msgid "for"
+msgstr "برای"
+
+#: ../admin/includes/custom-nav-menu.php:1
+#: ../admin/includes/vc_map.php:178
+#: ../admin/includes/meta_boxes/page_post_settings.php:22
+#: ../admin/includes/tabs/block_url.php:5
+#: ../admin/includes/tabs/general.php:361
+msgid "All"
+msgstr "همه"
+
+#: ../admin/includes/custom-nav-menu.php:1
+#: ../admin/includes/vc_map.php:178
+#: ../admin/includes/meta_boxes/page_post_settings.php:22
+#: ../admin/includes/tabs/block_url.php:5
+#: ../admin/includes/tabs/general.php:361
+msgid "Registered Users"
+msgstr "کاربران ثبت نام شده"
+
+#: ../admin/includes/custom-nav-menu.php:1
+#: ../admin/includes/vc_map.php:178
+#: ../admin/includes/meta_boxes/page_post_settings.php:22
+#: ../admin/includes/tabs/block_url.php:5
+#: ../admin/includes/tabs/general.php:361
+msgid "Unregistered Users"
+msgstr "کاربر عضو نشده"
+
+#: ../admin/includes/custom-nav-menu.php:1
+#, php-format
+msgid "Original: %s"
+msgstr "ارجینال : %s"
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "Remove"
+msgstr "حذف"
+
+#: ../admin/includes/custom-nav-menu.php:1
+msgid "Cancel"
+msgstr "انصراف"
+
+#: ../admin/includes/functions.php:134
+msgid "Default Redirect"
+msgstr "ریدایرکت"
+
+#: ../admin/includes/functions.php:135
+#: ../admin/includes/functions.php:236
+msgid "Login"
+msgstr "ورود"
+
+#: ../admin/includes/functions.php:137
+#: ../admin/includes/functions.php:235
+msgid "Lost Password"
+msgstr "فراموشی کلمه عبور"
+
+#: ../admin/includes/functions.php:138
+#: ../admin/includes/functions.php:238
+msgid "LogOut"
+msgstr "خروح"
+
+#: ../admin/includes/functions.php:139
+#: ../admin/includes/functions.php:239
+msgid "Account User"
+msgstr "اکانت کاربر"
+
+#: ../admin/includes/functions.php:140
+#: ../admin/includes/functions.php:240
+msgid "TOS"
+msgstr "قوانین و مقررات"
+
+#: ../admin/includes/functions.php:141
+#: ../admin/includes/popup-forms.php:15
+#: ../admin/includes/vc_map.php:105
+#: ../admin/includes/tabs/register.php:71
+msgid "Subscription Plan"
+msgstr "طرح اشتراک"
+
+#: ../admin/includes/functions.php:155
+msgid "Default"
+msgstr "پیشفرض"
+
+#: ../admin/includes/functions.php:155
+#: ../admin/includes/functions.php:170
+#: ../admin/includes/meta_boxes/default_pages.php:21
+msgid "Page"
+msgstr "برگه"
+
+#: ../admin/includes/functions.php:155
+msgid "Not set!"
+msgstr "تنظیم نشده!"
+
+#: ../admin/includes/functions.php:175
+msgid "Some of the Default Pages are NOT Set:"
+msgstr "برخی از پیش فرض صفحات را ندارند تنظیم:"
+
+#: ../admin/includes/functions.php:197
+msgid "Register Page"
+msgstr "برگه - ثبت نام"
+
+#: ../admin/includes/functions.php:200
+msgid "Lost Password Page"
+msgstr "صفجه فراموشی کلمه عبور"
+
+#: ../admin/includes/functions.php:203
+msgid "Login Page"
+msgstr "صفحه ورود"
+
+#: ../admin/includes/functions.php:206
+msgid "Redirect Page."
+msgstr "صفحه بازگشت"
+
+#: ../admin/includes/functions.php:206
+msgid "You can only Replace the content."
+msgstr "شما فقط می توانید محتوای جایگزین کنید."
+
+#: ../admin/includes/functions.php:209
+msgid "Logout Page"
+msgstr "صفحه خروج"
+
+#: ../admin/includes/functions.php:212
+#: ../admin/includes/popup-forms.php:14
+msgid "User Page"
+msgstr "صفحه کاربر"
+
+#: ../admin/includes/functions.php:215
+msgid "TOS Page"
+msgstr "صفجه قوانین و مقررات"
+
+#: ../admin/includes/functions.php:218
+msgid "Subscription Plan Page"
+msgstr "صفحه عضویت"
+
+#: ../admin/includes/functions.php:225
+msgid "This Page is set as:"
+msgstr "این صفحه به عنوان مجموعه:"
+
+#: ../admin/includes/functions.php:237
+msgid "Redirect"
+msgstr "بازگشت"
+
+#: ../admin/includes/functions.php:241
+msgid "Subscription"
+msgstr "مشترک شدن"
+
+#: ../admin/includes/manage-page.php:10
+msgid "Users"
+msgstr "کاربران"
+
+#: ../admin/includes/manage-page.php:11
+msgid "Levels"
+msgstr "سطح"
+
+#: ../admin/includes/manage-page.php:12
+msgid "Payment Services"
+msgstr "سرویس پرداخت"
+
+#: ../admin/includes/manage-page.php:13
+#: ../admin/includes/tabs/locker.php:159
+msgid "Inside Lockers"
+msgstr "قفل کننده ها"
+
+#: ../admin/includes/manage-page.php:14
+#: ../admin/includes/popup-forms.php:10
+#: ../admin/includes/vc_map.php:5
+#: ../admin/includes/vc_map.php:8
+#: ../admin/includes/tabs/register.php:22
+msgid "Register Form"
+msgstr "فرم ثبت نام"
+
+#: ../admin/includes/manage-page.php:15
+#: ../admin/includes/popup-forms.php:11
+#: ../admin/includes/vc_map.php:25
+#: ../admin/includes/vc_map.php:28
+#: ../admin/includes/tabs/locker.php:81
+#: ../admin/includes/tabs/login.php:23
+msgid "Login Form"
+msgstr "فرم ورود"
+
+#: ../admin/includes/manage-page.php:16
+msgid "URL Blocks"
+msgstr "URL بلوک"
+
+#: ../admin/includes/manage-page.php:17
+msgid "Transactions"
+msgstr "تراکنش‌ها"
+
+#: ../admin/includes/manage-page.php:18
+msgid "Opt-in Settings"
+msgstr "تنظیمات ایمیل"
+
+#: ../admin/includes/manage-page.php:19
+msgid "General Options"
+msgstr "تنظیمات عمومی"
+
+#: ../admin/includes/manage-page.php:20
+msgid "Help"
+msgstr "راهنما"
+
+#: ../admin/includes/popup-forms.php:12
+#: ../admin/includes/vc_map.php:45
+#: ../admin/includes/vc_map.php:48
+msgid "Logout Button"
+msgstr "دکمه خروج از سیستم"
+
+#: ../admin/includes/popup-forms.php:13
+#: ../admin/includes/vc_map.php:65
+#: ../admin/includes/vc_map.php:68
+#: ../admin/includes/vc_map.php:88
+#: ../admin/includes/vc_map.php:108
+msgid "Password Recovery"
+msgstr "بازیابی كلمه عبور"
+
+#: ../admin/includes/popup-locker.php:4
+#: ../admin/includes/vc_map.php:127
+#: ../admin/includes/vc_map.php:130
+msgid "Locker"
+msgstr "قفل کننده"
+
+#: ../admin/includes/popup-locker.php:12
+#: ../admin/includes/vc_map.php:139
+msgid "Show Content Only For"
+msgstr "نمایش محتوا فقط برای"
+
+#: ../admin/includes/popup-locker.php:13
+#: ../admin/includes/vc_map.php:139
+msgid "Hide Content Only For"
+msgstr "مخفی کردن محتوا فقط برای"
+
+#: ../admin/includes/popup-locker.php:18
+#: ../admin/includes/vc_map.php:144
+#: ../admin/includes/tabs/block_url.php:43
+#: ../admin/includes/tabs/block_url.php:149
+msgid "Target Users:"
+msgstr "کاربران هدف:"
+
+#: ../admin/includes/popup-locker.php:49
+#: ../admin/includes/vc_map.php:151
+msgid "Choose Locker:"
+msgstr "انتخاب قفسه:"
+
+#: ../admin/includes/popup-locker.php:66
+#: ../admin/includes/vc_map.php:230
+msgid "No Lockers Available."
+msgstr "قفل کننده ای موجود نیست."
+
+#: ../admin/includes/popup-locker.php:76
+#: ../admin/includes/tabs/locker.php:177
+#: ../admin/includes/tabs/locker.php:187
+msgid "Preview"
+msgstr "پیش نمایش"
+
+#: ../admin/includes/vc_map.php:10
+#: ../admin/includes/vc_map.php:30
+#: ../admin/includes/vc_map.php:50
+#: ../admin/includes/vc_map.php:70
+#: ../admin/includes/vc_map.php:90
+#: ../admin/includes/vc_map.php:110
+#: ../admin/includes/vc_map.php:132
+#: ../admin/includes/vc_map.php:160
+msgid "Content"
+msgstr "محتوا"
+
+#: ../admin/includes/vc_map.php:14
+msgid "Register Form Shortcode"
+msgstr "کد کوتاه فرم ثبت نام"
+
+#: ../admin/includes/vc_map.php:34
+msgid "Login Form Shortcode"
+msgstr "کد کوتاه فرم ورود"
+
+#: ../admin/includes/vc_map.php:54
+msgid "Logout Link Shortcode"
+msgstr "شورت کد لینک حروج"
+
+#: ../admin/includes/vc_map.php:74
+msgid "Password Recovery Shortcode"
+msgstr "کد بازیابی كلمه عبور"
+
+#: ../admin/includes/vc_map.php:85
+msgid "Account Page"
+msgstr "صفحه حساب کاربری"
+
+#: ../admin/includes/vc_map.php:94
+msgid "User Page Shortcode"
+msgstr "کد صفحه کاربر"
+
+#: ../admin/includes/vc_map.php:114
+msgid "Subscription Plan Shortcode"
+msgstr "کد طرح اشتراک"
+
+#: ../admin/includes/vc_map.php:136
+msgid "Type:"
+msgstr "نوع :"
+
+#: ../admin/includes/vc_map.php:162
+msgid "<p>I am test text block. Click edit button to change this text.</p>"
+msgstr "<p> من متن آزمایشی برای نقل قول هستم. برای تغییر این متن بر روی دکمه ویرایش کلیک کنید.. </p>"
+
+#: ../admin/includes/vc_map.php:163
+msgid "Enter your content."
+msgstr "محتوا را وارد نمایید"
+
+#: ../admin/includes/meta_boxes/default_pages.php:15
+msgid "Set the Page as:"
+msgstr "تنظیم صفحه عنوان:"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:8
+msgid "Show Page Only"
+msgstr "فقط نمایش صفحه"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:9
+msgid "Block Page Only"
+msgstr "تنها بلوک صفحه"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:71
+msgid "If is not allow"
+msgstr "اگر اجازه نمی دهد"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:73
+msgid "Redirect the Page"
+msgstr "صفحه بازگشت"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:73
+msgid "Replace the Content"
+msgstr "به جای محتوای"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:99
+msgid "To:"
+msgstr "به:"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:108
+msgid "default"
+msgstr "پیشفرض"
+
+#: ../admin/includes/meta_boxes/page_post_settings.php:130
+msgid "Add the replacement content into the \"Replace Content\" Editor box."
+msgstr "اضافه کردن محتوای جایگزین را به \"جایگزین محتوای\" جعبه ویرایشگر."
+
+#: ../admin/includes/tabs/block_url.php:15
+msgid "Entire URL"
+msgstr "نشانی (URL)"
+
+#: ../admin/includes/tabs/block_url.php:16
+msgid "Based on Keywords"
+msgstr "بر اساس کلمات کلیدی"
+
+#: ../admin/includes/tabs/block_url.php:24
+#: ../admin/includes/tabs/block_url.php:90
+msgid "Blocked URL"
+msgstr "URL مسدود شده"
+
+#: ../admin/includes/tabs/block_url.php:35
+#: ../admin/includes/tabs/block_url.php:141
+msgid "Add new Restriction"
+msgstr "اضافه کردن محدودیت های جدید"
+
+#: ../admin/includes/tabs/block_url.php:38
+msgid "URL:"
+msgstr "آدرس:"
+
+#: ../admin/includes/tabs/block_url.php:60
+#: ../admin/includes/tabs/block_url.php:166
+msgid "Redirect to:"
+msgstr "تغییر مسیر به:"
+
+#: ../admin/includes/tabs/block_url.php:78
+#: ../admin/includes/tabs/block_url.php:182
+#: ../admin/includes/tabs/levels.php:127
+#: ../admin/includes/tabs/levels.php:278
+#: ../admin/includes/tabs/register.php:448
+#: ../admin/includes/tabs/users.php:92
+msgid "Add New"
+msgstr "افزودن تازه"
+
+#: ../admin/includes/tabs/block_url.php:91
+#: ../admin/includes/tabs/block_url.php:195
+msgid "Target Users"
+msgstr "کاربران هدف:"
+
+#: ../admin/includes/tabs/block_url.php:92
+#: ../admin/includes/tabs/block_url.php:196
+msgid "Redirect To"
+msgstr "هدایت به"
+
+#: ../admin/includes/tabs/block_url.php:93
+#: ../admin/includes/tabs/block_url.php:197
+#: ../admin/includes/tabs/levels.php:225
+#: ../admin/includes/tabs/list_payments.php:96
+#: ../admin/includes/tabs/list_payments.php:146
+#: ../admin/includes/tabs/locker.php:178
+#: ../admin/includes/tabs/locker.php:188
+#: ../admin/includes/tabs/register.php:320
+#: ../admin/includes/tabs/register.php:332
+#: ../admin/includes/tabs/users.php:151
+#: ../admin/includes/tabs/users.php:239
+#: ../admin/includes/tabs/users.php:314
+msgid "Delete"
+msgstr "حذف"
+
+#: ../admin/includes/tabs/block_url.php:144
+msgid "Keyword:"
+msgstr "کلید واژه:"
+
+#: ../admin/includes/tabs/block_url.php:194
+msgid "Blocked URL That Contains"
+msgstr "URL مسدود شده است که شامل"
+
+#: ../admin/includes/tabs/dashboard.php:8
+msgid "Dashboard Overall"
+msgstr "داشبورد"
+
+#: ../admin/includes/tabs/dashboard.php:21
+msgid "Total Users"
+msgstr "کل  کابران"
+
+#: ../admin/includes/tabs/dashboard.php:30
+msgid "Top Level"
+msgstr "سطح بالا"
+
+#: ../admin/includes/tabs/dashboard.php:35
+msgid "N/A"
+msgstr "نامشخص"
+
+#: ../admin/includes/tabs/dashboard.php:53
+msgid "Total Number of Transactions"
+msgstr "تعداد کل معاملات"
+
+#: ../admin/includes/tabs/dashboard.php:69
+msgid "Total Amount of Transactions"
+msgstr "مقدار کل معاملات"
+
+#: ../admin/includes/tabs/dashboard.php:85
+msgid "Total Members per Level"
+msgstr "مجموع کاربران در هر سطح"
+
+#: ../admin/includes/tabs/dashboard.php:89
+#: ../admin/includes/tabs/dashboard.php:102
+#: ../admin/includes/tabs/dashboard.php:203
+#: ../admin/includes/tabs/dashboard.php:204
+msgid "Not enough data available."
+msgstr "هیچ معامله ای انجام نشده"
+
+#: ../admin/includes/tabs/dashboard.php:98
+msgid "Levels By Transactions"
+msgstr "سطوح با معاملات"
+
+#: ../admin/includes/tabs/dashboard.php:116
+msgid "Last 5 Registered Users:"
+msgstr "آخرین 5 کاربر عضو:"
+
+#: ../admin/includes/tabs/dashboard.php:141
+msgid "Register on"
+msgstr "ثبت نام:"
+
+#: ../admin/includes/tabs/dashboard.php:153
+msgid "Not Registered Users available."
+msgstr "هیچ کاربری در دسترس نیست."
+
+#: ../admin/includes/tabs/dashboard.php:170
+msgid "Last 5 Transactions:"
+msgstr "آخرین 5 معاملات:"
+
+#: ../admin/includes/tabs/dashboard.php:193
+#: ../admin/includes/tabs/list_payments.php:176
+msgid "Unknown Name"
+msgstr "نام ناشناخته"
+
+#: ../admin/includes/tabs/dashboard.php:199
+msgid "Payment on"
+msgstr "پرداخت در"
+
+#: ../admin/includes/tabs/general.php:2
+msgid "Defaults Settings"
+msgstr "تنظیمات پیشفرض"
+
+#: ../admin/includes/tabs/general.php:3
+msgid "Captcha"
+msgstr "کد امنیتی"
+
+#: ../admin/includes/tabs/general.php:4
+#: ../admin/includes/tabs/levels.php:4
+msgid "Subscription Settings"
+msgstr "تنظیمات اشتراک"
+
+#: ../admin/includes/tabs/general.php:5
+msgid "Messages"
+msgstr "پیام ها"
+
+#: ../admin/includes/tabs/general.php:6
+msgid "Menus"
+msgstr "منوها"
+
+#: ../admin/includes/tabs/general.php:22
+msgid "Default Pages:"
+msgstr "برگه پیشفرض"
+
+#: ../admin/includes/tabs/general.php:26
+msgid "Register:"
+msgstr "ثبت نام:"
+
+#: ../admin/includes/tabs/general.php:42
+msgid "Subscription Plan:"
+msgstr "طرح اشتراک:"
+
+#: ../admin/includes/tabs/general.php:58
+msgid "Login Page:"
+msgstr "صفحه ورود"
+
+#: ../admin/includes/tabs/general.php:74
+msgid "Logout Page:"
+msgstr "صفحه خروج"
+
+#: ../admin/includes/tabs/general.php:90
+msgid "User Account Page:"
+msgstr "صفحه حساب کاربری"
+
+#: ../admin/includes/tabs/general.php:106
+msgid "TOS Page:"
+msgstr "قوانین و مقررات"
+
+#: ../admin/includes/tabs/general.php:122
+msgid "Lost Password:"
+msgstr "فراموشی کلمه عبور:"
+
+#: ../admin/includes/tabs/general.php:138
+#: ../admin/includes/tabs/general.php:211
+#: ../admin/includes/tabs/general.php:235
+#: ../admin/includes/tabs/general.php:271
+#: ../admin/includes/tabs/general.php:280
+#: ../admin/includes/tabs/general.php:307
+#: ../admin/includes/tabs/general.php:413
+#: ../admin/includes/tabs/locker.php:44
+#: ../admin/includes/tabs/locker.php:71
+#: ../admin/includes/tabs/locker.php:90
+#: ../admin/includes/tabs/locker.php:114
+#: ../admin/includes/tabs/locker.php:131
+#: ../admin/includes/tabs/login.php:50
+#: ../admin/includes/tabs/login.php:77
+#: ../admin/includes/tabs/login.php:86
+#: ../admin/includes/tabs/login.php:131
+#: ../admin/includes/tabs/opt_in.php:1
+#: ../admin/includes/tabs/payment_settings.php:57
+#: ../admin/includes/tabs/payment_settings.php:89
+#: ../admin/includes/tabs/register.php:58
+#: ../admin/includes/tabs/register.php:162
+#: ../admin/includes/tabs/register.php:174
+#: ../admin/includes/tabs/register.php:188
+#: ../admin/includes/tabs/register.php:286
+#: ../admin/includes/tabs/register.php:420
+msgid "Save"
+msgstr "ذخیره"
+
+#: ../admin/includes/tabs/general.php:144
+msgid "Default Redirects"
+msgstr "ریدایرکت پیشفرض"
+
+#: ../admin/includes/tabs/general.php:147
+msgid "Default Redirect Page:"
+msgstr "صفخه ریدایرکت پیشفرض"
+
+#: ../admin/includes/tabs/general.php:163
+msgid "After LogOut:"
+msgstr "پس از خروج:"
+
+#: ../admin/includes/tabs/general.php:165
+#: ../admin/includes/tabs/general.php:181
+#: ../admin/includes/tabs/general.php:197
+msgid "Do Not Redirect"
+msgstr "تغییر مسیر نده."
+
+#: ../admin/includes/tabs/general.php:179
+msgid "After Registration:"
+msgstr "بعد از ثبت نام:"
+
+#: ../admin/includes/tabs/general.php:195
+msgid "After Login:"
+msgstr "پس از ورود :"
+
+#: ../admin/includes/tabs/general.php:228
+msgid "Public Key:"
+msgstr "کلید عمومی:"
+
+#: ../admin/includes/tabs/general.php:231
+msgid "Private Key:"
+msgstr "کلید خصوصی:"
+
+#: ../admin/includes/tabs/general.php:233
+msgid "Get Public and Private Keys from"
+msgstr "دریافت کلید عمومی و خصوصی از"
+
+#: ../admin/includes/tabs/general.php:233
+msgid "here"
+msgstr "اینجا"
+
+#: ../admin/includes/tabs/general.php:249
+msgid "Registration 'Select Level' Showcase:"
+msgstr "ثبت نام \"انتخاب سطح 'نمایشگاه:"
+
+#: ../admin/includes/tabs/general.php:252
+msgid "Select Template:"
+msgstr "انتخاب قالب"
+
+#: ../admin/includes/tabs/general.php:254
+#: ../admin/includes/tabs/general.php:255
+#: ../admin/includes/tabs/general.php:256
+#: ../admin/includes/tabs/general.php:257
+#: ../admin/includes/tabs/login.php:13
+#: ../admin/includes/tabs/register.php:36
+#: ../admin/includes/tabs/register.php:37
+msgid "Template"
+msgstr "پوسته"
+
+#: ../admin/includes/tabs/general.php:276
+#: ../admin/includes/tabs/locker.php:127
+#: ../admin/includes/tabs/login.php:82
+msgid "Custom CSS"
+msgstr "CSS سفارشی"
+
+#: ../admin/includes/tabs/general.php:299
+#: ../admin/includes/tabs/login.php:8
+#: ../admin/includes/tabs/register.php:6
+#: ../admin/includes/tabs/register.php:207
+msgid "Custom Messages"
+msgstr "پیام های سفارشی"
+
+#: ../admin/includes/tabs/general.php:302
+msgid "Update Successfully Message:"
+msgstr "بروز رسانی با موفقیت انجام شد!"
+
+#: ../admin/includes/tabs/general.php:319
+msgid "Customize Your Menu"
+msgstr "سفارشی کردن منو شما"
+
+#: ../admin/includes/tabs/general.php:322
+msgid "Select a Menu"
+msgstr "انتخاب منو"
+
+#: ../admin/includes/tabs/general.php:349
+msgid "link"
+msgstr "لینک"
+
+#: ../admin/includes/tabs/general.php:359
+msgid "for:"
+msgstr "برای:"
+
+#: ../admin/includes/tabs/help.php:6
+msgid "Help Section"
+msgstr "بخش راهنما"
+
+#: ../admin/includes/tabs/help.php:13
+msgid "Contact Support"
+msgstr "تماس با پشتیبانی"
+
+#: ../admin/includes/tabs/help.php:18
+msgid "In order to contact Indeed support team you need to create a ticket providing all the necessary details via our support system:"
+msgstr "به منظور تماس با تیم پشتیبانی در واقع شما نیاز به ایجاد یک بلیط ارائه تمام جزئیات لازم از طریق سیستم حمایت از ما:"
+
+#: ../admin/includes/tabs/help.php:21
+msgid "Submit Ticket"
+msgstr "ارسال درخواست"
+
+#: ../admin/includes/tabs/help.php:29
+msgid "Documentation"
+msgstr "مستندات"
+
+#: ../admin/includes/tabs/levels.php:2
+msgid "Add New Level"
+msgstr "افزودن سطح جدید"
+
+#: ../admin/includes/tabs/levels.php:3
+msgid "Manage Levels"
+msgstr "مدیریت سطح"
+
+#: ../admin/includes/tabs/levels.php:24
+msgid "Edit Level:"
+msgstr "ویرایش سطح:"
+
+#: ../admin/includes/tabs/levels.php:37
+msgid "Add New Level:"
+msgstr "اضافه کردن سطح جدید:"
+
+#: ../admin/includes/tabs/levels.php:46
+msgid "Level Slug"
+msgstr "سطح"
+
+#: ../admin/includes/tabs/levels.php:51
+msgid "Level Label"
+msgstr "سطح برچسب"
+
+#: ../admin/includes/tabs/levels.php:56
+msgid "Payment Type"
+msgstr "نوع پرداخت"
+
+#: ../admin/includes/tabs/levels.php:60
+msgid "Free"
+msgstr "رایگان"
+
+#: ../admin/includes/tabs/levels.php:61
+msgid "Payment"
+msgstr "پرداختی"
+
+#: ../admin/includes/tabs/levels.php:73
+msgid "Level Price"
+msgstr "سطح قیمت"
+
+#: ../admin/includes/tabs/levels.php:87
+msgid "Price Text"
+msgstr "متن قیمت"
+
+#: ../admin/includes/tabs/levels.php:89
+msgid "Displayed on the Level Front-end List."
+msgstr "برچسب را در صفحه جلو نمایش نده"
+
+#: ../admin/includes/tabs/levels.php:93
+msgid "Level Description:"
+msgstr "شرح سطح:"
+
+#: ../admin/includes/tabs/levels.php:108
+msgid "Save Level"
+msgstr "ذخیره سطح"
+
+#: ../admin/includes/tabs/levels.php:141
+#: ../admin/includes/tabs/levels.php:265
+msgid "MemberShip Levels"
+msgstr "سطوح کاربری"
+
+#: ../admin/includes/tabs/levels.php:146
+msgid "ReOrder Levels"
+msgstr "مرتب کردن سطوح"
+
+#: ../admin/includes/tabs/levels.php:148
+msgid "Now You can reorder level list."
+msgstr "در حال حاضر شما می توانید لیست سطح دوباره مرتب کنید."
+
+#: ../admin/includes/tabs/levels.php:156
+#: ../admin/includes/tabs/levels.php:186
+#: ../admin/includes/tabs/register.php:313
+#: ../admin/includes/tabs/register.php:325
+msgid "Slug"
+msgstr "شرح"
+
+#: ../admin/includes/tabs/levels.php:161
+#: ../admin/includes/tabs/levels.php:191
+#: ../admin/includes/tabs/list_payments.php:61
+#: ../admin/includes/tabs/list_payments.php:111
+#: ../admin/includes/tabs/locker.php:174
+#: ../admin/includes/tabs/locker.php:184
+#: ../admin/includes/tabs/users.php:184
+#: ../admin/includes/tabs/users.php:209
+msgid "Name"
+msgstr "نام"
+
+#: ../admin/includes/tabs/levels.php:166
+#: ../admin/includes/tabs/levels.php:196
+msgid "Type"
+msgstr "نوع"
+
+#: ../admin/includes/tabs/levels.php:171
+#: ../admin/includes/tabs/levels.php:201
+msgid "Price"
+msgstr "قیمت"
+
+#: ../admin/includes/tabs/levels.php:176
+#: ../admin/includes/tabs/levels.php:206
+msgid "Subscription Link"
+msgstr "لینک ثبت نام و اشتراک"
+
+#: ../admin/includes/tabs/levels.php:223
+#: ../admin/includes/tabs/locker.php:176
+#: ../admin/includes/tabs/locker.php:186
+#: ../admin/includes/tabs/register.php:319
+#: ../admin/includes/tabs/register.php:331
+#: ../admin/includes/tabs/users.php:237
+msgid "Edit"
+msgstr "ویرایش"
+
+#: ../admin/includes/tabs/levels.php:245
+msgid "Your Content Here"
+msgstr "محتوای خود را اینجا وارد کنید."
+
+#: ../admin/includes/tabs/levels.php:268
+msgid "No Levels available! Please create your first Level."
+msgstr "هیچ سطحی در دسترس نیست! لطفا سطح اول خود را ایجاد کنید."
+
+#: ../admin/includes/tabs/list_payments.php:15
+msgid "Back to Payment List"
+msgstr "برگشت به فهرست پرداخت"
+
+#: ../admin/includes/tabs/list_payments.php:18
+msgid "Payment Details"
+msgstr "جزئيات پراخت"
+
+#: ../admin/includes/tabs/list_payments.php:43
+msgid "Transations List"
+msgstr "لیست تراکنشها"
+
+#: ../admin/includes/tabs/list_payments.php:66
+#: ../admin/includes/tabs/list_payments.php:116
+#: ../admin/includes/tabs/users.php:187
+#: ../admin/includes/tabs/users.php:212
+msgid "E-mail"
+msgstr "ایمیل"
+
+#: ../admin/includes/tabs/list_payments.php:71
+#: ../admin/includes/tabs/list_payments.php:121
+#: ../admin/includes/tabs/users.php:190
+#: ../admin/includes/tabs/users.php:215
+msgid "Level"
+msgstr "سطح"
+
+#: ../admin/includes/tabs/list_payments.php:76
+#: ../admin/includes/tabs/list_payments.php:126
+msgid "Amount"
+msgstr "مبلغ"
+
+#: ../admin/includes/tabs/list_payments.php:81
+#: ../admin/includes/tabs/list_payments.php:131
+msgid "Status"
+msgstr "وضعیت"
+
+#: ../admin/includes/tabs/list_payments.php:86
+#: ../admin/includes/tabs/list_payments.php:136
+msgid "Details"
+msgstr "جزئیات"
+
+#: ../admin/includes/tabs/list_payments.php:91
+#: ../admin/includes/tabs/list_payments.php:141
+msgid "Date"
+msgstr "تاریخ"
+
+#: ../admin/includes/tabs/list_payments.php:204
+msgid "View Details"
+msgstr "نمایش جزئیات"
+
+#: ../admin/includes/tabs/list_payments.php:226
+msgid "No Payments Available to show up!"
+msgstr "هیچ پرداختي در دسترس نيست."
+
+#: ../admin/includes/tabs/locker.php:6
+msgid "Add New Locker"
+msgstr "اضافه کردن قغل صفحه جدید "
+
+#: ../admin/includes/tabs/locker.php:7
+msgid "Manage Lockers"
+msgstr "مدیریت قفل ها"
+
+#: ../admin/includes/tabs/locker.php:38
+msgid "Locker Name"
+msgstr "نام قفسه"
+
+#: ../admin/includes/tabs/locker.php:50
+msgid "Locker Template"
+msgstr "قالب قفسه"
+
+#: ../admin/includes/tabs/locker.php:78
+#: ../admin/includes/tabs/login.php:59
+msgid "Additional Display Options"
+msgstr "گزینه های نمایش اضافی"
+
+#: ../admin/includes/tabs/locker.php:85
+msgid "Additional Links"
+msgstr "لینک های اضافی"
+
+#: ../admin/includes/tabs/locker.php:96
+msgid "Locker Messsage"
+msgstr "پیام قفل ها"
+
+#: ../admin/includes/tabs/locker.php:112
+#: ../admin/includes/tabs/register.php:479
+msgid "Update"
+msgstr "بروز رسانی"
+
+#: ../admin/includes/tabs/locker.php:120
+msgid "Locker Preview"
+msgstr "پیش نمایش قفل کننده"
+
+#: ../admin/includes/tabs/locker.php:173
+#: ../admin/includes/tabs/locker.php:183
+msgid "ID"
+msgstr "شناسایی"
+
+#: ../admin/includes/tabs/locker.php:175
+#: ../admin/includes/tabs/locker.php:185
+msgid "Templates"
+msgstr "قالب ها"
+
+#: ../admin/includes/tabs/locker.php:237
+msgid "No Lockers available! Please create your first Loker."
+msgstr "هیچ قفلی در دسترس نیست . یکی را ایجاد کنید !"
+
+#: ../admin/includes/tabs/login.php:7
+msgid "Login Showcase"
+msgstr "نمایشگاه ورود"
+
+#: ../admin/includes/tabs/login.php:34
+msgid "Showcase Display"
+msgstr "نمایشگاه ها"
+
+#: ../admin/includes/tabs/login.php:37
+msgid "Login Template:"
+msgstr "قالب های ورود"
+
+#: ../admin/includes/tabs/login.php:69
+msgid "Register Link"
+msgstr "لینک ثبت نام"
+
+#: ../admin/includes/tabs/login.php:73
+msgid "Lost your password"
+msgstr "گذرواژه خود را فراموش کرده اید"
+
+#: ../admin/includes/tabs/login.php:99
+msgid "Messages:"
+msgstr "پیغام ها:"
+
+#: ../admin/includes/tabs/login.php:102
+msgid "Login Messages"
+msgstr "پیام ورود"
+
+#: ../admin/includes/tabs/login.php:104
+#: ../admin/includes/tabs/login.php:120
+msgid "Successfully Message:"
+msgstr "موفقیت پیام:"
+
+#: ../admin/includes/tabs/login.php:108
+msgid "Default message for pending users:"
+msgstr "پیام پیشفرض برای کاربران در انتظار تایید"
+
+#: ../admin/includes/tabs/login.php:112
+#: ../admin/includes/tabs/login.php:125
+msgid "Error Message:"
+msgstr "پیام خطا:"
+
+#: ../admin/includes/tabs/login.php:118
+msgid "Reset Password Messages"
+msgstr "پیام بازیابی کلمه عبور"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Additional Main E-Mail"
+msgstr "اطلاعات اضافی ارسالی در ایمیل"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Auth Code"
+msgstr "کد تایید"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Get Your Auth Code From Here"
+msgstr "دریافت کد تایید خود از اینجا"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Unique List ID:"
+msgstr "شناسه (ID) منحصر بفرد"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Get Unique List ID"
+msgstr "لیست شناسه (ID) منحصر بفرد"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Connect"
+msgstr "اتصال"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "API Key"
+msgstr "کلید API"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Where can I find my API Key?"
+msgstr "از کجا کلید API بگریم؟"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "ID List"
+msgstr "لیست آیدی"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Where can I find List ID?"
+msgstr "از کجا می توانم فهرست ID را پیدا کنم؟"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Campaign Token"
+msgstr "کمپین رمز"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Where can I find Campaign Token?"
+msgstr "از کجا می توانم فهرست ID را پیدا کنم ؟"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Where can I find API Key ?"
+msgstr "از کجا می توانم فهرست ID را پیدا کنم ؟"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "List ID"
+msgstr "لیست آیدی"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "App ID"
+msgstr "آیدی  برنامه"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Where can I get my App ID?"
+msgstr "از کجا می توانم ID نرم افزار دریافت کنم؟"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "App Password"
+msgstr "نرم افزار رمز عبور"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Click on the list name:"
+msgstr "بر روی نام لیست کلیک کنید:"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Click on the list name and get the ID from the URL"
+msgstr "بر روی نام لیست کلیک کنید و ID از URL"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Get Lists"
+msgstr "دریافت لیست"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "List"
+msgstr "لیست"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Select Wysija List:"
+msgstr "انتخاب لیست:"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "No List available "
+msgstr "هیچ داده ای موجود نیست!!"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Select MyMail List:"
+msgstr "انتخاب لیست ایمیل من:"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "No List available"
+msgstr "هیچ داده ای موجود نیست!!"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Username Or Email:"
+msgstr "نام کاربری یا ایمیل"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Api Key:"
+msgstr "کلید API :"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "List Name:"
+msgstr "فهرست نام:"
+
+#: ../admin/includes/tabs/opt_in.php:1
+msgid "Saved E-mail List"
+msgstr "ذخیره شده لیست ایمیل"
+
+#: ../admin/includes/tabs/payment_settings.php:9
+msgid "Payments Services"
+msgstr "سرویس پرداخت"
+
+#: ../admin/includes/tabs/payment_settings.php:14
+msgid "Currency Settings:"
+msgstr "تنظیمات ارز:"
+
+#: ../admin/includes/tabs/payment_settings.php:63
+msgid "PayPal Settings:"
+msgstr "تنظیمات پی پال"
+
+#: ../admin/includes/tabs/payment_settings.php:66
+msgid "E-mail Address:"
+msgstr "آدرس ایمیل :"
+
+#: ../admin/includes/tabs/payment_settings.php:70
+msgid "Enable Sandbox"
+msgstr "فعال کردن حالت نمایشی"
+
+#: ../admin/includes/tabs/payment_settings.php:74
+msgid "Redirect Page after Payment:"
+msgstr "صفحه تغییر مسیر پس از پرداخت:"
+
+#: ../admin/includes/tabs/register.php:5
+msgid "Register Showcase"
+msgstr "ثبت نام نمایشگاه"
+
+#: ../admin/includes/tabs/register.php:7
+msgid "Custom Fields"
+msgstr "فیلد های سفارشی"
+
+#: ../admin/includes/tabs/register.php:32
+msgid "Design"
+msgstr "طراحی"
+
+#: ../admin/includes/tabs/register.php:39
+msgid "Register Template:"
+msgstr "قالب ثبت نام"
+
+#: ../admin/includes/tabs/register.php:65
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: ../admin/includes/tabs/register.php:68
+msgid "Choose Subscription Type:"
+msgstr "انتخاب نوع اشتراک :"
+
+#: ../admin/includes/tabs/register.php:70
+msgid "Predifined Level"
+msgstr "سطح"
+
+#: ../admin/includes/tabs/register.php:75
+msgid "Level assign to new user"
+msgstr "سطح اختصاص به کاربر جدید"
+
+#: ../admin/includes/tabs/register.php:77
+msgid "None"
+msgstr "هیچ"
+
+#: ../admin/includes/tabs/register.php:91
+msgid "Wordpress Role Assign to new users:"
+msgstr "نقش وردپرس اختصاص به کاربران جدید:"
+
+#: ../admin/includes/tabs/register.php:108
+msgid "Password Minimum Length"
+msgstr "حداقل طول رمز عبور؟"
+
+#: ../admin/includes/tabs/register.php:112
+msgid "Password Strength Options"
+msgstr "استحکام گذرواژه (رمز عبور)"
+
+#: ../admin/includes/tabs/register.php:114
+msgid "Standard"
+msgstr "استاندارد"
+
+#: ../admin/includes/tabs/register.php:115
+msgid "Characters and digits"
+msgstr "کاراکترها و ارقام"
+
+#: ../admin/includes/tabs/register.php:116
+msgid "Characters, digits, minimum one uppercase letter"
+msgstr "شخصیت ها، رقم، حداقل یک حرف بزرگ"
+
+#: ../admin/includes/tabs/register.php:122
+msgid "Notify admin address on every new registration"
+msgstr "اطلاع مدیر آدرس در هر ثبت نام جدید"
+
+#: ../admin/includes/tabs/register.php:129
+msgid "Enable Opt-In"
+msgstr "فعال کردن تکرار تایید"
+
+#: ../admin/includes/tabs/register.php:132
+msgid "Opt-In Type:"
+msgstr "انتخاب کردن در نوع:"
+
+#: ../admin/includes/tabs/register.php:139
+msgid "E-mail List"
+msgstr "فهرست پست الکترونیک"
+
+#: ../admin/includes/tabs/register.php:168
+msgid "Terms & Conditions (TOS) Label"
+msgstr "شرایط و ضوابط"
+
+#: ../admin/includes/tabs/register.php:180
+msgid "Custom CSS:"
+msgstr "سی اس اس سفارشی"
+
+#: ../admin/includes/tabs/register.php:212
+msgid "Error - Username is taken:"
+msgstr "نام کاربری مورد نظر شما قبلا ثبت گردیده است."
+
+#: ../admin/includes/tabs/register.php:217
+msgid "Error - Invalid Username:"
+msgstr "نام کاربری نامعتبر است"
+
+#: ../admin/includes/tabs/register.php:222
+msgid "Error - Email is taken:"
+msgstr "این نشانی رایانامه پیش از این گرفته شده است"
+
+#: ../admin/includes/tabs/register.php:227
+msgid "Error - Invalid Email Address:"
+msgstr "خطا: نام کاربری یا آدرس ایمیل اشتباه."
+
+#: ../admin/includes/tabs/register.php:232
+msgid "Error - Email Addresses did not Match:"
+msgstr "آدرس ایمیل تطابق ندارد، دوباره تلاش کنید"
+
+#: ../admin/includes/tabs/register.php:237
+msgid "Error - Password did not match:"
+msgstr "با عرض پوزش، رمز عبور شما مطابقت ندارد"
+
+#: ../admin/includes/tabs/register.php:242
+msgid "Error - Password Only Characters and Digits:"
+msgstr "<strong>خطا</strong>: شما رمز جدید خود را تنها یکبار وارد کردید"
+
+#: ../admin/includes/tabs/register.php:249
+msgid "Error - Password Min Length:"
+msgstr "<strong>خطا</strong>: رمز عبور باید حداقل"
+
+#: ../admin/includes/tabs/register.php:251
+msgid "Where {X} will be the minimum length of password."
+msgstr "که در آن {X} خواهد بود که حداقل طول رمز عبور."
+
+#: ../admin/includes/tabs/register.php:255
+msgid "Error - Password Characters, Digits and minimum one uppercase letter:"
+msgstr "رمز عبور باید حداقل 8 حرف باشد و تعداد حداقل 1 عدد و 1 حرف بزرگ باشد."
+
+#: ../admin/includes/tabs/register.php:260
+msgid "Error - Pending User:"
+msgstr "خطا - در انتظار کاربر:"
+
+#: ../admin/includes/tabs/register.php:265
+msgid "Error - Empty Required Fields:"
+msgstr "فیلدهای الزامی"
+
+#: ../admin/includes/tabs/register.php:270
+msgid "Error - ReCaptcha:"
+msgstr "<strong>خطا</strong>: کد امنیتی خصوصی تشخیص انسان از ربات معتبر نیست."
+
+#: ../admin/includes/tabs/register.php:275
+msgid "Error - TOS:"
+msgstr "خطا - قوانین و مقررات"
+
+#: ../admin/includes/tabs/register.php:280
+msgid "Success Message:"
+msgstr "ارسال موفقیت آمیز بود"
+
+#: ../admin/includes/tabs/register.php:301
+msgid "Add New Register Form Field"
+msgstr "فرم ثبت نام"
+
+#: ../admin/includes/tabs/register.php:306
+msgid "Registration form fields"
+msgstr "فیلدهای ثبت‌نام"
+
+#: ../admin/includes/tabs/register.php:314
+#: ../admin/includes/tabs/register.php:326
+msgid "Label"
+msgstr "برچسب"
+
+#: ../admin/includes/tabs/register.php:315
+#: ../admin/includes/tabs/register.php:327
+msgid "Field Type"
+msgstr "نوع زمینه"
+
+#: ../admin/includes/tabs/register.php:316
+#: ../admin/includes/tabs/register.php:328
+msgid "Use It!"
+msgstr "از این استفاده کن!"
+
+#: ../admin/includes/tabs/register.php:317
+#: ../admin/includes/tabs/register.php:329
+msgid "Required"
+msgstr "ضروری"
+
+#: ../admin/includes/tabs/register.php:318
+#: ../admin/includes/tabs/register.php:330
+msgid "Wordpress Native"
+msgstr "وردپرس بومی"
+
+#: ../admin/includes/tabs/register.php:359
+#: ../admin/includes/tabs/register.php:371
+msgid "Always"
+msgstr "همیشه"
+
+#: ../admin/includes/tabs/register.php:373
+msgid "Required When Selected"
+msgstr "مورد نیاز در هنگام انتخاب"
+
+#: ../admin/includes/tabs/register.php:384
+msgid "Yes"
+msgstr "بلی"
+
+#: ../admin/includes/tabs/register.php:385
+msgid "No"
+msgstr "خیر"
+
+#: ../admin/includes/tabs/register.php:431
+#: ../admin/includes/tabs/register.php:465
+msgid "User Custom Fields"
+msgstr "فیلد های سفارشی"
+
+#: ../admin/includes/tabs/register.php:434
+#: ../admin/includes/tabs/register.php:473
+msgid "Slug:"
+msgstr "شرح:"
+
+#: ../admin/includes/tabs/register.php:437
+#: ../admin/includes/tabs/register.php:476
+msgid "Field Label:"
+msgstr "برچسب زمینه"
+
+#: ../admin/includes/tabs/register.php:440
+msgid "Field Type:"
+msgstr "نوع قسمت:"
+
+#: ../admin/includes/tabs/users.php:2
+msgid "Add New User"
+msgstr "اضافه کردن کاربر جدید"
+
+#: ../admin/includes/tabs/users.php:3
+msgid "Manage Users"
+msgstr "مدیریت کاربران"
+
+#: ../admin/includes/tabs/users.php:79
+msgid "Add/Edit User"
+msgstr "اضافه کردن / ویرایش کاربر"
+
+#: ../admin/includes/tabs/users.php:96
+msgid "MemberShip Users"
+msgstr "عضویت کاربر"
+
+#: ../admin/includes/tabs/users.php:155
+msgid "Number of Users to Display:"
+msgstr "تعدادی از کاربران برای صفحه نمایش:"
+
+#: ../admin/includes/tabs/users.php:193
+#: ../admin/includes/tabs/users.php:218
+msgid "WP User Role"
+msgstr "نقش کاربری وردپرس"
+
+#: ../admin/includes/tabs/users.php:196
+#: ../admin/includes/tabs/users.php:221
+msgid "Join Date"
+msgstr "تاریخ عضویت"
+
+#: ../admin/includes/tabs/users.php:244
+msgid "Approve User"
+msgstr "پذیرفتن کاربر"
+
+#: ../admin/includes/tabs/users.php:292
+msgid "Pending"
+msgstr "در انتظار"
+
+#: ../admin/includes/tabs/users.php:318
+msgid "No Users Available."
+msgstr "هیچ کاربری در دسترس است."
+
+#: ../classes/UserAddEdit.class.php:125
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: ../classes/UserAddEdit.class.php:214
+msgid "Select Level:"
+msgstr "انتخاب سطح:"
+
+#: ../classes/UserAddEdit.class.php:655
+msgid "New User registration on "
+msgstr "ثبت نام کاربر جدید در"
+
+#: ../public/shortcodes.php:70
+msgid "Log Out"
+msgstr "حروج"
+
+#: ../public/shortcodes.php:152
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+#: ../public/shortcodes.php:157
+msgid "Update Profile"
+msgstr "بروز رسانی پروفایل"
+
+#: ../public/shortcodes.php:163
+msgid "Update Subscription Plan"
+msgstr "بروزرسانی اشتراک"
+
+#: ../public/subscription-layouts.php:23
+#: ../public/subscription-layouts.php:38
+#: ../public/subscription-layouts.php:54
+#: ../public/subscription-layouts.php:72
+msgid "Sign Up"
+msgstr "ثبت نام"
+
+#: ../public/functions/lost_pass.php:1
+msgid "Password reset on "
+msgstr "بازنشانی رمز عبور"
+
+#: ../public/functions/lost_pass.php:1
+msgid "Your new password it's: "
+msgstr "رمز جدید شما"
+
