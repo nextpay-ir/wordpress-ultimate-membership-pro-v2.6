@@ -44,8 +44,20 @@ if ( isset($_POST['trans_id']) && isset($_POST['order_id']) ){
 	$debug = FALSE;	
 	$path = str_replace('nextpay_ipn.php', '', __FILE__);
 	$log_file = $path . 'nextpay.log';
+    $options = array(
+                'cache_wsdl' => 0,
+                'encoding' => 'UTF-8',
+                'trace' => 1,
+                'stream_context' => stream_context_create(array(
+                            'ssl' => array(
+                            'verify_peer' => false,
+                            'verify_peer_name' => false,
+                            'allow_self_signed' => true
+                            )
+                    ))
+            );
 
-    $client = new SoapClient('https://api.nextpay.org/gateway/verify.wsdl', array('encoding' => 'UTF-8'));
+    $client = new SoapClient('https://api.nextpay.org/gateway/verify.wsdl', $options);
     $result = $client->PaymentVerification(
         array(
             'api_key' => $api_key,

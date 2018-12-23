@@ -59,9 +59,20 @@
     if ($currency == 'IRR')  {
         $level_arr['price'] = $level_arr['price']  / 10 ;
     }
+	$options = array(
+				'cache_wsdl' => 0,
+				'encoding' => 'UTF-8',
+				'trace' => 1,
+				'stream_context' => stream_context_create(array(
+							'ssl' => array(
+							'verify_peer' => false,
+							'verify_peer_name' => false,
+							'allow_self_signed' => true
+							)
+					))
+			);
 
-
-    $client = new SoapClient('https://api.nextpay.org/gateway/token.wsdl', array('encoding' => 'UTF-8'));
+    $client = new SoapClient('https://api.nextpay.org/gateway/token.wsdl', $options);
 
     $order_id = md5(uniqid(rand(), true));
     $result = $client->TokenGenerator(
